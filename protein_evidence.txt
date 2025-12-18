@@ -1,0 +1,4401 @@
+1_1	Hypothetical Protein
+1_2	aspartate kinase
+1_3	homoserine kinase
+1_4	threonine synthase
+1_5	Uncharacterized protein YaaX
+1_6	Protein of unknown function (DUF328)
+1_7	Sodium:alanine symporter family
+1_8	transaldolase
+1_9	Molybdopterin adenylyltransferase
+1_10	GPR1/FUN34/yaaH family
+1_11	UPF0174 protein YaaW {ECO:0000305}
+1_12	Protein of unknown function (DUF2541)
+1_13	chaperone protein DnaK
+1_14	chaperone protein DnaJ
+1_15	Putative transposase InsL for insertion sequence element IS186B
+1_16	Hypothetical Protein
+1_17	Putative transmembrane protein
+1_18	Na+/H+ antiporter NhaA
+1_19	Transcriptional activator protein NhaR
+1_20	IS1 transposase
+1_21	Insertion element IS1 5 protein InsA
+1_22	Hypothetical Protein
+1_23	riboflavin biosynthesis protein RibF
+1_24	isoleucine--tRNA ligase
+1_25	signal peptidase II
+1_26	FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase
+1_27	LytB protein
+1_28	Inosine-uridine preferring nucleoside hydrolase
+1_29	4-hydroxy-tetrahydrodipicolinate reductase
+1_30	carbamoyl-phosphate synthase, small subunit
+1_31	carbamoyl-phosphate synthase, large subunit
+1_32	Transcriptional activatory protein CaiF
+1_33	Carnitine operon protein CaiE {ECO:0000255|HAMAP-Rule:MF_01525}
+1_34	Enoyl-CoA hydratase/isomerase family
+1_35	AMP-binding enzyme
+1_36	L-carnitine CoA-transferase {ECO:0000255|HAMAP-Rule:MF_01050}
+1_37	Crotonobetainyl-CoA reductase {ECO:0000255|HAMAP-Rule:MF_01052}
+1_38	transporter, betaine/carnitine/choline transporter (BCCT) family
+1_39	Protein FixA
+1_40	Protein FixB {ECO:0000255|HAMAP-Rule:MF_01056}
+1_41	Protein FixC
+1_42	Ferredoxin-like protein FixX
+1_43	Sugar (and other) transporter
+1_44	Glutathione-regulated potassium-efflux system ancillary protein KefF {ECO:0000255|HAMAP-Rule:MF_01414}
+1_45	proton antiporter-2 (CPA2) family
+1_46	Dihydrofolate reductase
+1_47	bis(5'-nucleosyl)-tetraphosphatase (symmetrical)
+1_48	Protein ApaG {ECO:0000255|HAMAP-Rule:MF_00791}
+1_49	ribosomal RNA small subunit methyltransferase A
+1_50	4-hydroxythreonine-4-phosphate dehydrogenase PdxA
+1_51	Chaperone SurA {ECO:0000255|HAMAP-Rule:MF_01183}
+1_52	Organic solvent tolerance protein
+1_53	Co-chaperone protein DjlA {ECO:0000255|HAMAP-Rule:MF_01153, ECO:0000305}
+1_54	Protein YabP
+1_55	Hypothetical Protein
+1_56	pseudouridine synthase, RluA family
+1_57	RNA polymerase recycling family C-terminal
+1_58	Catabolite repressor/activator
+1_59	protein MraZ
+1_60	16S rRNA (cytosine(1402)-N(4))-methyltransferase
+1_61	Cell division protein FtsL {ECO:0000255|HAMAP-Rule:MF_00910}
+1_62	Penicillin binding protein transpeptidase domain
+1_63	UDP-N-acetylmuramyl-tripeptide synthetase
+1_64	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+1_65	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1_66	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+1_67	cell division protein FtsW
+1_68	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+1_69	UDP-N-acetylmuramate--L-alanine ligase
+1_70	D-alanine--D-alanine ligase
+1_71	Cell division protein FtsQ {ECO:0000255|HAMAP-Rule:MF_00911}
+1_72	cell division protein FtsA
+1_73	cell division protein FtsZ
+1_74	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+1_75	Secretion monitor precursor protein (SecM)
+1_76	preprotein translocase, SecA subunit
+1_77	mutator mutT protein
+1_78	Hypothetical Protein
+1_79	Protein of unknown function (DUF1342)
+1_80	Dephospho-CoA kinase
+1_81	guanosine monophosphate reductase
+1_82	Type II secretion system (T2SS), protein F
+1_83	Type II/IV secretion system protein
+1_84	Prepilin peptidase-dependent protein D
+1_85	nicotinate-nucleotide diphosphorylase (carboxylating)
+1_86	1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD {ECO:0000305}
+1_87	Protein AmpE
+1_88	Amino acid permease
+1_89	Pyruvate dehydrogenase complex repressor
+1_90	pyruvate dehydrogenase (acetyl-transferring), homodimeric type
+1_91	dihydrolipoyllysine-residue acetyltransferase
+1_92	dihydrolipoyl dehydrogenase
+1_93	Protein of unknown function (DUF3300)
+1_94	aconitate hydratase 2
+1_95	UPF0231 protein YacL {ECO:0000255|HAMAP-Rule:MF_01053}
+1_96	S-adenosylmethionine decarboxylase proenzyme
+1_97	spermidine synthase
+1_98	Uncharacterized protein YacC
+1_99    Blue copper oxidase CueO
+1_100   membrane-bound PQQ-dependent dehydrogenase, glucose/quinate/shikimate family
+1_101	hypoxanthine phosphoribosyltransferase
+1_102	Carbonic anhydrase 2
+1_103	Uncharacterized ABC transporter ATP-binding protein YadG
+1_104	Inner membrane transport permease YadH
+1_105	Putative phosphotransferase enzyme IIA component YadI
+1_106	Uncharacterized protein YadE
+1_107	aspartate 1-decarboxylase
+1_108	conserved hypothetical protein
+1_109	pantoate--beta-alanine ligase
+1_110	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1_111	Uncharacterized fimbrial-like protein YadC
+1_112	Uncharacterized fimbrial-like protein YadK
+1_113	Uncharacterized fimbrial-like protein YadL
+1_114	Uncharacterized fimbrial-like protein YadM
+1_115	Outer membrane usher protein
+1_116	Probable fimbrial chaperone YadV
+1_117	Uncharacterized fimbrial-like protein YadN
+1_118	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1_119	poly(A) polymerase
+1_120	glutamyl-queuosine tRNA(Asp) synthetase
+1_121	RNA polymerase-binding protein DksA
+1_122	sugar fermentation stimulation protein
+1_123	RNA 2',3'-cyclic phosphodiesterase {ECO:0000255|HAMAP-Rule:MF_01940, ECO:0000303|PubMed:25239919}
+1_124	ATP-dependent helicase HrpB
+1_125	penicillin-binding protein 1B
+1_126	TonB-dependent siderophore receptor
+1_127	Iron(3+)-hydroxamate import ATP-binding protein FhuC {ECO:0000305}
+1_128	Iron(3+)-hydroxamate-binding protein FhuD {ECO:0000305}
+1_129	FecCD transport family
+1_130	glutamate-1-semialdehyde-2,1-aminomutase
+1_131	Voltage gated chloride channel
+1_132	Iron-sulfur cluster insertion protein ErpA {ECO:0000255|HAMAP-Rule:MF_01380}
+1_133	UPF0126 inner membrane protein YadS
+1_134	Vitamin B12-binding protein {ECO:0000255|HAMAP-Rule:MF_01000}
+1_135	MTA/SAH nucleosidase
+1_136	putative dGTPase
+1_137	peptidase Do
+1_138	Putative sugar diacid recognition
+1_139	Protein of unknown function (DUF3461)
+1_140	Phosphodiesterase YaeI
+1_141	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+1_142	protein-P-II uridylyltransferase
+1_143	methionine aminopeptidase, type I
+1_144	ribosomal protein S2
+1_145	translation elongation factor Ts
+1_146	UMP kinase
+1_147	ribosome recycling factor
+1_148	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1_149	di-trans,poly-cis-decaprenylcistransferase
+1_150	Hypothetical Protein
+1_151	Cytidylyltransferase family
+1_152	RIP metalloprotease RseP
+1_153	outer membrane protein assembly complex, YaeT protein
+1_154	Chaperone protein Skp
+1_155	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase LpxD
+1_156	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ
+1_157	acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase
+1_158	lipid-A-disaccharide synthase
+1_159	Ribonuclease HII
+1_160	DNA polymerase III, alpha subunit
+1_161	acetyl-CoA carboxylase, carboxyl transferase, alpha subunit
+1_162	Orn/Lys/Arg decarboxylase, major domain
+1_163	Uncharacterized protein YaeR
+1_164	PP-loop family
+1_165	Hypothetical Protein
+1_166	Hypothetical Protein
+1_167	YaeQ protein
+1_168	Peptidyl-tRNA hydrolase ArfB
+1_169	Lipoprotein NlpE {ECO:0000303|PubMed:7635808}
+1_170	Probable lipoprotein peptidase YaeF
+1_171	proline--tRNA ligase
+1_172	tRNA-Thr(GGU) m(6)t(6)A37 methyltransferase TsaA
+1_173	Outer membrane lipoprotein RcsF {ECO:0000255|HAMAP-Rule:MF_00976}
+1_174	lipoprotein, YaeC family
+1_175	D-methionine transport system permease protein MetI
+1_176	D-methionine ABC transporter, ATP-binding protein
+1_177	D,D-heptose 1,7-bisphosphate phosphatase
+1_178	Hypothetical Protein
+1_179	Aldo/keto reductase family
+1_180	Uncharacterized HTH-type transcriptional regulator YafC
+1_181	UPF0294 protein YafD {ECO:0000255|HAMAP-Rule:MF_01119}
+1_182	Uncharacterized protein YafE
+1_183	Membrane-bound lytic murein transglycosylase D
+1_184	hydroxyacylglutathione hydrolase
+1_185	Uncharacterized protein YafS
+1_186	Ribonuclease H {ECO:0000255|HAMAP-Rule:MF_00042}
+1_187	exonuclease, DNA polymerase III, epsilon subunit family
+1_188	Uncharacterized lipoprotein YafT
+1_189	Uncharacterized protein YkfM
+1_190	Putative inner membrane protein YafU
+1_191	Omega-amidase YafV
+1_192	Inhibitor of vertebrate lysozyme
+1_193	Domain of unknown function (DUF1974)
+1_194	phosphoheptose isomerase
+1_195	Glutamine amidotransferases class-II
+1_196	Putative L,D-transpeptidase YafK
+1_197	mRNA interferase toxin YafQ
+1_198	Hypothetical Protein
+1_199	Probable endopeptidase YafL
+1_200	REP-associated tyrosine transposase
+1_201	FHIPEP family
+1_202	Putative truncated flagellar export/assembly protein LafU {ECO:0000305}
+1_203	DNA polymerase IV
+1_204	Antitoxin YafN
+1_205	mRNA interferase toxin YafO
+1_206	Uncharacterized N-acetyltransferase YafP
+1_207	Putative uncharacterized protein YkfJ
+1_208	putative peptide chain release factor H
+1_209	Xaa-His dipeptidase
+1_210	Xanthine-guanine phosphoribosyltransferase {ECO:0000255|HAMAP-Rule:MF_01903}
+1_211	Alpha/beta hydrolase of unknown function (DUF1100)
+1_212	Transcriptional regulator Crl
+1_213	Gram-negative porin
+1_214	glutamate 5-kinase
+1_215	glutamate-5-semialdehyde dehydrogenase
+1_216	Hypothetical Protein
+1_217	Protein of unknown function (DUF1219)
+1_218	YagB/YeeU/YfjZ family
+1_219	Hypothetical Protein
+1_220	UPF0758 protein YkfG
+1_221	Uncharacterized protein YafX
+1_222	Hypothetical Protein
+1_223	Uncharacterized protein YkfB
+1_224	Lipoprotein YafY
+1_225	Domain of unknown function (DUF932)
+1_226	Uncharacterized protein YkfA
+1_227	HTH-type transcriptional regulator PerR
+1_228	Putative transposase InsN for insertion sequence element IS911A
+1_229	Transposase InsI for insertion sequence element IS30A
+1_230	Hypothetical Protein
+1_231	Reverse transcriptase (RNA-dependent DNA polymerase)
+1_232	Transposase InsH for insertion sequence element IS5K
+1_233	Hypothetical Protein
+1_234	Amino acid permease
+1_235	Homocysteine S-methyltransferase
+1_236	Fe(3+) ions import ATP-binding protein FbpC {ECO:0000255|HAMAP-Rule:MF_01706}
+1_237	Putative ferric transport system permease-like protein AfuB
+1_238	IS1 transposase
+1_239	Insertion element IS1 2 protein InsA
+1_240	Putative transposase YkgN
+1_241	YagB/YeeU/YfjZ family
+1_242	Uncharacterized protein YagA
+1_243	Dihydrodipicolinate synthetase family
+1_244	putative dehydratase, YjhG/YagF family
+1_245	sugar (Glycoside-Pentoside-Hexuronide) transporter
+1_246	Glycosyl hydrolases family 43
+1_247	Hypothetical Protein
+1_248	Insertion element IS150 protein InsJ
+1_249	Putative transposase InsK for insertion sequence element IS150
+1_250	HTH-type transcriptional regulator XynR {ECO:0000305}
+1_251	ornithine carbamoyltransferase
+1_252	IS1 transposase
+1_253	Insertion element IS1 2 protein InsA
+1_254	Protein YagJ
+1_255	Protein of unknown function (DUF3296)
+1_256	Uncharacterized protein YagL
+1_257	Uncharacterized protein YagM
+1_258	Hypothetical Protein
+1_259	Uncharacterized protein YagN
+1_260	Prophage integrase IntF {ECO:0000305}
+1_261	Putative LysR family substrate binding domain-containing protein YagP
+1_262	Molybdenum cofactor insertion chaperone PaoD {ECO:0000305}
+1_263	Molybdopterin-binding domain of aldehyde dehydrogenase
+1_264	FAD binding domain in molybdopterin dehydrogenase
+1_265	Aldehyde oxidoreductase iron-sulfur-binding subunit PaoA {ECO:0000305}
+1_266	Protein of unknown function (DUF1440)
+1_267	Probable fimbrial chaperone EcpE
+1_268	Fimbria adhesin EcpD
+1_269	Probable outer membrane usher protein EcpC
+1_270	Probable fimbrial chaperone EcpB
+1_271	Common pilus major fimbrillin subunit EcpA
+1_272	HTH-type transcriptional regulator EcpR
+1_273	Hypothetical Protein
+1_274	Hypothetical Protein
+1_275	Putative transmembrane protein
+1_276	Protein of unknown function (DUF3442)
+1_277	Transposase InsE for insertion sequence IS3A
+1_278	Transposase InsF for insertion sequence IS3E
+1_279	Putative HTH-type transcriptional regulator YkgA
+1_280	Protein of unknown function, DUF417
+1_281	Probable pyridine nucleotide-disulfide oxidoreductase RclA
+1_282	RCS-specific HTH-type transcriptional activator RclR
+1_283	Uncharacterized protein YkgE
+1_284	iron-sulfur cluster-binding protein
+1_285	Uncharacterized protein YkgG
+1_286	Uncharacterized protein YkgH
+1_287	choline dehydrogenase
+1_288	betaine-aldehyde dehydrogenase
+1_289	transcriptional repressor BetI
+1_290	transporter, betaine/carnitine/choline transporter (BCCT) family
+1_291	EAL domain
+1_292	Uncharacterized HTH-type transcriptional regulator YahB
+1_293	Uncharacterized protein YahC
+1_294	Putative ankyrin repeat protein YahD
+1_295	Uncharacterized protein YahE
+1_296	Uncharacterized protein YahF
+1_297	Protein of unknown function (DUF1116)
+1_298	Uncharacterized protein conserved in bacteria (DUF2058)
+1_299	S-formylglutathione hydrolase
+1_300	S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+1_301	Hypothetical Protein
+1_302	outer membrane protein, YaiO family
+1_303	Putative uncharacterized acetyltransferase YaiX
+1_304	Transposase InsC for insertion element IS2F
+1_305	Transposase InsD for insertion element IS2-12
+1_306	Uncharacterized glycosyltransferase YaiP
+1_307	Uncharacterized deacetylase YaiS
+1_308	taurine ABC transporter, periplasmic binding protein
+1_309	Taurine import ATP-binding protein TauB {ECO:0000255|HAMAP-Rule:MF_01714}
+1_310	Taurine transport system permease protein TauC
+1_311	Taurine catabolism dioxygenase TauD, TfdA family
+1_312	Delta-aminolevulinic acid dehydratase
+1_313	Putative uncharacterized protein YaiT
+1_314	Transposase InsF for insertion sequence IS3E
+1_315	Transposase InsE for insertion sequence IS3A
+1_316	outer membrane autotransporter barrel domain
+1_317	Inhibitor of hydrogen peroxide resistance {ECO:0000255|HAMAP-Rule:MF_02072}
+1_318	Beta-lactamase
+1_319	Hypothetical Protein
+1_320	SbmA/BacA-like family
+1_321	Protein of unknown function (DUF1615)
+1_322	Protein of unknown function (DUF2755)
+1_323	Putative transmembrane protein
+1_324	D-alanine--D-alanine ligase
+1_325	Hypothetical Protein
+1_326	Alkaline phosphatase
+1_327	Phosphate starvation-inducible protein PsiF
+1_328	diguanylate cyclase (GGDEF) domain
+1_329	pyrroline-5-carboxylate reductase
+1_330	UPF0178 protein YaiI {ECO:0000255|HAMAP-Rule:MF_00489}
+1_331	Shikimate kinase 2 {ECO:0000255|HAMAP-Rule:MF_01269}
+1_332	Hypothetical Protein
+1_333	AroM protein
+1_334	Pyrimidine/purine nucleoside phosphorylase {ECO:0000255|HAMAP-Rule:MF_01537}
+1_335	Hypothetical Protein
+1_336	Putative exonuclease, RdgC
+1_337	ROK family
+1_338	Putative transporter AraJ
+1_339	exonuclease SbcC
+1_340	exonuclease SbcCD, D subunit
+1_341	phosphate regulon transcriptional regulatory protein PhoB
+1_342	phosphate regulon sensor kinase PhoR
+1_343	branched-chain amino acid transport system II carrier protein
+1_344	Amino acid permease
+1_345	Alpha amylase, catalytic domain
+1_346	Acyl carrier protein phosphodiesterase {ECO:0000255|HAMAP-Rule:MF_01950}
+1_347	tRNA ribosyltransferase-isomerase
+1_348	tRNA-guanine transglycosylase
+1_349	Sec translocon accessory complex subunit YajC
+1_350	protein-export membrane protein SecD
+1_351	protein-export membrane protein SecF
+1_352	Putative HNH nuclease YajD
+1_353	Nucleoside-specific channel-forming protein, Tsx
+1_354	Protein of unknown function (DUF3251)
+1_355	transcriptional regulator NrdR
+1_356	riboflavin biosynthesis protein RibD
+1_357	6,7-dimethyl-8-ribityllumazine synthase
+1_358	Transcription antitermination protein NusB {ECO:0000255|HAMAP-Rule:MF_00073}
+1_359	thiamine-phosphate kinase
+1_360	Phosphatidylglycerophosphatase A
+1_361	Aldo/keto reductase family
+1_362	1-deoxy-D-xylulose-5-phosphate synthase
+1_363	Polyprenyl synthetase
+1_364	Hypothetical Protein
+1_365	tRNA sulfurtransferase ThiI
+1_366	DJ-1 family protein
+1_367	2-dehydropantoate 2-reductase
+1_368	Protein of unknown function (DUF520)
+1_369	Inner membrane transport protein YajR
+1_370	protoheme IX farnesyltransferase
+1_371	Cytochrome bo(3) ubiquinol oxidase subunit 4
+1_372	cytochrome o ubiquinol oxidase, subunit III
+1_373	cytochrome o ubiquinol oxidase, subunit I
+1_374	ubiquinol oxidase, subunit II
+1_375	AmpG-like permease
+1_376	Uncharacterized lipoprotein
+1_377	DNA-binding transcriptional regulator BolA {ECO:0000250|UniProtKB:P0ABE2}
+1_378	trigger factor
+1_379	ATP-dependent Clp endopeptidase, proteolytic subunit ClpP
+1_380	ATP-dependent Clp protease, ATP-binding subunit ClpX
+1_381	endopeptidase La
+1_382	Hypothetical Protein
+1_383	Periplasmic chaperone PpiD {ECO:0000250|UniProtKB:P0ADY1}
+1_384	Uncharacterized protein YbaV
+1_385	Long-chain acyl-CoA thioesterase FadM
+1_386	queuosine biosynthesis protein QueC
+1_387	Uncharacterized protein YbaE
+1_388	Cof-like hydrolase
+1_389	DNA-binding transcriptional activator DecR {ECO:0000303|PubMed:27435271}
+1_390	Multidrug resistance-like ATP-binding protein MdlA
+1_391	Multidrug resistance-like ATP-binding protein MdlB
+1_392	Nitrogen regulatory protein GlnK {ECO:0000250|UniProtKB:P0AC55}
+1_393	ammonium transporter
+1_394	acyl-CoA thioesterase II
+1_395	Uncharacterized lipoprotein YbaY
+1_396	DNA base-flipping protein {ECO:0000303|PubMed:18084297}
+1_397	Uncharacterized protein YbaA
+1_398	EAL domain
+1_399	Inner membrane protein YlaC
+1_400	Maltose O-acetyltransferase {ECO:0000303|PubMed:12731863}
+1_401	Hypothetical Protein
+1_402	Biofilm formation regulator YbaJ
+1_403	RND transporter, hydrophobe/amphiphile efflux-1 (HAE1) family
+1_404	efflux transporter, RND family, MFP subunit
+1_405	MAATS-type transcriptional repressor, C-terminal region
+1_406	Mechanosensitive ion channel inner membrane domain 1
+1_407	Hypothetical Protein
+1_408	Primosomal replication protein priB and priC
+1_409	Inner membrane protein YbaN
+1_410	adenine phosphoribosyltransferase
+1_411	DNA polymerase III, subunit gamma and tau
+1_412	Nucleoid-associated protein YbaB {ECO:0000255|HAMAP-Rule:MF_00274}
+1_413	recombination protein RecR
+1_414	Hsp90 protein
+1_415	adenylate kinase
+1_416	ferrochelatase
+1_417	alpha/beta hydrolase fold
+1_418	pfkB family carbohydrate kinase
+1_419	Sodium/hydrogen exchanger family
+1_420	Fosmidomycin resistance protein
+1_421	5'-nucleotidase
+1_422	Cys-tRNA(Pro) deacylase
+1_423	Uncharacterized protein YbaP
+1_424	Uncharacterized HTH-type transcriptional regulator YbaQ
+1_425	copper-translocating P-type ATPase
+1_426	Glutaminase
+1_427	Inner membrane transport protein YbaT
+1_428	Cu(I)-responsive transcriptional regulator
+1_429	Inner membrane protein YbbJ
+1_430	Protein QmcA
+1_431	Probable iron export ATP-binding protein FetA
+1_432	Uncharacterised protein family (UPF0014)
+1_433	Chaperedoxin {ECO:0000303|PubMed:29754824}
+1_434	Uncharacterized oxidoreductase YbbO
+1_435	Thioesterase 1/protease 1/lysophospholipase L1 {ECO:0000250|UniProtKB:P0ADA1}
+1_436	Uncharacterized ABC transporter ATP-binding protein YbbA
+1_437	Uncharacterized ABC transporter permease YbbP
+1_438	RHS Repeat
+1_439	Uncharacterized protein YbbC
+1_440	Putative uncharacterized protein YlbH
+1_441	Putative transmembrane protein
+1_442	Protein YlbG
+1_443	tRNA 2-selenouridine synthase
+1_444	HTH-type transcriptional activator AllS
+1_445	Ureidoglycolate hydrolase
+1_446	HTH-type transcriptional repressor AllR
+1_447	glyoxylate carboligase
+1_448	hydroxypyruvate isomerase
+1_449	2-hydroxy-3-oxopropionate reductase
+1_450	Permease for cytosine/purines, uracil, thiamine, allantoin
+1_451	allantoinase
+1_452	Permease family
+1_453	Glycerate kinase family
+1_454	putative allantoin catabolism protein
+1_455	allantoate amidohydrolase
+1_456	ureidoglycolate dehydrogenase
+1_457	CoA-ligase
+1_458	Protein of unknown function (DUF1116)
+1_459	Uncharacterized protein YlbF
+1_460	carbamate kinase
+1_461	phosphoribosylaminoimidazole carboxylase, ATPase subunit
+1_462	AIR carboxylase
+1_463	UDP-2,3-diacylglucosamine diphosphatase
+1_464	Peptidyl-prolyl cis-trans isomerase B
+1_465	cysteine--tRNA ligase
+1_466	Inner membrane protein YbcI
+1_467	Hypothetical Protein
+1_468	Tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain
+1_469	Uncharacterized fimbrial-like protein SfmA
+1_470	Probable fimbrial chaperone SfmC
+1_471	Outer membrane usher protein
+1_472	Uncharacterized fimbrial-like protein SfmH
+1_473	Uncharacterized fimbrial-like protein SfmF
+1_474	Fimbriae Z protein
+1_475	Prophage integrase IntD {ECO:0000305}
+1_476	Putative uncharacterized protein ExoD
+1_477	Hypothetical Protein
+1_478	Transposase InsE for insertion sequence IS3A
+1_479	Transposase InsF for insertion sequence IS3E
+1_480	Multidrug transporter EmrE
+1_481	Uncharacterized protein YbcK
+1_482	Raf kinase inhibitor-like protein, YbhB/YbcL family
+1_483	Uncharacterized HTH-type transcriptional regulator YbcM
+1_484	Uncharacterized protein YbcN
+1_485	Hypothetical Protein
+1_486	Putative nuclease YbcO
+1_487	Crossover junction endodeoxyribonuclease RusA
+1_488	Hypothetical Protein
+1_489	Phage antitermination protein Q
+1_490	Hypothetical Protein
+1_491	Transposase InsH for insertion sequence element IS5K
+1_492	Gram-negative porin
+1_493	Putative transmembrane protein
+1_494	Lysozyme RrrD
+1_495	Prophage Rz endopeptidase RzpD {ECO:0000305}
+1_496	Bor protein
+1_497	Protein of unknown function (DUF1398)
+1_498	Hypothetical Protein
+1_499	Phage DNA packaging protein Nu1
+1_500	Protein TfaD {ECO:0000305}
+1_501	Putative uncharacterized protein YbcY
+1_502	Hypothetical Protein
+1_503	HTH-type transcriptional regulator AppY
+1_504	Omptin family
+1_505	Porin thermoregulatory protein EnvY
+1_506	Uncharacterized protein YbcH
+1_507	Bacteriophage adsorption protein A {ECO:0000305}
+1_508	Bacteriophage adsorption protein B {ECO:0000305}
+1_509	heavy metal sensor kinase
+1_510	heavy metal response regulator
+1_511	efflux transporter, outer membrane factor (OMF) lipoprotein, NodT family
+1_512	Cation efflux system protein CusF
+1_513	Cation efflux system protein CusB
+1_514	heavy metal efflux pump, CzcA family
+1_515	Amino acid permease
+1_516	Mechanosensitive ion channel
+1_517	Oxygen-insensitive NAD(P)H nitroreductase
+1_518	Uncharacterized protein YbdF
+1_519	Putative transmembrane protein
+1_520	carboxylate-amine ligase, YbdK family
+1_521	Putative transmembrane protein
+1_522	Putative transposase InsL for insertion sequence element IS186B
+1_523	Hypothetical Protein
+1_524	Enterobactin synthase component D {ECO:0000303|PubMed:9485415}
+1_525	TonB-dependent siderophore receptor
+1_526	Iron(III) enterobactin esterase {ECO:0000305}
+1_527	Hypothetical Protein
+1_528	amino acid adenylation domain
+1_529	Ferric enterobactin transport protein FepE
+1_530	Ferric enterobactin transport ATP-binding protein FepC {ECO:0000305}
+1_531	FecCD transport family
+1_532	FecCD transport family
+1_533	Enterobactin exporter EntS {ECO:0000255|HAMAP-Rule:MF_01436}
+1_534	Ferric enterobactin-binding periplasmic protein FepB {ECO:0000250|UniProtKB:P0AEL6}
+1_535	isochorismate synthase
+1_536	(2,3-dihydroxybenzoyl)adenylate synthase
+1_537	Aryl carrier protein {ECO:0000250|UniProtKB:P0ADI4}
+1_538	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+1_539	Proofreading thioesterase EntH {ECO:0000255|HAMAP-Rule:MF_00907}
+1_540	Carbon starvation protein CstA
+1_541	Hypothetical Protein
+1_542	Hydroxycarboxylate dehydrogenase A {ECO:0000303|PubMed:27941785}
+1_543	Aminotransferase class I and II
+1_544	Uncharacterized protein YbdM
+1_545	Domain of unknown function (DUF3440)
+1_546	Uncharacterized HTH-type transcriptional regulator YbdO
+1_547	Thiol:disulfide interchange protein DsbG
+1_548	peroxiredoxin
+1_549	alkyl hydroperoxide reductase subunit F
+1_550	Universal stress protein UP12 {ECO:0000303|PubMed:12071968}
+1_551	Uncharacterized zinc-type alcohol dehydrogenase-like protein YbdR
+1_552	Putative transmembrane protein
+1_553	Regulator of nucleoside diphosphate kinase {ECO:0000255|HAMAP-Rule:MF_00954}
+1_554	Ribonuclease I
+1_555	Sodium:sulfate symporter transmembrane region
+1_556	triphosphoribosyl-dephospho-CoA synthase CitG
+1_557	holo-ACP synthase CitX
+1_558	Citrate lyase, alpha subunit (CitF)
+1_559	citrate (pro-3S)-lyase, beta subunit
+1_560	Citrate lyase acyl carrier protein {ECO:0000255|HAMAP-Rule:MF_00805}
+1_561	[citrate (pro-3S)-lyase] ligase
+1_562	Sensor histidine kinase DpiB
+1_563	Transcriptional regulatory protein DpiA
+1_564	transporter, anaerobic C4-dicarboxylate uptake C (DcuC) family
+1_565	Antimicrobial peptide resistance and lipid A acylation protein PagP
+1_566	Hypothetical Protein
+1_567	Putative fluoride ion transporter CrcB {ECO:0000255|HAMAP-Rule:MF_00454}
+1_568	Hypothetical Protein
+1_569	Deaminated glutathione amidase {ECO:0000303|PubMed:28373563}
+1_570	Putative transmembrane protein
+1_571	lipoyl synthase
+1_572	Uncharacterized HTH-type transcriptional regulator YbeF
+1_573	lipoyl(octanoyl) transferase
+1_574	Hypothetical Protein
+1_575	D-alanyl-D-alanine carboxypeptidase
+1_576	Endolytic peptidoglycan transglycosylase RlpA {ECO:0000255|HAMAP-Rule:MF_02071}
+1_577	rod shape-determining protein RodA
+1_578	penicillin-binding protein 2
+1_579	rRNA large subunit m3Psi methyltransferase RlmH
+1_580	Ribosomal silencing factor RsfS
+1_581	alpha-ribazole phosphatase
+1_582	nicotinate (nicotinamide) nucleotide adenylyltransferase
+1_583	DNA polymerase III, delta subunit
+1_584	LPS-assembly lipoprotein LptE {ECO:0000255|HAMAP-Rule:MF_01186}
+1_585	leucine--tRNA ligase
+1_586	Protein of unknown function (DUF1451)
+1_587	Sel1 repeat
+1_588	Uncharacterized protein YbeR
+1_589	Uncharacterized J domain-containing protein DjlB
+1_590	Sel1-repeat-containing protein YbeT
+1_591	Uncharacterized protein YbeU
+1_592	Uncharacterized J domain-containing protein DjlC
+1_593	Hsp70 protein
+1_594	Inosine-uridine preferring nucleoside hydrolase
+1_595	Glutamate/aspartate import ATP-binding protein GltL {ECO:0000305}
+1_596	Glutamate/aspartate import permease protein GltK {ECO:0000305}
+1_597	Glutamate/aspartate import permease protein GltJ {ECO:0000305}
+1_598	Glutamate/aspartate import solute-binding protein {ECO:0000305}
+1_599	Transposase InsH for insertion sequence element IS5K
+1_600	Gram-negative porin
+1_601	Putative transmembrane protein
+1_602	Lysozyme RrrD
+1_603	Prophage Rz endopeptidase RzpD {ECO:0000305}
+1_604	Bor protein
+1_605	Protein of unknown function (DUF1398)
+1_606	Hypothetical Protein
+1_607	Phage DNA packaging protein Nu1
+1_608	Protein TfaD {ECO:0000305}
+1_609	Putative uncharacterized protein YbcY
+1_610	Hypothetical Protein
+1_611	HTH-type transcriptional regulator AppY
+1_612	Omptin family
+1_613	Porin thermoregulatory protein EnvY
+1_614	Uncharacterized protein YbcH
+1_615	Bacteriophage adsorption protein A {ECO:0000305}
+1_616	Bacteriophage adsorption protein B {ECO:0000305}
+1_617	heavy metal sensor kinase
+1_618	heavy metal response regulator
+1_619	efflux transporter, outer membrane factor (OMF) lipoprotein, NodT family
+1_620	Cation efflux system protein CusF
+1_621	Cation efflux system protein CusB
+1_622	heavy metal efflux pump, CzcA family
+1_623	Amino acid permease
+1_624	Mechanosensitive ion channel
+1_625	Oxygen-insensitive NAD(P)H nitroreductase
+1_626	Uncharacterized protein YbdF
+1_627	Putative transmembrane protein
+1_628	carboxylate-amine ligase, YbdK family
+1_629	Putative transmembrane protein
+1_630	Putative transposase InsL for insertion sequence element IS186B
+1_631	Hypothetical Protein
+1_632	Enterobactin synthase component D {ECO:0000303|PubMed:9485415}
+1_633	TonB-dependent siderophore receptor
+1_634	Iron(III) enterobactin esterase {ECO:0000305}
+1_635	Hypothetical Protein
+1_636	amino acid adenylation domain
+1_637	Ferric enterobactin transport protein FepE
+1_638	Ferric enterobactin transport ATP-binding protein FepC {ECO:0000305}
+1_639	FecCD transport family
+1_640	FecCD transport family
+1_641	Enterobactin exporter EntS {ECO:0000255|HAMAP-Rule:MF_01436}
+1_642	Ferric enterobactin-binding periplasmic protein FepB {ECO:0000250|UniProtKB:P0AEL6}
+1_643	isochorismate synthase
+1_644	(2,3-dihydroxybenzoyl)adenylate synthase
+1_645	Aryl carrier protein {ECO:0000250|UniProtKB:P0ADI4}
+1_646	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+1_647	Proofreading thioesterase EntH {ECO:0000255|HAMAP-Rule:MF_00907}
+1_648	Carbon starvation protein CstA
+1_649	Hypothetical Protein
+1_650	Hydroxycarboxylate dehydrogenase A {ECO:0000303|PubMed:27941785}
+1_651	Aminotransferase class I and II
+1_652	Uncharacterized protein YbdM
+1_653	Domain of unknown function (DUF3440)
+1_654	Uncharacterized HTH-type transcriptional regulator YbdO
+1_655	Thiol:disulfide interchange protein DsbG
+1_656	peroxiredoxin
+1_657	alkyl hydroperoxide reductase subunit F
+1_658	Universal stress protein UP12 {ECO:0000303|PubMed:12071968}
+1_659	Uncharacterized zinc-type alcohol dehydrogenase-like protein YbdR
+1_660	Putative transmembrane protein
+1_661	Regulator of nucleoside diphosphate kinase {ECO:0000255|HAMAP-Rule:MF_00954}
+1_662	Ribonuclease I
+1_663	Sodium:sulfate symporter transmembrane region
+1_664	triphosphoribosyl-dephospho-CoA synthase CitG
+1_665	holo-ACP synthase CitX
+1_666	Citrate lyase, alpha subunit (CitF)
+1_667	citrate (pro-3S)-lyase, beta subunit
+1_668	Citrate lyase acyl carrier protein {ECO:0000255|HAMAP-Rule:MF_00805}
+1_669	[citrate (pro-3S)-lyase] ligase
+1_670	Sensor histidine kinase DpiB
+1_671	Transcriptional regulatory protein DpiA
+1_672	transporter, anaerobic C4-dicarboxylate uptake C (DcuC) family
+1_673	Antimicrobial peptide resistance and lipid A acylation protein PagP
+1_674	Hypothetical Protein
+1_675	Putative fluoride ion transporter CrcB {ECO:0000255|HAMAP-Rule:MF_00454}
+1_676	Hypothetical Protein
+1_677	Deaminated glutathione amidase {ECO:0000303|PubMed:28373563}
+1_678	Putative transmembrane protein
+1_679	lipoyl synthase
+1_680	Uncharacterized HTH-type transcriptional regulator YbeF
+1_681	lipoyl(octanoyl) transferase
+1_682	Hypothetical Protein
+1_683	D-alanyl-D-alanine carboxypeptidase
+1_684	Endolytic peptidoglycan transglycosylase RlpA {ECO:0000255|HAMAP-Rule:MF_02071}
+1_685	rod shape-determining protein RodA
+1_686	penicillin-binding protein 2
+1_687	rRNA large subunit m3Psi methyltransferase RlmH
+1_688	Ribosomal silencing factor RsfS
+1_689	alpha-ribazole phosphatase
+1_690	nicotinate (nicotinamide) nucleotide adenylyltransferase
+1_691	DNA polymerase III, delta subunit
+1_692	LPS-assembly lipoprotein LptE {ECO:0000255|HAMAP-Rule:MF_01186}
+1_693	leucine--tRNA ligase
+1_694	Protein of unknown function (DUF1451)
+1_695	Sel1 repeat
+1_696	Uncharacterized protein YbeR
+1_697	Uncharacterized J domain-containing protein DjlB
+1_698	Sel1-repeat-containing protein YbeT
+1_699	Uncharacterized protein YbeU
+1_700	Uncharacterized J domain-containing protein DjlC
+1_701	Hsp70 protein
+1_702	Inosine-uridine preferring nucleoside hydrolase
+1_703	Glutamate/aspartate import ATP-binding protein GltL {ECO:0000305}
+1_704	Glutamate/aspartate import permease protein GltK {ECO:0000305}
+1_705	Glutamate/aspartate import permease protein GltJ {ECO:0000305}
+1_706	Glutamate/aspartate import solute-binding protein {ECO:0000305}
+1_707	Transposase InsH for insertion sequence element IS5K
+1_708	apolipoprotein N-acyltransferase
+1_709	Magnesium and cobalt efflux protein CorC
+1_710	Endoribonuclease YbeY {ECO:0000255|HAMAP-Rule:MF_00009}
+1_711	PhoH-like protein
+1_712	tRNA-i(6)A37 thiotransferase enzyme MiaB
+1_713	ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6 family
+1_714	asparagine synthase (glutamine-hydrolyzing)
+1_715	HAD hydrolase, family IIA
+1_716	ROK family
+1_717	N-acetylglucosamine-6-phosphate deacetylase
+1_718	glucosamine-6-phosphate deaminase
+1_719	PTS system, N-acetylglucosamine-specific IIBC component
+1_720	Hypothetical Protein
+1_721	glutamine--tRNA ligase
+1_722	Chitoporin
+1_723	Uncharacterized lipoprotein ChiQ
+1_724	Ferric uptake regulation protein
+1_725	flavodoxin
+1_726	Uncharacterized protein YbfE
+1_727	Esterase YbfF
+1_728	SeqA protein
+1_729	phosphoglucomutase, alpha-D-glucose phosphate-specific
+1_730	Uncharacterized lipoprotein YbfP
+1_731	Hypothetical Protein
+1_732	putrescine-ornithine antiporter
+1_733	ornithine decarboxylase SpeF
+1_734	Hypothetical Protein
+1_735	KDP operon transcriptional regulatory protein KdpE
+1_736	Osmosensitive K+ channel His kinase sensor domain
+1_737	K+-transporting ATPase, c chain
+1_738	K+-transporting ATPase, B subunit
+1_739	K+-transporting ATPase, A subunit
+1_740	Putative transmembrane protein
+1_741	RHS Repeat
+1_742	Uncharacterized protein YbfB
+1_743	Putative uncharacterized protein YbfO
+1_744	Uncharacterized protein YbfC
+1_745	Hypothetical Protein
+1_746	Putative protein YbfL
+1_747	H repeat-associated putative transposase YbfD
+1_748	Uncharacterized protein YbgA
+1_749	FAD binding domain of DNA photolyase
+1_750	H+ symporter)
+1_751	dinuclear metal center protein, YbgI/SA1388 family
+1_752	sensor histidine kinase inhibitor, KipI family
+1_753	biotin-dependent carboxylase uncharacterized domain
+1_754	LamB/YcsF family
+1_755	Endonuclease 8 {ECO:0000255|HAMAP-Rule:MF_01253}
+1_756	Putative ammonia monooxygenase
+1_757	Uncharacterized protein YbgO
+1_758	Uncharacterized fimbrial chaperone YbgP
+1_759	Outer membrane usher protein
+1_760	Uncharacterized fimbrial-like protein YbgD
+1_761	citrate (Si)-synthase
+1_762	Hypothetical Protein
+1_763	Succinate dehydrogenase cytochrome b556 subunit
+1_764	Succinate dehydrogenase hydrophobic membrane anchor subunit
+1_765	succinate dehydrogenase, flavoprotein subunit
+1_766	succinate dehydrogenase and fumarate reductase iron-sulfur protein
+1_767	oxoglutarate dehydrogenase (succinyl-transferring), E1 component
+1_768	dihydrolipoyllysine-residue succinyltransferase, E2 component of oxoglutarate dehydrogenase (succinyl-transferring) complex
+1_769	succinate-CoA ligase, beta subunit
+1_770	succinate-CoA ligase, alpha subunit
+1_771	Mannosyl-D-glycerate transport/metabolism system repressor MngR
+1_772	PTS system, Fru family, IIC component
+1_773	Mannosylglycerate hydrolase
+1_774	Bacterial Cytochrome Ubiquinol Oxidase
+1_775	cytochrome d ubiquinol oxidase, subunit II
+1_776	Putative transmembrane protein
+1_777	Uncharacterized protein YbgE
+1_778	tol-pal system-associated acyl-CoA thioesterase
+1_779	protein TolQ
+1_780	Tol-Pal system protein TolR {ECO:0000255|HAMAP-Rule:MF_02203}
+1_781	protein TolA
+1_782	Tol-Pal system beta propeller repeat protein TolB
+1_783	Peptidoglycan-associated lipoprotein {ECO:0000255|HAMAP-Rule:MF_02204}
+1_784	Cell division coordinator CpoB {ECO:0000255|HAMAP-Rule:MF_02066, ECO:0000305}
+1_785	quinolinate synthetase complex, A subunit
+1_786	nicotinamide mononucleotide transporter PnuC
+1_787	cation diffusion facilitator family transporter
+1_788	YbgS-like protein
+1_789	3-deoxy-7-phosphoheptulonate synthase
+1_790	phosphoglycerate mutase 1 family
+1_791	galactose mutarotase
+1_792	galactokinase
+1_793	Transposase InsD for insertion element IS2-12
+1_794	Transposase InsC for insertion element IS2F
+1_795	Hypothetical Protein
+1_796	galactose-1-phosphate uridylyltransferase
+1_797	UDP-glucose 4-epimerase GalE
+1_798	ABC transporter ATP-binding protein ModF
+1_799	Transcriptional regulator ModE
+1_800	Putative transmembrane protein
+1_801	molybdate ABC transporter, periplasmic molybdate-binding protein
+1_802	molybdate ABC transporter, permease protein
+1_803	molybdate ABC transporter, ATP-binding protein
+1_804	Cof-like hydrolase
+1_805	Lactonase, 7-bladed beta-propeller
+1_806	Uncharacterized HTH-type transcriptional regulator YbhD
+1_807	PrpF protein
+1_808	Sodium:sulfate symporter transmembrane region
+1_809	Uncharacterized protein YbhJ
+1_810	Putative acyl-CoA thioester hydrolase YbhC
+1_811	Raf kinase inhibitor-like protein, YbhB/YbcL family
+1_812	adenosylmethionine-8-amino-7-oxononanoate transaminase
+1_813	biotin synthase
+1_814	8-amino-7-oxononanoate synthase
+1_815	malonyl-acyl carrier protein O-methyltransferase BioC
+1_816	dethiobiotin synthase
+1_817	excinuclease ABC subunit B
+1_818	conserved hypothetical protein
+1_819	molybdenum cofactor biosynthesis protein A
+1_820	molybdenum cofactor biosynthesis protein B
+1_821	molybdenum cofactor biosynthesis protein C
+1_822	Hypothetical Protein
+1_823	Molybdopterin synthase catalytic subunit
+1_824	Inhibitor of apoptosis-promoting Bax1
+1_825	Uncharacterized protein YbhM
+1_826	Inner membrane protein YbhN
+1_827	Cardiolipin synthase B {ECO:0000255|HAMAP-Rule:MF_01917}
+1_828	Uncharacterized protein YbhP
+1_829	Putative inner membrane protein YbhQ
+1_830	ABC-2 family transporter protein
+1_831	Probable multidrug ABC transporter permease YbhS {ECO:0000305}
+1_832	ABC transporter
+1_833	UPF0194 membrane protein YbhG {ECO:0000255|HAMAP-Rule:MF_01304, ECO:0000305}
+1_834	HTH-type transcriptional dual regulator CecR {ECO:0000250|UniProtKB:P0ACU0}
+1_835	ATP-dependent RNA helicase RhlE {ECO:0000255|HAMAP-Rule:MF_00968}
+1_836	N-glycosidase YbiA {ECO:0000305|PubMed:25431972}
+1_837	ATP-dependent DNA helicase DinG {ECO:0000255|HAMAP-Rule:MF_02205}
+1_838	Uncharacterized protein YbiB
+1_839	Malate/L-lactate dehydrogenase
+1_840	Putative transmembrane protein
+1_841	Uncharacterized protein YbiI
+1_842	PKHD-type hydroxylase YbiX
+1_843	TonB-dependent siderophore receptor
+1_844	Putative transmembrane protein
+1_845	Protein of unknown function (DUF890)
+1_846	Moderate conductance mechanosensitive channel YbiO
+1_847	Glutamine transport ATP-binding protein GlnQ
+1_848	Glutamine transport system permease protein GlnP
+1_849	Bacterial extracellular solute-binding proteins, family 3
+1_850	DNA protection during starvation protein {ECO:0000255|HAMAP-Rule:MF_01441}
+1_851	Threonine/homoserine exporter RhtA
+1_852	Outer membrane protein X
+1_853	Phosphoethanolamine transferase OpgE
+1_854	Hypothetical Protein
+1_855	Transcriptional regulator MntR
+1_856	Inner membrane protein YbiR
+1_857	Probable L,D-transpeptidase YbiS
+1_858	Probable ATP-binding protein YbiT
+1_859	Protein of unknown function (DUF1479)
+1_860	Cof-like hydrolase
+1_861	glycyl radical enzyme, PFL2/glycerol dehydratase family
+1_862	glycyl-radical enzyme activating protein
+1_863	fructose-6-phosphate aldolase
+1_864	molybdopterin synthase sulfurylase MoeB
+1_865	MoeA N-terminal region (domain I and II)
+1_866	Asparaginase
+1_867	ABC transporter
+1_868	Bacterial extracellular solute-binding proteins, family 5 Middle
+1_869	Glutathione transport system permease protein GsiC {ECO:0000250|UniProtKB:P75798}
+1_870	Glutathione transport system permease protein GsiD {ECO:0000305}
+1_871	EAL domain
+1_872	Probable diguanylate cyclase DgcI {ECO:0000305}
+1_873	ribosomal protein S12 methylthiotransferase RimO
+1_874	Biofilm formation protein (YliH/bssR)
+1_875	Glucose / Sorbosone dehydrogenase
+1_876	Glutathione S-transferase GstB
+1_877	D-alanyl-D-alanine carboxypeptidase
+1_878	Deoxyribose operon repressor
+1_879	Putative undecaprenyl-diphosphatase YbjG
+1_880	Multidrug transporter MdfA
+1_881	Uncharacterized protein YbjH
+1_882	Cof-like hydrolase
+1_883	Inner membrane protein YbjJ
+1_884	HTH-type transcriptional regulator RcdA
+1_885	Predicted Permease Membrane Region
+1_886	Putative inner membrane protein of Enterobacteriaceae
+1_887	Hypothetical Protein
+1_888	Uncharacterized protein YbjC
+1_889	Oxygen-insensitive NADPH nitroreductase {ECO:0000305}
+1_890	alpha-L-glutamate ligase, RimK family
+1_891	Uncharacterized protein YbjN
+1_892	Putrescine-binding periplasmic protein PotF
+1_893	polyamine ABC transporter, ATP-binding protein
+1_894	Putrescine transport system permease protein PotH {ECO:0000305}
+1_895	Putrescine transport system permease protein PotI {ECO:0000250|UniProtKB:P0AFL1}
+1_896	Protein of unknown function (DUF2593)
+1_897	23S rRNA (uracil-5-)-methyltransferase RumB
+1_898	lysine-arginine-ornithine-binding periplasmic protein
+1_899	Arginine ABC transporter permease protein ArtM
+1_900	Arginine ABC transporter permease protein ArtQ
+1_901	lysine-arginine-ornithine-binding periplasmic protein
+1_902	Arginine transport ATP-binding protein ArtP
+1_903	Uncharacterized lipoprotein YbjP
+1_904	UPF0145 protein YbjQ {ECO:0000255|HAMAP-Rule:MF_00338}
+1_905	N-acetylmuramoyl-L-alanine amidase AmiD
+1_906	Uncharacterized protein YbjS
+1_907	Putative NAD(P)-binding protein YbjT
+1_908	Beta-eliminating lyase
+1_909	Pyruvate dehydrogenase [ubiquinone] {ECO:0000255|HAMAP-Rule:MF_00850}
+1_910	NADH oxidoreductase HCR
+1_911	hydroxylamine reductase
+1_912	Membrane protein of unknown function (DUF340)
+1_913	MIP family channel proteins
+1_914	Protein of unknown function (DUF2813)
+1_915	Protein of unknown function (DUF535)
+1_916	efflux transporter, RND family, MFP subunit
+1_917	MacB-like periplasmic core domain
+1_918	Hypothetical Protein
+1_919	ATP-dependent Clp protease adapter protein ClpS {ECO:0000255|HAMAP-Rule:MF_00302}
+1_920	ATP-dependent Clp protease ATP-binding subunit ClpA
+1_921	Hypothetical Protein
+1_922	leucyl/phenylalanyl-tRNA--protein transferase
+1_923	thiol reductant ABC exporter, CydC subunit
+1_924	thiol reductant ABC exporter, CydD subunit
+1_925	thioredoxin-disulfide reductase
+1_926	Leucine-responsive regulatory protein
+1_927	FtsK/SpoIIIE family
+1_928	outer membrane lipoprotein carrier protein LolA
+1_929	MgsA AAA+ ATPase C terminal
+1_930	serine--tRNA ligase
+1_931	anaerobic dimethyl sulfoxide reductase, A subunit, DmsA/YnfE family
+1_932	dimethylsulfoxide reductase, chain B
+1_933	DMSO reductase anchor subunit (DmsC)
+1_934	Probable hydrolase YcaC
+1_935	Uncharacterized MFS-type transporter YcaD {ECO:0000255|HAMAP-Rule:MF_01149}
+1_936	Inner membrane transporter YcaM
+1_937	Uncharacterized HTH-type transcriptional regulator YcaN
+1_938	Uncharacterized NAD(P)H oxidoreductase YcaK
+1_939	pyruvate formate-lyase 1-activating enzyme
+1_940	formate acetyltransferase
+1_941	formate transporter FocA
+1_942	YcaO-type kinase domain
+1_943	UPF0702 transmembrane protein YcaP
+1_944	phosphoserine transaminase
+1_945	EPSP synthase (3-phosphoshikimate 1-carboxyvinyltransferase)
+1_946	Metalloprotease YcaL {ECO:0000305}
+1_947	cytidylate kinase
+1_948	ribosomal protein S1
+1_949	integration host factor, beta subunit
+1_950	DNA internalization-related competence protein ComEC/Rec2
+1_951	lipid A export permease/ATP-binding protein MsbA
+1_952	tetraacyldisaccharide 4'-kinase
+1_953	Winged helix DNA-binding domain
+1_954	Hypothetical Protein
+1_955	3-deoxy-D-manno-octulosonate cytidylyltransferase
+1_956	Uncharacterized protein YcbJ
+1_957	Envelope biogenesis factor ElyC
+1_958	tRNA 5-carboxymethoxyuridine methyltransferase {ECO:0000255|HAMAP-Rule:MF_02057, ECO:0000305}
+1_959	KicB killing factor
+1_960	MukE-like family
+1_961	MukB N-terminal
+1_962	Probable L,D-transpeptidase YcbB
+1_963	Bacterial protein of unknown function (DUF882)
+1_964	Hydroxyacylglutathione hydrolase GloC {ECO:0000305|PubMed:25670698}
+1_965	Aminotransferase class I and II
+1_966	Gram-negative porin
+1_967	asparagine--tRNA ligase
+1_968	nicotinate phosphoribosyltransferase
+1_969	aminopeptidase N
+1_970	Aliphatic sulfonates import ATP-binding protein SsuB {ECO:0000255|HAMAP-Rule:MF_01724}
+1_971	Putative aliphatic sulfonates transport permease protein SsuC
+1_972	alkanesulfonate monooxygenase, FMNH(2)-dependent
+1_973	ABC transporter, substrate-binding protein, aliphatic sulfonates family
+1_974	FMN reductase
+1_975	Fimbrial subunit ElfA
+1_976	Probable fimbrial chaperone protein ElfD
+1_977	Outer membrane usher protein
+1_978	Uncharacterized fimbrial-like protein ElfG
+1_979	Uncharacterized fimbrial-like protein YcbU
+1_980	Uncharacterized fimbrial-like protein YcbV
+1_981	Uncharacterized fimbrial chaperone YcbF
+1_982	dihydroorotate dehydrogenase (fumarate)
+1_983	Protein of unknown function (DUF1379)
+1_984	Uncharacterized protein YcbX
+1_985	Putative RNA methylase family UPF0020
+1_986	ATP-binding protein Uup {ECO:0000255|HAMAP-Rule:MF_00848}
+1_987	integral membrane protein, PqiA family
+1_988	Intermembrane transport protein PqiB {ECO:0000305}
+1_989	Intermembrane transport lipoprotein PqiC {ECO:0000305}
+1_990	Hypothetical Protein
+1_991	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabA
+1_992	Putative Lon protease homolog
+1_993	Organiser of macrodomain of Terminus of chromosome
+1_994	OmpA-like transmembrane domain
+1_995	cell division inhibitor SulA
+1_996	Protein Sxy
+1_997	TIGR01666 family membrane protein
+1_998	Inner membrane protein YccF
+1_999	DNA helicase IV / RNA helicase N terminal
+1_1000	methylglyoxal synthase
+1_1001	UPF0319 protein YccT {ECO:0000255|HAMAP-Rule:MF_00789}
+1_1002	Uncharacterized protein YccU
+1_1003	Heat shock protein HspQ {ECO:0000255|HAMAP-Rule:MF_01194}
+1_1004	Ribosomal RNA large subunit methyltransferase I {ECO:0000255|HAMAP-Rule:MF_01857}
+1_1005	Acylphosphatase {ECO:0000255|HAMAP-Rule:MF_01450}
+1_1006	Sulfurtransferase TusE
+1_1007	Modulator of FtsH protease YccA
+1_1008	hydrogenase (NiFe) small subunit (hydA)
+1_1009	Nickel-dependent hydrogenase
+1_1010	Ni/Fe-hydrogenase, b-type cytochrome subunit
+1_1011	hydrogenase expression/formation protein
+1_1012	Hydrogenase-1 operon protein HyaE
+1_1013	Hydrogenase-1 operon protein HyaF
+1_1014	Bacterial Cytochrome Ubiquinol Oxidase
+1_1015	cytochrome d ubiquinol oxidase, subunit II
+1_1016	Putative transmembrane protein
+1_1017	4-phytase
+1_1018	Chain length determinant protein
+1_1019	Low molecular weight protein-tyrosine-phosphatase Etp
+1_1020	Putative polysaccharide export protein GfcE
+1_1021	Bacterial putative lipoprotein (DUF940)
+1_1022	Capsule biosynthesis GfcC
+1_1023	Group 4 capsule polysaccharide formation lipoprotein gfcB
+1_1024	Threonine-rich inner membrane protein GfcA
+1_1025	Hypothetical Protein
+1_1026	IS1 transposase
+1_1027	Hypothetical Protein
+1_1028	Hypothetical Protein
+1_1029	Putative electron transport protein YccM
+1_1030	TMAO reductase sytem sensor TorS
+1_1031	TMAO reductase system periplasmic protein TorT
+1_1032	TorCAD operon transcriptional regulatory protein TorR
+1_1033	trimethylamine-N-oxide reductase c-type cytochrome TorC
+1_1034	trimethylamine-N-oxide reductase TorA
+1_1035	Chaperone protein TorD {ECO:0000255|HAMAP-Rule:MF_01150}
+1_1036	Chaperone modulatory protein CbpM {ECO:0000255|HAMAP-Rule:MF_01155}
+1_1037	Curved DNA-binding protein {ECO:0000255|HAMAP-Rule:MF_01154}
+1_1038	Uncharacterized protein YccE
+1_1039	Glucose-1-phosphatase
+1_1040	Hypothetical Protein
+1_1041	quinone oxidoreductase, type IV
+1_1042	Hypothetical Protein
+1_1043	pyrimidine utilization transport protein G
+1_1044	pyrimidine utilization flavin reductase protein F
+1_1045	Probable malonic semialdehyde reductase RutE {ECO:0000255|HAMAP-Rule:MF_01204}
+1_1046	pyrimidine utilization protein D
+1_1047	pyrimidine utilization protein C
+1_1048	pyrimidine utilization protein B
+1_1049	pyrimidine utilization protein A
+1_1050	pyrimidine utilization regulatory protein R
+1_1051	delta-1-pyrroline-5-carboxylate dehydrogenase
+1_1052	Hypothetical Protein
+1_1053	sodium/proline symporter
+1_1054	Hypothetical Protein
+1_1055	Iron permease FTR1 family
+1_1056	Imelysin
+1_1057	Tat-translocated enzyme
+1_1058	PhoH-like protein
+1_1059	Biofilm PGA synthesis protein PgaD
+1_1060	poly-beta-1,6 N-acetyl-D-glucosamine synthase
+1_1061	poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase PgaB
+1_1062	poly-beta-1,6 N-acetyl-D-glucosamine export porin PgaA
+1_1063	Probable diguanylate cyclase DgcT {ECO:0000305}
+1_1064	Transposase InsC for insertion element IS2F
+1_1065	Transposase InsD for insertion element IS2-12
+1_1066	GGDEF domain
+1_1067	Transposase InsF for insertion sequence IS3E
+1_1068	Transposase InsE for insertion sequence IS3A
+1_1069	Putative uncharacterized protein YmdE
+1_1070	Uncharacterized protein YcdU
+1_1071	Glyoxylate/hydroxypyruvate reductase A {ECO:0000255|HAMAP-Rule:MF_01666}
+1_1072	Probable phosphatase YcdX {ECO:0000255|HAMAP-Rule:MF_01561}
+1_1073	Chaperone protein YcdY
+1_1074	Inner membrane protein YcdZ
+1_1075	Curli production assembly/transport component CsgG
+1_1076	Curli production assembly/transport component CsgF
+1_1077	Curli production assembly/transport component CsgE
+1_1078	CsgBAC operon transcriptional regulatory protein
+1_1079	Minor curlin subunit
+1_1080	Major curlin subunit
+1_1081	Thin aggregative fimbriae synthesis protein
+1_1082	Uncharacterized protein YmdA
+1_1083	O-acetyl-ADP-ribose deacetylase {ECO:0000255|HAMAP-Rule:MF_01205, ECO:0000303|PubMed:21257746}
+1_1084	Cardiolipin synthase C {ECO:0000255|HAMAP-Rule:MF_01918}
+1_1085	Glucans biosynthesis protein C
+1_1086	Periplasmic glucan biosynthesis protein, MdoG
+1_1087	Glucans biosynthesis glucosyltransferase H {ECO:0000255|HAMAP-Rule:MF_01072}
+1_1088	Hypothetical Protein
+1_1089	MsyB protein
+1_1090	Major Facilitator Superfamily
+1_1091	lipid A biosynthesis lauroyl (or palmitoleoyl) acyltransferase
+1_1092	tRNA uridine(34) hydroxylase {ECO:0000255|HAMAP-Rule:MF_00469}
+1_1093	Protein YceI
+1_1094	Cytochrome b561 homolog 2
+1_1095	Putative transmembrane protein
+1_1096	FAD dependent oxidoreductase
+1_1097	Hypothetical Protein
+1_1098	Hypothetical Protein
+1_1099	dihydroorotase, homodimeric type
+1_1100	Protein of unknown function (DUF1439)
+1_1101	glutaredoxin, GrxB family
+1_1102	Multidrug resistance protein MdtH {ECO:0000255|HAMAP-Rule:MF_01529}
+1_1103	[Ribosomal protein S5]-alanine N-acetyltransferase {ECO:0000250|UniProtKB:P0A948}
+1_1104	Protein of unknown function, DUF480
+1_1105	Putative oxidoreductase YceM
+1_1106	murein biosynthesis integral membrane protein MurJ
+1_1107	Flagella synthesis protein FlgN
+1_1108	Negative regulator of flagellin synthesis
+1_1109	Flagella basal body P-ring formation protein FlgA
+1_1110	Flagellar basal body rod protein FlgB
+1_1111	flagellar basal-body rod protein FlgC
+1_1112	Basal-body rod modification protein FlgD
+1_1113	flagellar hook-basal body protein
+1_1114	Flagellar basal-body rod protein FlgF
+1_1115	flagellar basal-body rod protein FlgG
+1_1116	Flagellar L-ring protein
+1_1117	Flagellar P-ring protein
+1_1118	flagellar rod assembly protein/muramidase FlgJ
+1_1119	flagellar hook-associated protein FlgK
+1_1120	flagellar hook-associated protein 3
+1_1121	ribonuclease, Rne/Rng family
+1_1122	pseudouridine synthase, RluA family
+1_1123	septum formation protein Maf
+1_1124	Large ribosomal RNA subunit accumulation protein YceD
+1_1125	Hypothetical Protein
+1_1126	fatty acid/phospholipid synthesis protein PlsX
+1_1127	3-oxoacyl-[acyl-carrier-protein] synthase III
+1_1128	malonyl CoA-acyl carrier protein transacylase
+1_1129	3-oxoacyl-[acyl-carrier-protein] reductase
+1_1130	Hypothetical Protein
+1_1131	beta-ketoacyl-acyl-carrier-protein synthase II
+1_1132	aminodeoxychorismate lyase
+1_1133	conserved hypothetical protein, YceG family
+1_1134	dTMP kinase
+1_1135	DNA polymerase III, delta' subunit
+1_1136	hydrolase, TatD family
+1_1137	PTS system, glucose-specific IIBC component
+1_1138	TonB-dependent siderophore receptor
+1_1139	Purine nucleoside phosphoramidase {ECO:0000303|PubMed:15703176}
+1_1140	Uncharacterized protein YcfL
+1_1141	uncharacterized lipoprotein
+1_1142	thiamine kinase
+1_1143	Glycosyl hydrolase family 3 N terminal domain
+1_1144	Uncharacterised protein family (UPF0227)
+1_1145	Type II NADH:quinone oxidoreductase {ECO:0000305}
+1_1146	Uncharacterized protein YcfJ
+1_1147	HTH-type transcriptional repressor ComR
+1_1148	Hypothetical Protein
+1_1149	Probable L,D-transpeptidase YcfS
+1_1150	transcription-repair coupling factor
+1_1151	Inner membrane protein YcfT
+1_1152	lipoprotein releasing system, transmembrane protein, LolC/E family
+1_1153	lipoprotein releasing system, ATP-binding protein
+1_1154	lipoprotein releasing system, transmembrane protein LolE
+1_1155	N-acetyl-D-glucosamine kinase {ECO:0000255|HAMAP-Rule:MF_01271}
+1_1156	NAD-dependent protein deacylase {ECO:0000255|HAMAP-Rule:MF_01121}
+1_1157	Inner membrane protein YcfZ
+1_1158	Inner membrane protein YmfA
+1_1159	Spermidine/putrescine-binding periplasmic protein
+1_1160	Spermidine/putrescine transport system permease protein PotC
+1_1161	Spermidine/putrescine transport system permease protein PotB
+1_1162	polyamine ABC transporter, ATP-binding protein
+1_1163	peptidase T
+1_1164	Cupin superfamily protein
+1_1165	PhoQ Sensor
+1_1166	Transcriptional regulatory protein PhoP
+1_1167	adenylosuccinate lyase
+1_1168	Protein of unknown function (DUF489)
+1_1169	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+1_1170	Phosphatase NudJ
+1_1171	pseudouridine synthase
+1_1172	isocitrate dehydrogenase, NADP-dependent
+1_1173	Protein of unknown function (DUF1398)
+1_1174	HTH-type transcriptional repressor BluR {ECO:0000305}
+1_1175	Blue light- and temperature-regulated antirepressor BluF
+1_1176	Hypothetical Protein
+1_1177	Hypothetical Protein
+1_1178	Hypothetical Protein
+1_1179	EAL domain
+1_1180	Putative transmembrane protein
+1_1181	Hypothetical Protein
+1_1182	outer membrane autotransporter barrel domain
+1_1183	Uncharacterized protein YmgD
+1_1184	UPF0757 protein YmgG {ECO:0000255|HAMAP-Rule:MF_01455}
+1_1185	Hypothetical Protein
+1_1186	septum site-determining protein MinD
+1_1187	septum site-determining protein MinC
+1_1188	Uncharacterized protein YcgJ
+1_1189	Inhibitor of g-type lysozyme
+1_1190	Protein YcgL {ECO:0000255|HAMAP-Rule:MF_01866}
+1_1191	Fumarylacetoacetate (FAA) hydrolase family
+1_1192	UPF0260 protein YcgN {ECO:0000255|HAMAP-Rule:MF_00676}
+1_1193	Haemolysin E (HlyE)
+1_1194	Protein UmuD'
+1_1195	Protein UmuC
+1_1196	Disulfide bond formation protein B
+1_1197	Na+/H+ antiporter NhaB
+1_1198	fatty acid metabolism transcriptional regulator FadR
+1_1199	SpoVR like protein
+1_1200	FAD dependent oxidoreductase
+1_1201	alanine racemase
+1_1202	Sodium/hydrogen exchanger family
+1_1203	LD-carboxypeptidase
+1_1204	Endo-type membrane-bound lytic murein transglycosylase A {ECO:0000255|HAMAP-Rule:MF_01381}
+1_1205	Flagellar brake protein YcgR
+1_1206	Putative transmembrane protein
+1_1207	Uncharacterized protein YcgY
+1_1208	Trehalase
+1_1209	PEP-dependent dihydroxyacetone kinase, phosphoryl donor subunit DhaM {ECO:0000305|PubMed:11350937}
+1_1210	dihydroxyacetone kinase, L subunit
+1_1211	dihydroxyacetone kinase, DhaK subunit
+1_1212	PTS-dependent dihydroxyacetone kinase operon regulatory protein {ECO:0000303|PubMed:15616579}
+1_1213	outer membrane autotransporter barrel domain
+1_1214	Putative transmembrane protein
+1_1215	GTP-binding protein YchF
+1_1216	aminoacyl-tRNA hydrolase
+1_1217	Protein of unknown function (DUF2583)
+1_1218	sulfate permease
+1_1219	ribose-phosphate diphosphokinase
+1_1220	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+1_1221	outer membrane lipoprotein LolB
+1_1222	glutamyl-tRNA reductase
+1_1223	peptide chain release factor 1
+1_1224	methyltransferase, HemK family
+1_1225	Protein YchQ
+1_1226	UPF0162 protein YchA
+1_1227	3-deoxy-8-phosphooctulonate synthase
+1_1228	Putative transmembrane protein
+1_1229	Putative transmembrane protein
+1_1230	Putative transmembrane protein
+1_1231	calcium/proton exchanger
+1_1232	Hypothetical Protein
+1_1233	ChaC-like protein
+1_1234	Protein YchN
+1_1235	Protein of unknown function (DUF3442)
+1_1236	Nitrate/nitrite response regulator protein NarL
+1_1237	Nitrate/nitrite sensor protein NarX
+1_1238	Hypothetical Protein
+1_1239	nitrite transporter
+1_1240	nitrate reductase, alpha subunit
+1_1241	nitrate reductase, beta subunit
+1_1242	nitrate reductase molybdenum cofactor assembly chaperone
+1_1243	respiratory nitrate reductase, gamma subunit
+1_1244	Hypothetical Protein
+1_1245	formyltetrahydrofolate deformylase
+1_1246	UPF0225 protein YchJ {ECO:0000255|HAMAP-Rule:MF_00612}
+1_1247	NTE family protein RssA
+1_1248	Regulator of RpoS {ECO:0000255|HAMAP-Rule:MF_00958}
+1_1249	UTP--glucose-1-phosphate uridylyltransferase
+1_1250	DNA-binding protein H-NS
+1_1251	Thymidine kinase
+1_1252	Putative transposase InsZ
+1_1253	Hypothetical Protein
+1_1254	Iron-containing alcohol dehydrogenase
+1_1255	membrane protein, MarC family
+1_1256	Hypothetical Protein
+1_1257	Hypothetical Protein
+1_1258	Insertion element IS1 5 protein InsA
+1_1259	IS1 transposase
+1_1260	Bacterial extracellular solute-binding proteins, family 5 Middle
+1_1261	Oligopeptide transport system permease protein OppB
+1_1262	Oligopeptide transport system permease protein OppC
+1_1263	Oligopeptide transport ATP-binding protein OppD
+1_1264	Oligopeptide transport ATP-binding protein OppF
+1_1265	UPF0263 protein YciU {ECO:0000255|HAMAP-Rule:MF_00680}
+1_1266	cardiolipin synthase
+1_1267	Voltage-gated potassium channel Kch
+1_1268	Integrase
+1_1269	Hypothetical Protein
+1_1270	Hypothetical Protein
+1_1271	Hypothetical Protein
+1_1272	Hypothetical Protein
+1_1273	Hypothetical Protein
+1_1274	Exonuclease
+1_1275	Hypothetical Protein
+1_1276	Hypothetical Protein
+1_1277	Hypothetical Protein
+1_1278	Hypothetical Protein
+1_1279	Hypothetical Protein
+1_1280	Hypothetical Protein
+1_1281	Putative transmembrane protein
+1_1282	Probable regulatory protein N
+1_1283	Hypothetical Protein
+1_1284	Protein 40A
+1_1285	Repressor protein CI
+1_1286	Hypothetical Protein
+1_1287	Regulatory protein CII
+1_1288	Replication protein 15
+1_1289	Replication protein P
+1_1290	Hypothetical Protein
+1_1291	Uncharacterized protein in rusA 5'region
+1_1292	Hypothetical Protein
+1_1293	Serine/threonine-protein phosphatase
+1_1294	Bacteriophage Lambda NinG protein
+1_1295	Hypothetical Protein
+1_1296	Hypothetical Protein
+1_1297	Putative transmembrane protein
+1_1298	None
+1_1299	Spanin, inner membrane subunit {ECO:0000255|HAMAP-Rule:MF_04137}
+1_1300	Hypothetical Protein
+1_1301	Hypothetical Protein
+1_1302	Hypothetical Protein
+1_1303	Hypothetical Protein
+1_1304	Phage DNA packaging protein Nu1
+1_1305	Phage terminase large subunit (GpA)
+1_1306	Hypothetical Protein
+1_1307	phage portal protein, lambda family
+1_1308	Capsid assembly protease C
+1_1309	Putative decoration protein {ECO:0000305}
+1_1310	cyanase
+1_1311	cyanate transporter
+1_1312	Galactoside O-acetyltransferase {ECO:0000303|PubMed:7592843}
+1_1313	H+ symporter
+1_1314	Glycosyl hydrolases family 2, TIM barrel domain
+1_1315	Lactose operon repressor
+1_1316	DNA-binding transcriptional activator MhpR {ECO:0000305}
+1_1317	FAD binding domain
+1_1318	Catalytic LigB subunit of aromatic ring-opening dioxygenase
+1_1319	2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase {ECO:0000255|HAMAP-Rule:MF_01654}
+1_1320	Hypothetical Protein
+1_1321	Putative transposon gamma-delta 80.3 kDa protein
+1_1322	Transposon gamma-delta resolvase
+1_1323	Tn3 transposase DDE domain
+1_1324	Voltage-gated potassium channel Kch
+1_1325	Protein YciI
+1_1326	Protein TonB
+1_1327	Acyl-CoA thioester hydrolase YciA
+1_1328	intracellular septation protein A
+1_1329	Uncharacterised protein family (UPF0259)
+1_1330	OmpW family
+1_1331	Protein YciE
+1_1332	Domain of unknown function (DUF892)
+1_1333	Hypothetical Protein
+1_1334	tryptophan synthase, alpha subunit
+1_1335	tryptophan synthase, beta subunit
+1_1336	Indole-3-glycerol phosphate synthase
+1_1337	anthranilate phosphoribosyltransferase
+1_1338	anthranilate synthase component I
+1_1339	5'-3' exoribonuclease {ECO:0000303|PubMed:25871919}
+1_1340	tRNA threonylcarbamoyl adenosine modification protein, Sua5/YciO/YrdC/YwlC family
+1_1341	Predicted membrane protein (DUF2207)
+1_1342	pseudouridine synthase
+1_1343	cob(I)yrinic acid a,c-diamide adenosyltransferase
+1_1344	Uncharacterized oxidoreductase YciK
+1_1345	Peptidase family S49 N-terminal
+1_1346	Hypothetical Protein
+1_1347	DNA topoisomerase I
+1_1348	HTH-type transcriptional regulator CysB
+1_1349	Putative transmembrane protein
+1_1350	Hypothetical Protein
+1_1351	Putative transmembrane protein
+1_1352	aconitate hydratase 1
+1_1353	GTP cyclohydrolase II
+1_1354	Phosphatidylglycerophosphatase B
+1_1355	Lipopolysaccharide assembly protein A {ECO:0000255|HAMAP-Rule:MF_01948}
+1_1356	Lipopolysaccharide assembly protein B {ECO:0000255|HAMAP-Rule:MF_00994}
+1_1357	orotidine 5'-phosphate decarboxylase
+1_1358	Uncharacterized protein YciH
+1_1359	Hypothetical Protein
+1_1360	Uncharacterized HTH-type transcriptional regulator YciT
+1_1361	Hypothetical Protein
+1_1362	EAL domain
+1_1363	exoribonuclease II
+1_1364	Uncharacterized protein YciW
+1_1365	Enoyl-(Acyl carrier protein) reductase
+1_1366	Peptide transport system ATP-binding protein SapF
+1_1367	Peptide transport system ATP-binding protein SapD
+1_1368	Putrescine export system permease protein SapC {ECO:0000305}
+1_1369	Peptide transport system permease protein SapB
+1_1370	Bacterial extracellular solute-binding proteins, family 5 Middle
+1_1371	Hypothetical Protein
+1_1372	Putrescine importer PuuP
+1_1373	Glutamine synthetase, catalytic domain
+1_1374	Peptidase C26
+1_1375	HTH-type transcriptional regulator PuuR
+1_1376	Aldehyde dehydrogenase family
+1_1377	FAD dependent oxidoreductase
+1_1378	4-aminobutyrate transaminase
+1_1379	psp operon transcriptional activator
+1_1380	phage shock protein A
+1_1381	Putative transmembrane protein
+1_1382	Phage shock protein C
+1_1383	Hypothetical Protein
+1_1384	phage shock operon rhodanese PspE
+1_1385	Glucosylglycerate phosphorylase {ECO:0000303|PubMed:28754708}
+1_1386	Putative ABC transporter periplasmic-binding protein YcjN
+1_1387	Inner membrane ABC transporter permease protein YcjO
+1_1388	Inner membrane ABC transporter permease protein YcjP
+1_1389	D-guloside 3-dehydrogenase {ECO:0000305|PubMed:30742415}
+1_1390	3-dehydro-D-guloside 4-epimerase {ECO:0000305|PubMed:30742415}
+1_1391	D-glucoside 3-dehydrogenase {ECO:0000305|PubMed:30742415}
+1_1392	Glycosyl hydrolase family 65 central catalytic domain
+1_1393	beta-phosphoglucomutase
+1_1394	Putative uncharacterized ABC transporter ATP-binding protein YcjV
+1_1395	Outer membrane protein G (OmpG)
+1_1396	Uncharacterized HTH-type transcriptional regulator YcjW
+1_1397	YcjX-like family, DUF463
+1_1398	TIGR01620 family protein
+1_1399	Sigma-54 interaction domain
+1_1400	Thiol peroxidase {ECO:0000255|HAMAP-Rule:MF_00269}
+1_1401	L-Ala-D/L-Glu epimerase
+1_1402	Murein peptide amidase A {ECO:0000255|HAMAP-Rule:MF_02211, ECO:0000303|PubMed:12511517}
+1_1403	Hypothetical Protein
+1_1404	Uncharacterized protein YcjY
+1_1405	HTH-type transcriptional regulator PgrR
+1_1406	Bacterial extracellular solute-binding proteins, family 5 Middle
+1_1407	Mechanosensitive ion channel
+1_1408	Transposase InsH for insertion sequence element IS5K
+1_1409	Putative transmembrane protein
+1_1410	Universal stress protein E
+1_1411	Fumarate and nitrate reduction regulatory protein
+1_1412	Methylated-DNA--protein-cysteine methyltransferase {ECO:0000255|HAMAP-Rule:MF_00772}
+1_1413	AbgT transporter family
+1_1414	amidohydrolase
+1_1415	amidohydrolase
+1_1416	HTH-type transcriptional regulator AbgR
+1_1417	Probable DNA endonuclease SmrA
+1_1418	Diguanylate cyclase DgcM {ECO:0000305}
+1_1419	CorA-like Mg2+ transporter protein
+1_1420	Hypothetical Protein
+1_1421	ATP-dependent RNA helicase DbpA {ECO:0000255|HAMAP-Rule:MF_00965}
+1_1422	tRNA-cytidine(32) 2-sulfurtransferase {ECO:0000255|HAMAP-Rule:MF_01850}
+1_1423	Prophage integrase IntR {ECO:0000305}
+1_1424	Hypothetical Protein
+1_1425	Hypothetical Protein
+1_1426	recombinase, phage RecT family
+1_1427	Enterobacterial exodeoxyribonuclease VIII
+1_1428	Protein RacC
+1_1429	Hypothetical Protein
+1_1430	Hypothetical Protein
+1_1431	Superinfection exclusion protein B
+1_1432	Hypothetical Protein
+1_1433	Hypothetical Protein
+1_1434	Prophage repressor RacR {ECO:0000305}
+1_1435	Uncharacterized protein YdaS
+1_1436	Uncharacterized protein YdaT
+1_1437	Uncharacterized protein YdaU
+1_1438	Uncharacterized protein YdaV
+1_1439	Protein YdaW
+1_1440	Putative endopeptidase RzpR {ECO:0000305}
+1_1441	potassium uptake protein, TrkH family
+1_1442	Hypothetical Protein
+1_1443	Protein YdaY
+1_1444	Protein YnaA
+1_1445	Transposase InsH for insertion sequence element IS5Y
+1_1446	Hypothetical Protein
+1_1447	Prophage side tail fiber protein homolog StfR {ECO:0000305}
+1_1448	Prophage tail fiber assembly protein homolog TfaR {ECO:0000305}
+1_1449	Putative DNA-invertase from lambdoid prophage Rac
+1_1450	Hypothetical Protein
+1_1451	Transposase InsH for insertion sequence element IS5K
+1_1452	Universal stress protein F
+1_1453	Gram-negative porin
+1_1454	ferredoxin (flavodoxin) oxidoreductase
+1_1455	Hypothetical Protein
+1_1456	Heat shock protein HslJ
+1_1457	D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+1_1458	Dicarboxylate transport
+1_1459	Hypothetical Protein
+1_1460	Uncharacterized protein YdbL
+1_1461	Transcriptional activator FeaR
+1_1462	Aldehyde dehydrogenase family
+1_1463	Copper amine oxidase, enzyme domain
+1_1464	phenylacetic acid degradation protein paaN
+1_1465	phenylacetate-CoA oxygenase, PaaG subunit
+1_1466	1,2-phenylacetyl-CoA epoxidase, subunit B
+1_1467	phenylacetate-CoA oxygenase, PaaI subunit
+1_1468	phenylacetate-CoA oxygenase, PaaJ subunit
+1_1469	phenylacetate-CoA oxygenase/reductase, PaaK subunit
+1_1470	Enoyl-CoA hydratase/isomerase family
+1_1471	phenylacetate degradation probable enoyl-CoA hydratase PaaB
+1_1472	3-hydroxyacyl-CoA dehydrogenase PaaC
+1_1473	phenylacetic acid degradation protein PaaD
+1_1474	3-oxoadipyl-CoA thiolase
+1_1475	phenylacetate-CoA ligase
+1_1476	phenylacetic acid degradation operon negative regulatory protein PaaX
+1_1477	phenylacetic acid degradation protein PaaY
+1_1478	Exported protein YdbA
+1_1479	Transposase InsD for insertion element IS2-12
+1_1480	Transposase InsC for insertion element IS2F
+1_1481	Transposase InsI for insertion sequence element IS30A
+1_1482	Putative surface-exposed virulence protein BigA
+1_1483	Aldo/keto reductase family
+1_1484	Uncharacterized protein YdbD
+1_1485	Inner membrane protein YnbA
+1_1486	Cytidylyltransferase family
+1_1487	Putative methyltransferase
+1_1488	Uncharacterized protein YnbD
+1_1489	FMN-dependent NADH:quinone oxidoreductase {ECO:0000255|HAMAP-Rule:MF_01216, ECO:0000305}
+1_1490	RNA helicase HrpA
+1_1491	Protein YdcF
+1_1492	Aldehyde dehydrogenase family
+1_1493	Hypothetical Protein
+1_1494	Glyceraldehyde-3-phosphate dehydrogenase C {ECO:0000250|UniProtKB:P0A9B2}
+1_1495	Hypothetical Protein
+1_1496	Cytochrome b561
+1_1497	Hypothetical Protein
+1_1498	Hypothetical Protein
+1_1499	Methyl-accepting chemotaxis protein (MCP) signalling domain
+1_1500	Uncharacterized HTH-type transcriptional regulator YdcI
+1_1501	Domain of unknown function (DUF1338)
+1_1502	Periplasmic glucan biosynthesis protein, MdoG
+1_1503	Hypothetical Protein
+1_1504	Ribosomal-protein-serine acetyltransferase
+1_1505	Uncharacterized acetyltransferase YdcK
+1_1506	C4-dicarboxylate transporter/malic acid transport protein
+1_1507	tellurite resistance protein TehB
+1_1508	Protein of unknown function (DUF3313)
+1_1509	Hypothetical Protein
+1_1510	Probable transposase
+1_1511	benzoate transporter
+1_1512	HTH-type transcriptional regulator SutR {ECO:0000305}
+1_1513	Peptidase family U32
+1_1514	Hypothetical Protein
+1_1515	Hypothetical Protein
+1_1516	Antitoxin HicB
+1_1517	Uncharacterized HTH-type transcriptional regulator YdcR
+1_1518	Bifunctional polyhydroxybutyrate synthase / ABC transporter periplasmic binding protein {ECO:0000305}
+1_1519	Uncharacterized ABC transporter ATP-binding protein YdcT {ECO:0000305}
+1_1520	Inner membrane ABC transporter permease protein YdcU {ECO:0000305}
+1_1521	Inner membrane ABC transporter permease protein YdcV {ECO:0000305}
+1_1522	1-pyrroline dehydrogenase
+1_1523	Putative transmembrane protein
+1_1524	Hypothetical Protein
+1_1525	Inner membrane protein YdcZ
+1_1526	L-amino acid N-acyltransferase MnaT {ECO:0000305|PubMed:27941785, ECO:0000305|Ref.4}
+1_1527	NADPH-dependent curcumin reductase
+1_1528	HTH-type transcriptional regulator McbR
+1_1529	TonB-dependent siderophore receptor
+1_1530	Uncharacterized protein YncE
+1_1531	Amino acid permease
+1_1532	Uncharacterized GST-like protein YncG
+1_1533	Hypothetical Protein
+1_1534	Putative protein RhsE
+1_1535	Uncharacterized protein YdcD
+1_1536	Putative transposase YncI
+1_1537	H repeat-associated putative transposase YdcC
+1_1538	Hypothetical Protein
+1_1539	Uncharacterized protein YddH
+1_1540	N-acetyltransferase
+1_1541	phenazine biosynthesis protein, PhzF family
+1_1542	respiratory nitrate reductase, gamma subunit
+1_1543	Probable nitrate reductase molybdenum cofactor assembly chaperone NarW
+1_1544	nitrate reductase, beta subunit
+1_1545	nitrate reductase, alpha subunit
+1_1546	nitrite transporter
+1_1547	Putative protein YddJ
+1_1548	Leucine-rich repeat domain-containing protein YddK
+1_1549	Protein YddL
+1_1550	Aromatic amino acid exporter YddG
+1_1551	Formate dehydrogenase, nitrate-inducible, major subunit
+1_1552	formate dehydrogenase-N alpha subunit
+1_1553	formate dehydrogenase, beta subunit
+1_1554	formate dehydrogenase, gamma subunit
+1_1555	Uncharacterized HTH-type transcriptional regulator YddM
+1_1556	Alcohol dehydrogenase, propanol-preferring
+1_1557	Malic enzyme, NAD binding domain
+1_1558	Hypothetical Protein
+1_1559	Hypothetical Protein
+1_1560	peroxiredoxin, OsmC subfamily
+1_1561	Probable D,D-dipeptide transport ATP-binding protein DdpF
+1_1562	Probable D,D-dipeptide transport ATP-binding protein DdpD
+1_1563	Probable D,D-dipeptide transport system permease protein DdpC
+1_1564	Probable D,D-dipeptide transport system permease protein DdpB
+1_1565	Bacterial extracellular solute-binding proteins, family 5 Middle
+1_1566	D-ala-D-ala dipeptidase
+1_1567	EAL domain
+1_1568	diguanylate cyclase (GGDEF) domain
+1_1569	Glycosyl hydrolase like GH101
+1_1570	gamma-aminobutyrate antiporter
+1_1571	glutamate decarboxylase
+1_1572	Probable zinc protease PqqL
+1_1573	Uncharacterized protein YddB
+1_1574	Inner membrane ABC transporter ATP-binding protein YddA
+1_1575	anaerobic sulfatase maturase
+1_1576	Sulfatase
+1_1577	HTH-type transcriptional regulator YdeO
+1_1578	Putative transmembrane protein
+1_1579	oxidoreductase alpha (molybdopterin) subunit
+1_1580	FimH, mannose binding
+1_1581	Uncharacterized fimbrial-like protein YdeR
+1_1582	Uncharacterized fimbrial-like protein YdeS
+1_1583	Serine/threonine-protein kinase toxin HipA
+1_1584	Hypothetical Protein
+1_1585	outer membrane autotransporter barrel domain
+1_1586	T5SS/PEP-CTERM-associated repeat
+1_1587	FGGY family of carbohydrate kinases, N-terminal domain
+1_1588	Putative sugar-binding domain
+1_1589	ABC transporter
+1_1590	Autoinducer 2 import system permease protein LsrC
+1_1591	Autoinducer 2 import system permease protein LsrD
+1_1592	Periplasmic binding protein domain
+1_1593	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase {ECO:0000255|HAMAP-Rule:MF_02052}
+1_1594	(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase {ECO:0000255|HAMAP-Rule:MF_02051}
+1_1595	Trans-aconitate 2-methyltransferase
+1_1596	Bestrophin, RFP-TM, chloride channel
+1_1597	Mannitol dehydrogenase C-terminal domain
+1_1598	Probable diguanylate cyclase DgcF {ECO:0000305}
+1_1599	Domain of unknown function (DUF4186)
+1_1600	glutaminase A
+1_1601	Aldehyde dehydrogenase family
+1_1602	Uncharacterized HTH-type transcriptional regulator YneJ
+1_1603	Uncharacterized protein YneK
+1_1604	Probable sugar efflux transporter {ECO:0000255|HAMAP-Rule:MF_00517}
+1_1605	MarC family integral membrane protein
+1_1606	Multiple antibiotic resistance protein MarR
+1_1607	Multiple antibiotic resistance protein MarA
+1_1608	Hypothetical Protein
+1_1609	Probable amino-acid metabolite efflux pump
+1_1610	Uncharacterized MFS-type transporter YdeE
+1_1611	Putative transmembrane protein
+1_1612	Diguanylate cyclase DgcZ {ECO:0000303|PubMed:23769666}
+1_1613	TIGR00156 family protein
+1_1614	amidohydrolase, PncC family
+1_1615	Peptidase family M3
+1_1616	NADP-dependent 3-hydroxy acid dehydrogenase YdfG {ECO:0000303|PubMed:12535615}
+1_1617	HTH-type transcriptional repressor RspR
+1_1618	Hypothetical Protein
+1_1619	Mannitol dehydrogenase C-terminal domain
+1_1620	H+ symporter (MHS) family protein
+1_1621	Hypothetical Protein
+1_1622	Serine recombinase PinQ {ECO:0000250|UniProtKB:P03015}
+1_1623	Prophage tail fiber assembly protein homolog TfaQ {ECO:0000305}
+1_1624	Prophage side tail fiber protein homolog StfQ {ECO:0000305}
+1_1625	Phage DNA packaging protein Nu1
+1_1626	Protein of unknown function (DUF1398)
+1_1627	Hypothetical Protein
+1_1628	Hypothetical Protein
+1_1629	Uncharacterized protein RzpQ
+1_1630	Probable prophage lysozyme {ECO:0000305}
+1_1631	Uncharacterized protein YdfR
+1_1632	Putative transmembrane protein
+1_1633	Hypothetical Protein
+1_1634	Hypothetical Protein
+1_1635	Hypothetical Protein
+1_1636	Antitermination protein
+1_1637	Protein of unknown function (DUF968)
+1_1638	Hypothetical Protein
+1_1639	Putative transmembrane protein
+1_1640	mRNA interferase RelE
+1_1641	Hypothetical Protein
+1_1642	Protein FlxA
+1_1643	Hypothetical Protein
+1_1644	Protein YdfX
+1_1645	Hypothetical Protein
+1_1646	HTH-type transcriptional regulator DicA
+1_1647	Hypothetical Protein
+1_1648	Hypothetical Protein
+1_1649	Hypothetical Protein
+1_1650	Hypothetical Protein
+1_1651	Hypothetical Protein
+1_1652	Hypothetical Protein
+1_1653	Putative uncharacterized protein YdfE
+1_1654	Transposase InsD for insertion element IS2D
+1_1655	Putative defective protein IntQ {ECO:0000305}
+1_1656	Transposase InsD for insertion element IS2-12
+1_1657	Transposase InsC for insertion element IS2F
+1_1658	Putative defective protein IntQ {ECO:0000305}
+1_1659	Starvation-sensing protein RspB
+1_1660	Starvation-sensing protein RspA
+1_1661	UPF0060 membrane protein YnfA {ECO:0000255|HAMAP-Rule:MF_00010}
+1_1662	UPF0482 protein YnfB {ECO:0000255|HAMAP-Rule:MF_01581}
+1_1663	Spermidine N(1)-acetyltransferase {ECO:0000250|UniProtKB:P0A951}
+1_1664	Uncharacterised protein family (UPF0257)
+1_1665	Uncharacterized protein YnfD
+1_1666	anaerobic dimethyl sulfoxide reductase, A subunit, DmsA/YnfE family
+1_1667	anaerobic dimethyl sulfoxide reductase, A subunit, DmsA/YnfE family
+1_1668	dimethylsulfoxide reductase, chain B
+1_1669	DMSO reductase anchor subunit (DmsC)
+1_1670	Tat proofreading chaperone DmsD {ECO:0000255|HAMAP-Rule:MF_00940}
+1_1671	Voltage gated chloride channel
+1_1672	ATP-dependent dethiobiotin synthetase BioD 2 {ECO:0000255|HAMAP-Rule:MF_00336}
+1_1673	Protein mlc
+1_1674	Uncharacterized HTH-type transcriptional regulator YnfL
+1_1675	Inner membrane transport protein YnfM
+1_1676	Acid shock protein {ECO:0000255|HAMAP-Rule:MF_00546}
+1_1677	Uncharacterized serine protease YdgD
+1_1678	Spermidine export protein MdtI {ECO:0000255|HAMAP-Rule:MF_01597}
+1_1679	Spermidine export protein MdtJ {ECO:0000255|HAMAP-Rule:MF_01598}
+1_1680	Domain of unknown function DUF20
+1_1681	NAD(P) transhydrogenase beta subunit
+1_1682	NAD(P)(+) transhydrogenase (AB-specific), alpha subunit
+1_1683	Protein of unknown function (DUF1471)
+1_1684	transporter, basic amino acid/polyamine antiporter (APA) family
+1_1685	Dihydromonapterin reductase {ECO:0000303|PubMed:19897652}
+1_1686	Inner membrane protein YdgC
+1_1687	Transcriptional regulatory protein RstA
+1_1688	Sensor protein RstB
+1_1689	DNA replication terminus site-binding protein
+1_1690	fumarate hydratase, class II
+1_1691	Fumarate hydratase (Fumerase)
+1_1692	mannose-6-phosphate isomerase, class I
+1_1693	Bacterial protein of unknown function (DUF945)
+1_1694	Hypothetical Protein
+1_1695	Membrane-associated protein UidC
+1_1696	sugar (Glycoside-Pentoside-Hexuronide) transporter
+1_1697	Glycosyl hydrolases family 2, TIM barrel domain
+1_1698	HTH-type transcriptional regulator UidR
+1_1699	7alpha-hydroxysteroid dehydrogenase {ECO:0000250|UniProtKB:P0AET8}
+1_1700	Periplasmic binding proteins and sugar binding domain of LacI family
+1_1701	PTS system, maltose and glucose-specific IIBC component
+1_1702	putative C-S lyase
+1_1703	adenosine deaminase
+1_1704	Uncharacterized oxidoreductase YdgJ
+1_1705	Hypothetical Protein
+1_1706	Inner membrane protein YdgK
+1_1707	electron transport complex, RnfABCDGE type, A subunit
+1_1708	electron transport complex, RnfABCDGE type, B subunit
+1_1709	electron transport complex, RnfABCDGE type, C subunit
+1_1710	electron transport complex, RnfABCDGE type, D subunit
+1_1711	electron transport complex, RnfABCDGE type, G subunit
+1_1712	electron transport complex, RnfABCDGE type, E subunit
+1_1713	endonuclease III
+1_1714	Hypothetical Protein
+1_1715	H+ symporter)
+1_1716	Glutathione S-transferase GstA
+1_1717	pyridoxal kinase
+1_1718	tyrosine--tRNA ligase
+1_1719	pyridoxamine 5'-phosphate oxidase
+1_1720	Membrane-bound lysozyme inhibitor of C-type lysozyme {ECO:0000303|PubMed:18369469}
+1_1721	Uncharacterised protein family (UPF0075)
+1_1722	Outer membrane lipoprotein SlyB
+1_1723	Transcriptional regulator SlyA {ECO:0000255|HAMAP-Rule:MF_01819}
+1_1724	Putative transmembrane protein
+1_1725	Uncharacterized protein YdhJ
+1_1726	Fusaric acid resistance protein family
+1_1727	Superoxide dismutase [Cu-Zn]
+1_1728	Aldo/keto reductase family
+1_1729	Hypothetical Protein
+1_1730	HTH-type transcriptional repressor NemR {ECO:0000250|UniProtKB:P67430}
+1_1731	NADH:flavin oxidoreductase / NADH oxidase family
+1_1732	lactoylglutathione lyase
+1_1733	ribonuclease T
+1_1734	DEAD/H associated
+1_1735	Glutaredoxin 4
+1_1736	Murein DD-endopeptidase MepH
+1_1737	Superoxide dismutase [Fe]
+1_1738	Inner membrane transport protein YdhP
+1_1739	Putative transmembrane protein
+1_1740	HTH-type transcriptional repressor PurR {ECO:0000255|HAMAP-Rule:MF_01277}
+1_1741	Uncharacterized HTH-type transcriptional regulator YdhB
+1_1742	drug resistance transporter, Bcr/CflA subfamily
+1_1743	Mycolic acid cyclopropane synthetase
+1_1744	riboflavin synthase, alpha subunit
+1_1745	MATE efflux family protein
+1_1746	Uncharacterized protein YdhQ
+1_1747	Putative monooxygenase YdhR
+1_1748	Uncharacterized protein YdhS
+1_1749	Uncharacterized protein YdhT
+1_1750	Putative cytochrome YdhU {ECO:0000305}
+1_1751	Uncharacterized ferredoxin-like protein YdhX
+1_1752	Uncharacterized protein YdhW
+1_1753	Aldehyde ferredoxin oxidoreductase, domains 2 & 3
+1_1754	Uncharacterized ferredoxin-like protein YdhY
+1_1755	Hypothetical Protein
+1_1756	pyruvate kinase
+1_1757	Hypothetical Protein
+1_1758	Probable L,D-transpeptidase YnhG
+1_1759	Cysteine desulfuration protein SufE {ECO:0000255|HAMAP-Rule:MF_01832}
+1_1760	cysteine desulfurase, SufS family
+1_1761	FeS assembly protein SufD
+1_1762	FeS assembly ATPase SufC
+1_1763	FeS assembly protein SufB
+1_1764	FeS assembly scaffold SufA
+1_1765	Hypothetical Protein
+1_1766	1,4-dihydroxy-2-naphthoyl-CoA hydrolase {ECO:0000255|HAMAP-Rule:MF_01936, ECO:0000305}
+1_1767	FAD linked oxidases, C-terminal domain
+1_1768	Domain of unknown function DUF20
+1_1769	Domain of unknown function (DUF1870)
+1_1770	Inner membrane transport protein YdiM
+1_1771	Inner membrane transport protein YdiN
+1_1772	Quinate/shikimate dehydrogenase {ECO:0000255|HAMAP-Rule:MF_01578}
+1_1773	3-dehydroquinate dehydratase, type I
+1_1774	Coenzyme A transferase
+1_1775	Probable acyl-CoA dehydrogenase YdiO
+1_1776	Uncharacterized HTH-type transcriptional regulator YdiP
+1_1777	Hypothetical Protein
+1_1778	Putative electron transfer flavoprotein subunit YdiQ
+1_1779	Putative electron transfer flavoprotein subunit YdiR
+1_1780	Probable electron transfer flavoprotein-quinone oxidoreductase YdiS
+1_1781	Ferredoxin-like protein YdiT
+1_1782	AMP-binding enzyme
+1_1783	phosphoenolpyruvate synthase
+1_1784	Kinase/pyrophosphorylase
+1_1785	3-deoxy-7-phosphoheptulonate synthase
+1_1786	Hypothetical Protein
+1_1787	Uncharacterized ACR, YdiU/UPF0061 family
+1_1788	Putative anti-FlhC(2)FlhD(4) factor YdiV
+1_1789	Probable endopeptidase NlpC
+1_1790	Vitamin B12 import ATP-binding protein BtuD {ECO:0000255|HAMAP-Rule:MF_01005}
+1_1791	Thioredoxin/glutathione peroxidase BtuE {ECO:0000255|HAMAP-Rule:MF_02061, ECO:0000305}
+1_1792	FecCD transport family
+1_1793	integration host factor, alpha subunit
+1_1794	phenylalanine--tRNA ligase, beta subunit
+1_1795	phenylalanine--tRNA ligase, alpha subunit
+1_1796	ribosomal protein L20
+1_1797	Hypothetical Protein
+1_1798	translation initiation factor IF-3
+1_1799	threonine--tRNA ligase
+1_1800	Putative ankyrin repeat protein B
+1_1801	Putative transmembrane protein
+1_1802	Putative transmembrane protein
+1_1803	Protein of unknown function, DUF481
+1_1804	hexose kinase, 1-phosphofructokinase family
+1_1805	Uncharacterized protein YdiZ
+1_1806	Fructosamine kinase
+1_1807	YniB-like protein
+1_1808	Hexitol phosphatase B {ECO:0000303|PubMed:27941785}
+1_1809	Inner membrane protein YdjM
+1_1810	Sodium:dicarboxylate symporter family
+1_1811	Uncharacterized protein YdjO
+1_1812	Cell division activator CedA
+1_1813	Catalase
+1_1814	YdjC-like protein
+1_1815	Family 4 glycosyl hydrolase
+1_1816	HTH-type transcriptional regulator ChbR
+1_1817	PTS system N,N'-diacetylchitobiose-specific EIIA component {ECO:0000250|UniProtKB:P69791}
+1_1818	PTS system, cellobiose-specific IIC component
+1_1819	PTS system N,N'-diacetylchitobiose-specific EIIB component {ECO:0000250|UniProtKB:P69795}
+1_1820	Osmotically-inducible putative lipoprotein OsmE
+1_1821	NAD+ synthetase
+1_1822	Excinuclease cho
+1_1823	Protein Ves {ECO:0000255|HAMAP-Rule:MF_01591}
+1_1824	Periplasmic chaperone Spy {ECO:0000303|PubMed:21317898}
+1_1825	succinylglutamate desuccinylase
+1_1826	Succinylarginine dihydrolase
+1_1827	succinylglutamate-semialdehyde dehydrogenase
+1_1828	arginine N-succinyltransferase
+1_1829	succinylornithine transaminase family
+1_1830	exodeoxyribonuclease III
+1_1831	TVP38/TMEM64 family membrane protein YdjX
+1_1832	Uncharacterized protein YdjY
+1_1833	TVP38/TMEM64 family inner membrane protein YdjZ
+1_1834	Uncharacterized protein YnjA
+1_1835	Protein YnjB
+1_1836	Inner membrane ABC transporter permease protein YnjC
+1_1837	Uncharacterized ABC transporter ATP-binding protein YnjD
+1_1838	Thiosulfate sulfurtransferase YnjE
+1_1839	Inner membrane protein YnjF
+1_1840	CTP pyrophosphohydrolase
+1_1841	Uncharacterized protein YnjH
+1_1842	Glutamate/Leucine/Phenylalanine/Valine dehydrogenase
+1_1843	Inner membrane protein YnjI
+1_1844	DNA topoisomerase III
+1_1845	selenide, water dikinase
+1_1846	Putative NAD(P)H nitroreductase YdjA
+1_1847	signal peptide peptidase SppA, 67K type
+1_1848	L-asparaginase, type I
+1_1849	Nicotinamidase {ECO:0000303|PubMed:4399474, ECO:0000303|PubMed:8726014}
+1_1850	Inner membrane metabolite transport protein YdjE
+1_1851	Uncharacterized HTH-type transcriptional regulator YdjF
+1_1852	Aldo/keto reductase family
+1_1853	pfkB family carbohydrate kinase
+1_1854	ketose-bisphosphate aldolase
+1_1855	Uncharacterized zinc-type alcohol dehydrogenase-like protein YdjJ
+1_1856	Putative metabolite transport protein YdjK
+1_1857	Uncharacterized zinc-type alcohol dehydrogenase-like protein YdjL
+1_1858	Uncharacterized protein YeaC
+1_1859	methionine-R-sulfoxide reductase
+1_1860	glyceraldehyde-3-phosphate dehydrogenase, type I
+1_1861	Putative glucose-6-phosphate 1-epimerase {ECO:0000250|UniProtKB:Q03161}
+1_1862	Aldo/keto reductase family
+1_1863	MltA-interacting protein MipA
+1_1864	PrkA AAA domain
+1_1865	Protein of unknown function (DUF444)
+1_1866	Probable diguanylate cyclase CdgI {ECO:0000305}
+1_1867	Probable diguanylate cyclase DgcJ {ECO:0000305}
+1_1868	Uncharacterized protein YeaK
+1_1869	UPF0756 membrane protein YeaL {ECO:0000255|HAMAP-Rule:MF_01874}
+1_1870	HTH-type transcriptional regulator NimR {ECO:0000305}
+1_1871	cyanate transporter
+1_1872	Uncharacterized protein YeaO
+1_1873	Hypothetical Protein
+1_1874	Diguanylate cyclase DgcP {ECO:0000305}
+1_1875	Putative transmembrane protein
+1_1876	Hypothetical Protein
+1_1877	Uncharacterized protein YeaR
+1_1878	LysE type translocator
+1_1879	HTH-type transcriptional regulator DmlR
+1_1880	tartrate dehydrogenase
+1_1881	transporter, betaine/carnitine/choline transporter (BCCT) family
+1_1882	Carnitine monooxygenase oxygenase subunit {ECO:0000255|HAMAP-Rule:MF_02097}
+1_1883	Carnitine monooxygenase reductase subunit {ECO:0000255|HAMAP-Rule:MF_02098, ECO:0000305}
+1_1884	ribonuclease D
+1_1885	AMP-binding enzyme
+1_1886	outer membrane lipoprotein, Slp family
+1_1887	tRNA threonylcarbamoyl adenosine modification protein YeaZ
+1_1888	Probable ATP-dependent DNA helicase YoaA {ECO:0000305}
+1_1889	RutC family protein YoaB
+1_1890	Domain of unknown function (DUF1889)
+1_1891	Hypothetical Protein
+1_1892	aminodeoxychorismate synthase, component I
+1_1893	Uncharacterized Nudix hydrolase NudL {ECO:0000255|HAMAP-Rule:MF_01592}
+1_1894	L-serine ammonia-lyase
+1_1895	EAL domain
+1_1896	UPF0053 inner membrane protein YoaE
+1_1897	PTS system sorbose subfamily IIB component
+1_1898	PTS system, mannose/fructose/sorbose family, IIC component
+1_1899	PTS system, mannose/fructose/sorbose family, IID component
+1_1900	Protein of unknown function (DUF986)
+1_1901	Probable manganese efflux pump MntP {ECO:0000255|HAMAP-Rule:MF_01521}
+1_1902	23S rRNA (guanine(745)-N(1))-methyltransferase
+1_1903	Hypothetical Protein
+1_1904	Putative transmembrane protein
+1_1905	Putative transmembrane protein
+1_1906	Transcriptional regulator KdgR
+1_1907	Uncharacterized transporter YebQ
+1_1908	Protease HtpX {ECO:0000255|HAMAP-Rule:MF_00188}
+1_1909	C-terminal processing peptidase
+1_1910	RNA chaperone ProQ {ECO:0000255|HAMAP-Rule:MF_00749}
+1_1911	Free methionine-R-sulfoxide reductase
+1_1912	integral membrane protein, PqiA family
+1_1913	mce related protein
+1_1914	NOL1/NOP2/sun family putative RNA methylase
+1_1915	Hypothetical Protein
+1_1916	Hypothetical Protein
+1_1917	Serine/threonine-protein phosphatase 1
+1_1918	Uncharacterized protein YebY
+1_1919	Inner membrane protein YebZ
+1_1920	Protein YobA
+1_1921	Hypothetical Protein
+1_1922	Uncharacterized protein YobB
+1_1923	Exodeoxyribonuclease 10
+1_1924	Prolyl oligopeptidase, N-terminal beta-propeller domain
+1_1925	Protein of unknown function (DUF533)
+1_1926	Hypothetical Protein
+1_1927	Protein YebF
+1_1928	Uncharacterized protein YebG
+1_1929	phosphoribosylglycinamide formyltransferase 2
+1_1930	KDPG and KHG aldolase
+1_1931	phosphogluconate dehydratase
+1_1932	glucose-6-phosphate dehydrogenase
+1_1933	Hypothetical Protein
+1_1934	HTH-type transcriptional regulator HexR
+1_1935	pyruvate kinase
+1_1936	lipid A biosynthesis (KDO)2-(lauroyl)-lipid IVA acyltransferase
+1_1937	Murein DD-endopeptidase MepM
+1_1938	Periplasmic solute binding protein family
+1_1939	Zinc import ATP-binding protein ZnuC {ECO:0000255|HAMAP-Rule:MF_01725}
+1_1940	ABC 3 transport family
+1_1941	Holliday junction DNA helicase RuvB
+1_1942	Holliday junction DNA helicase RuvA
+1_1943	Uncharacterized protein YebB
+1_1944	crossover junction endodeoxyribonuclease RuvC
+1_1945	DNA-binding regulatory protein, YebC/PmpR family
+1_1946	Dihydroneopterin triphosphate diphosphatase
+1_1947	aspartate--tRNA ligase
+1_1948	Isochorismatase family protein YecD
+1_1949	Protein of unknown function DUF72
+1_1950	Inner membrane protein YecN
+1_1951	tRNA (cmo5U34)-methyltransferase
+1_1952	Protein of unknown function (DUF1698)
+1_1953	molybdopterin guanine dinucleotide-containing S/N-oxide reductases
+1_1954	NapC/NirT cytochrome c family, N-terminal region
+1_1955	CutC family
+1_1956	YecM protein
+1_1957	arginine--tRNA ligase
+1_1958	Uncharacterized protein YecT
+1_1959	Flagellar protein FlhE
+1_1960	flagellar biosynthesis protein FlhA
+1_1961	flagellar biosynthetic protein FlhB
+1_1962	Chemotaxis phosphatase, CheZ
+1_1963	Chemotaxis protein CheY
+1_1964	CheB methylesterase
+1_1965	CheR methyltransferase, SAM binding domain
+1_1966	Methyl-accepting chemotaxis protein (MCP) signalling domain
+1_1967	Methyl-accepting chemotaxis protein (MCP) signalling domain
+1_1968	Chemotaxis protein CheW
+1_1969	Chemotaxis protein CheA
+1_1970	Motility protein B
+1_1971	flagellar motor stator protein MotA
+1_1972	Flagellar transcriptional activator (FlhC)
+1_1973	Flagellar transcriptional regulator FlhD {ECO:0000255|HAMAP-Rule:MF_00725}
+1_1974	Transposase InsH for insertion sequence element IS5K
+1_1975	Universal stress protein C
+1_1976	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
+1_1977	trehalose-phosphatase
+1_1978	L-arabinose transport system permease protein AraH
+1_1979	ABC transporter
+1_1980	Periplasmic binding proteins and sugar binding domain of LacI family
+1_1981	Bacterial non-heme ferritin-like protein
+1_1982	Protein of unknown function (DUF2766)
+1_1983	Uncharacterized protein YecR
+1_1984	Bacterial non-heme ferritin
+1_1985	Hypothetical Protein
+1_1986	aromatic amino acid transport protein
+1_1987	yecA family protein
+1_1988	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1_1989	excinuclease ABC subunit C
+1_1990	Response regulator UvrY
+1_1991	Hypothetical Protein
+1_1992	Regulatory protein SdiA
+1_1993	L-cystine transport system ATP-binding protein TcyN {ECO:0000305}
+1_1994	L-cystine transport system permease protein TcyL {ECO:0000305}
+1_1995	pyridoxal phosphate-dependent enzymes, D-cysteine desulfhydrase family
+1_1996	Bacterial extracellular solute-binding proteins, family 3
+1_1997	flagellar regulatory protein FliZ
+1_1998	RNA polymerase sigma factor, FliA/WhiG family
+1_1999	Flagellin
+1_2000	Flagellar hook-associated protein 2 C-terminus
+1_2001	flagellar protein FliS
+1_2002	Flagellar protein FliT {ECO:0000255|HAMAP-Rule:MF_01180}
+1_2003	Cytoplasmic alpha-amylase
+1_2004	YedD-like protein
+1_2005	UPF0394 inner membrane protein YedE
+1_2006	Hypothetical Protein
+1_2007	Abasic site processing protein YedK
+1_2008	Uncharacterized N-acetyltransferase YedL
+1_2009	Hypothetical Protein
+1_2010	Uncharacterized protein YedM
+1_2011	Flagellar hook-basal body complex protein FliE {ECO:0000255|HAMAP-Rule:MF_00724}
+1_2012	flagellar M-ring protein FliF
+1_2013	flagellar motor switch protein FliG
+1_2014	Flagellar assembly protein FliH
+1_2015	ATPase, FliI/YscN family
+1_2016	Flagellar FliJ protein
+1_2017	Flagellar hook-length control protein
+1_2018	Flagellar protein FliL
+1_2019	flagellar motor switch protein FliM
+1_2020	Flagellar motor switch protein FliN
+1_2021	Flagellar protein FliO
+1_2022	flagellar biosynthetic protein FliP
+1_2023	Putative transmembrane protein
+1_2024	flagellar biosynthetic protein FliR
+1_2025	Transcriptional regulatory protein RcsA {ECO:0000255|HAMAP-Rule:MF_00982}
+1_2026	Hypothetical Protein
+1_2027	Hypothetical Protein
+1_2028	mannosyl-3-phosphoglycerate phosphatase family
+1_2029	diguanylate cyclase (GGDEF) domain
+1_2030	Hypothetical Protein
+1_2031	Protein of unknown function (DUF808)
+1_2032	carboxylate/amino acid/amine transporter
+1_2033	DNA mismatch endonuclease Vsr
+1_2034	DNA (cytosine-5-)-methyltransferase
+1_2035	Uncharacterized protein YedJ
+1_2036	Cell division protein DrpB {ECO:0000255|HAMAP-Rule:MF_00857, ECO:0000303|PubMed:32900831}
+1_2037	Gram-negative porin
+1_2038	Hypothetical Protein
+1_2039	Outer membrane protein S1
+1_2040	Protein/nucleic acid deglycase 1 {ECO:0000305|PubMed:26774339, ECO:0000305|PubMed:28596309}
+1_2041	heavy metal sensor kinase
+1_2042	heavy metal response regulator
+1_2043	5-hydroxyisourate hydrolase
+1_2044	Protein-methionine-sulfoxide reductase catalytic subunit MsrP {ECO:0000255|HAMAP-Rule:MF_01206}
+1_2045	Protein-methionine-sulfoxide reductase heme-binding subunit MsrQ {ECO:0000255|HAMAP-Rule:MF_01207}
+1_2046	YodA lipocalin-like domain
+1_2047	Cytochrome b561 homolog 1
+1_2048	Glucose-regulated metallo-peptidase M90
+1_2049	Hypothetical Protein
+1_2050	Bacterial Ig-like domain (group 1)
+1_2051	Putative uncharacterized protein YeeL
+1_2052	H+ symporter (MHS) family protein
+1_2053	AMP nucleosidase
+1_2054	Transcriptional regulator
+1_2055	MATE efflux family protein
+1_2056	HTH-type transcriptional regulator cbl
+1_2057	Nitrogen assimilation regulatory protein nac
+1_2058	Probable L,D-transpeptidase ErfK/SrfK
+1_2059	Phosphoribosyltransferase
+1_2060	cobalamin 5'-phosphate synthase
+1_2061	Cobinamide kinase / cobinamide phosphate guanyltransferase
+1_2062	Transposase InsH for insertion sequence element IS5H
+1_2063	Protein YoeA
+1_2064	Transposase InsD for insertion element IS2-12
+1_2065	Transposase InsC for insertion element IS2F
+1_2066	Putative uncharacterized protein YeeP
+1_2067	Autotransporter beta-domain
+1_2068	Inner membrane protein YeeR
+1_2069	UPF0758 protein YeeS
+1_2070	Hypothetical Protein
+1_2071	Cytoskeleton bundling-enhancing antitoxin CbeA {ECO:0000303|PubMed:22515815}
+1_2072	Protein of unknown function (DUF1219)
+1_2073	Hypothetical Protein
+1_2074	UPF0265 protein YeeX
+1_2075	Inner membrane protein YeeA
+1_2076	DNA gyrase inhibitor {ECO:0000255|HAMAP-Rule:MF_01896}
+1_2077	D-alanyl-D-alanine carboxypeptidase
+1_2078	Exonuclease C-terminal
+1_2079	Hypothetical Protein
+1_2080	UPF0394 inner membrane protein YeeE
+1_2081	Low-affinity putrescine importer PlaP
+1_2082	Uncharacterized HTH-type transcriptional regulator YeeY
+1_2083	Protein YeeZ
+1_2084	Hypothetical Protein
+1_2085	Hypothetical Protein
+1_2086	ATP phosphoribosyltransferase
+1_2087	Histidinol dehydrogenase
+1_2088	histidinol-phosphate transaminase
+1_2089	histidinol-phosphatase
+1_2090	imidazole glycerol phosphate synthase, glutamine amidotransferase subunit
+1_2091	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase
+1_2092	imidazoleglycerol phosphate synthase, cyclase subunit
+1_2093	Phosphoribosyl-ATP pyrophosphatase
+1_2094	Chain length determinant protein
+1_2095	nucleotide sugar dehydrogenase
+1_2096	6-phosphogluconate dehydrogenase (decarboxylating)
+1_2097	Rhamnosyltransferase WbbL
+1_2098	Transposase InsH for insertion sequence element IS5K
+1_2099	Rhamnosyltransferase WbbL
+1_2100	Putative glycosyltransferase WbbK
+1_2101	Putative lipopolysaccharide biosynthesis O-acetyl transferase WbbJ
+1_2102	Beta-1,6-galactofuranosyltransferase WbbI
+1_2103	O-antigen polymerase
+1_2104	UDP-galactopyranose mutase
+1_2105	Polysaccharide biosynthesis protein
+1_2106	dTDP-4-dehydrorhamnose 3,5-epimerase
+1_2107	glucose-1-phosphate thymidylyltransferase
+1_2108	RmlD substrate binding domain
+1_2109	dTDP-glucose 4,6-dehydratase
+1_2110	regulatory protein GalF
+1_2111	colanic acid biosynthesis protein WcaM
+1_2112	colanic acid biosynthesis glycosyltransferase WcaL
+1_2113	colanic acid biosynthesis pyruvyl transferase WcaK
+1_2114	Polysaccharide biosynthesis protein
+1_2115	undecaprenyl-phosphate glucose phosphotransferase
+1_2116	Phosphomannomutase
+1_2117	mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+1_2118	colanic acid biosynthesis glycosyltransferase WcaI
+1_2119	GDP-mannose mannosyl hydrolase {ECO:0000255|HAMAP-Rule:MF_00941}
+1_2120	NAD dependent epimerase/dehydratase family
+1_2121	GDP-mannose 4,6-dehydratase
+1_2122	colanic acid biosynthesis acetyltransferase WcaF
+1_2123	colanic acid biosynthesis glycosyltransferase WcaE
+1_2124	putative colanic acid polymerase WcaD
+1_2125	colanic acid biosynthesis glycosyltransferase WcaC
+1_2126	colanic acid biosynthesis acetyltransferase WcaB
+1_2127	colanic acid biosynthesis glycosyltransferase WcaA
+1_2128	Chain length determinant protein
+1_2129	Low molecular weight protein-tyrosine-phosphatase Wzb
+1_2130	Putative polysaccharide export protein Wza
+1_2131	UPF0053 protein YegH
+1_2132	AsmA family
+1_2133	deoxycytidine triphosphate deaminase
+1_2134	uridine kinase
+1_2135	PAS domain S-box protein
+1_2136	DNA-3-methyladenine glycosylase 2
+1_2137	Uncharacterized chaperone protein YegD
+1_2138	Protein kinase YegI {ECO:0000250|UniProtKB:P76393}
+1_2139	Uncharacterized protein YegJ
+1_2140	Serine/threonine-protein phosphatase 3 {ECO:0000305}
+1_2141	Uncharacterized protein YegL
+1_2142	Putative transmembrane protein
+1_2143	efflux transporter, RND family, MFP subunit
+1_2144	AcrB/AcrD/AcrF family
+1_2145	AcrB/AcrD/AcrF family
+1_2146	H+ antiporter-2 (14 Spanner) (DHA2) family
+1_2147	Signal transduction histidine-protein kinase BaeS
+1_2148	Transcriptional regulatory protein BaeR
+1_2149	UPF0339 protein YegP
+1_2150	Peptidase family U32
+1_2151	Hypothetical Protein
+1_2152	Uncharacterized protein YegR
+1_2153	lipid kinase YegS
+1_2154	Hypothetical Protein
+1_2155	Transposase InsE for insertion sequence IS3A
+1_2156	Transposase InsF for insertion sequence IS3E
+1_2157	Putative galactitol utilization operon repressor
+1_2158	Galactitol 1-phosphate 5-dehydrogenase
+1_2159	PTS system, galactitol-specific IIC component
+1_2160	PTS system galactitol-specific EIIB component {ECO:0000303|PubMed:7772602}
+1_2161	PTS system galactitol-specific EIIA component {ECO:0000250|UniProtKB:P69828}
+1_2162	Tagatose 6 phosphate kinase
+1_2163	Tagatose 6 phosphate kinase
+1_2164	class II aldolase, tagatose bisphosphate family
+1_2165	DeoC/LacD family aldolase
+1_2166	nucleoside transporter
+1_2167	ADP-ribosylglycohydrolase
+1_2168	pfkB family carbohydrate kinase
+1_2169	Uncharacterized HTH-type transcriptional regulator YegW
+1_2170	Glycosyl hydrolases family 25
+1_2171	hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase
+1_2172	Hydroxyethylthiazole kinase family
+1_2173	Hypothetical Protein
+1_2174	High-affinity nickel-transport protein
+1_2175	Nickel/cobalt homeostasis protein RcnB
+1_2176	Uncharacterized fimbrial-like protein YehA
+1_2177	Outer membrane usher protein
+1_2178	Probable fimbrial chaperone YehC
+1_2179	Uncharacterized fimbrial-like protein YehD
+1_2180	Uncharacterized protein YehE
+1_2181	Iron-sulfur cluster carrier protein {ECO:0000255|HAMAP-Rule:MF_02040}
+1_2182	methionine--tRNA ligase
+1_2183	Protein YehF
+1_2184	Uncharacterized protein YehI
+1_2185	Domain of unknown function (DUF4132)
+1_2186	Uncharacterized protein YehI
+1_2187	Uncharacterized protein YehK
+1_2188	Uncharacterized protein YehL
+1_2189	Uncharacterized protein YehM
+1_2190	VWA domain containing CoxE-like protein
+1_2191	Protein YehQ
+1_2192	Uncharacterized lipoprotein YehR
+1_2193	Protein of unknown function (DUF1456)
+1_2194	Transcriptional regulatory protein BtsR {ECO:0000250|UniProtKB:P0AFT5}
+1_2195	5TMR of 5TMR-LYT
+1_2196	HTH-type transcriptional regulator MlrA {ECO:0000305}
+1_2197	Putative transmembrane protein
+1_2198	Glycine betaine uptake system permease protein YehW {ECO:0000305}
+1_2199	Glycine betaine uptake system ATP-binding protein YehX {ECO:0000305}
+1_2200	Glycine betaine uptake system permease protein YehY {ECO:0000305}
+1_2201	Substrate binding domain of ABC-type glycine betaine transport system
+1_2202	Glycosyl hydrolase family 3 N terminal domain
+1_2203	D-lactate dehydrogenase, membrane binding
+1_2204	D-alanyl-D-alanine carboxypeptidase
+1_2205	Inner membrane protein YohC
+1_2206	Inner membrane protein YohD
+1_2207	Uncharacterized oxidoreductase YohF
+1_2208	efflux transporter, outer membrane factor (OMF) lipoprotein, NodT family
+1_2209	Dihydrouridine synthase (Dus)
+1_2210	UPF0299 membrane protein YohJ
+1_2211	TIGR00659 family protein
+1_2212	cytidine deaminase
+1_2213	Protein SanA
+1_2214	Putative transmembrane protein
+1_2215	NAD-dependent dihydropyrimidine dehydrogenase subunit PreT
+1_2216	dihydroorotate dehydrogenase family protein
+1_2217	Galactoside transport system permease protein MglC
+1_2218	Galactose/methyl galactoside import ATP-binding protein MglA {ECO:0000255|HAMAP-Rule:MF_01717}
+1_2219	Galactose/methyl galactoside import ATP-binding protein MglA {ECO:0000255|HAMAP-Rule:MF_01717}
+1_2220	Periplasmic binding protein domain
+1_2221	HTH-type transcriptional regulator GalS
+1_2222	Uncharacterized protein YeiB
+1_2223	GTP cyclohydrolase I
+1_2224	S-formylglutathione hydrolase
+1_2225	Colicin I receptor
+1_2226	Amino acid permease
+1_2227	LysR substrate binding domain
+1_2228	conserved hypothetical protein
+1_2229	apurinic endonuclease (APN1)
+1_2230	pfkB family carbohydrate kinase
+1_2231	nucleoside transporter, NupC family
+1_2232	Inosine-uridine preferring nucleoside hydrolase
+1_2233	Regulatory protein YeiL
+1_2234	nucleoside transporter, NupC family
+1_2235	Indigoidine synthase A like protein
+1_2236	pfkB family carbohydrate kinase
+1_2237	PTS system, Fru family, IIC component
+1_2238	1-phosphofructokinase
+1_2239	PTS system fructose-specific EIIA component {ECO:0000250|UniProtKB:P69811}
+1_2240	sugar efflux transporter
+1_2241	UPF0153 protein YeiW
+1_2242	elongation factor P-like protein YeiP
+1_2243	Mannitol dehydrogenase C-terminal domain
+1_2244	Zinc-binding GTPase YeiR {ECO:0000305}
+1_2245	Lipid A 1-diphosphate synthase {ECO:0000255|HAMAP-Rule:MF_01945, ECO:0000305}
+1_2246	Murein DD-endopeptidase MepS/Murein LD-carboxypeptidase
+1_2247	EAL domain
+1_2248	Bacterial extracellular solute-binding proteins, family 5 Middle
+1_2249	Inner membrane ABC transporter permease protein YejB
+1_2250	Inner membrane ABC transporter permease protein YejE
+1_2251	ABC transporter
+1_2252	Uncharacterized protein YejG
+1_2253	drug resistance transporter, Bcr/CflA subfamily
+1_2254	pseudouridine synthase
+1_2255	Putative DNA repair helicase RadD {ECO:0000303|PubMed:25425430}
+1_2256	50S ribosomal protein L25 {ECO:0000255|HAMAP-Rule:MF_01336}
+1_2257	37-kD nucleoid-associated bacterial protein
+1_2258	Hypothetical Protein
+1_2259	Domain of unknown function (DUF3413)
+1_2260	outer membrane autotransporter barrel domain
+1_2261	Transposase InsH for insertion sequence element IS5K
+1_2262	Nitrate/nitrite response regulator protein NarP
+1_2263	Cytochrome C biogenesis protein
+1_2264	disulfide oxidoreductases, DsbE subfamily
+1_2265	cytochrome c-type biogenesis protein CcmF
+1_2266	Cytochrome c-type biogenesis protein CcmE {ECO:0000255|HAMAP-Rule:MF_01959}
+1_2267	Putative transmembrane protein
+1_2268	heme exporter protein CcmC
+1_2269	heme exporter protein CcmB
+1_2270	heme ABC exporter, ATP-binding protein CcmA
+1_2271	periplasmic nitrate (or nitrite) reductase c-type cytochrome, NapC/NirT family
+1_2272	Periplasmic nitrate reductase, electron transfer subunit
+1_2273	ferredoxin-type protein, NapH/MauN family
+1_2274	MauM/NapG family ferredoxin-type protein
+1_2275	periplasmic nitrate reductase, large subunit
+1_2276	Hypothetical Protein
+1_2277	ferredoxin-type protein NapF
+1_2278	Hypothetical Protein
+1_2279	Ecotin
+1_2280	Malate:quinone oxidoreductase (Mqo)
+1_2281	cyclic peptide transporter
+1_2282	alkylated DNA repair protein AlkB
+1_2283	Methylated-DNA--protein-cysteine methyltransferase
+1_2284	ApbE family
+1_2285	Gram-negative porin
+1_2286	Phosphotransferase RcsD {ECO:0000255|HAMAP-Rule:MF_00980}
+1_2287	Transcriptional regulatory protein RcsB {ECO:0000255|HAMAP-Rule:MF_00981}
+1_2288	Sensor histidine kinase RcsC {ECO:0000255|HAMAP-Rule:MF_00979}
+1_2289	Signal transduction histidine-protein kinase AtoS {ECO:0000305}
+1_2290	Sigma-54 interaction domain
+1_2291	Coenzyme A transferase
+1_2292	3-oxoacid CoA-transferase, B subunit
+1_2293	Short chain fatty acid transporter
+1_2294	acetyl-CoA C-acyltransferase
+1_2295	Uncharacterized protein YfaP
+1_2296	Predicted secreted protein (DUF2300)
+1_2297	Alpha-2-macroglobulin homolog {ECO:0000305}
+1_2298	Alpha-2-macroglobulin homolog {ECO:0000305}
+1_2299	Protein of unknown function (DUF1175)
+1_2300	Uncharacterized protein conserved in bacteria (DUF2138)
+1_2301	DNA gyrase, A subunit
+1_2302	3-demethylubiquinone-9 3-O-methyltransferase
+1_2303	outer membrane autotransporter barrel domain
+1_2304	ribonucleoside-diphosphate reductase, alpha subunit
+1_2305	Ribonucleoside-diphosphate reductase 1 subunit beta
+1_2306	Hypothetical Protein
+1_2307	Lipopolysaccharide kinase (Kdo/WaaP) family
+1_2308	Hypothetical Protein
+1_2309	Glycerophosphoryl diester phosphodiesterase family
+1_2310	glycerol-3-phosphate transporter
+1_2311	glycerol-3-phosphate dehydrogenase, anaerobic, A subunit
+1_2312	glycerol-3-phosphate dehydrogenase, anaerobic, B subunit
+1_2313	glycerol-3-phosphate dehydrogenase, anaerobic, C subunit
+1_2314	Putative transposase, YhgA-like
+1_2315	Hypothetical Protein
+1_2316	HpcH/HpaI aldolase/citrate lyase family
+1_2317	Inner membrane transport protein RhmT
+1_2318	L-rhamnonate dehydratase {ECO:0000255|HAMAP-Rule:MF_01288}
+1_2319	Uncharacterized HTH-type transcriptional regulator RhmR
+1_2320	competence/damage-inducible protein CinA N-terminal domain
+1_2321	YfaZ precursor
+1_2322	Nucleoside triphosphatase NudI {ECO:0000255|HAMAP-Rule:MF_01846}
+1_2323	Lipopolysaccharide core heptose(II)-phosphate phosphatase {ECO:0000255|HAMAP-Rule:MF_01868}
+1_2324	DegT/DnrJ/EryC1/StrS aminotransferase family
+1_2325	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+1_2326	UDP-glucuronic acid oxidase, UDP-4-keto-hexauronic acid decarboxylating {ECO:0000255|HAMAP-Rule:MF_01166}
+1_2327	Probable 4-deoxy-4-formamido-L-arabinose-phosphoundecaprenol deformylase ArnD {ECO:0000255|HAMAP-Rule:MF_01870}
+1_2328	Dolichyl-phosphate-mannose-protein mannosyltransferase
+1_2329	Probable 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE {ECO:0000255|HAMAP-Rule:MF_01869}
+1_2330	Probable 4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnF
+1_2331	Signal transduction protein PmrD
+1_2332	O-succinylbenzoate-CoA ligase
+1_2333	o-succinylbenzoate synthase
+1_2334	naphthoate synthase
+1_2335	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+1_2336	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase
+1_2337	isochorismate synthase
+1_2338	Protein ElaB
+1_2339	Protein ElaA
+1_2340	ribonuclease BN
+1_2341	Insertion element IS1 5 protein InsA
+1_2342	IS1 transposase
+1_2343	Protease ElaD
+1_2344	Domain of unknown function (DUF3520)
+1_2345	Uncharacterized protein YfbL
+1_2346	Protein YfbM
+1_2347	Uncharacterized protein YfbN
+1_2348	Uncharacterized protein YfbO
+1_2349	Uncharacterized protein YfbP
+1_2350	proton-translocating NADH-quinone oxidoreductase, chain N
+1_2351	proton-translocating NADH-quinone oxidoreductase, chain M
+1_2352	proton-translocating NADH-quinone oxidoreductase, chain L
+1_2353	NADH-quinone oxidoreductase subunit K {ECO:0000255|HAMAP-Rule:MF_01456}
+1_2354	NADH-quinone oxidoreductase subunit J
+1_2355	NADH-quinone oxidoreductase, chain I
+1_2356	NADH dehydrogenase
+1_2357	NADH dehydrogenase (quinone), G subunit
+1_2358	NADH oxidoreductase (quinone), F subunit
+1_2359	NADH-quinone oxidoreductase, E subunit
+1_2360	NADH dehydrogenase (quinone), D subunit
+1_2361	NADH-quinone oxidoreductase, B subunit
+1_2362	NADH-quinone oxidoreductase subunit A {ECO:0000255|HAMAP-Rule:MF_01394}
+1_2363	Hypothetical Protein
+1_2364	Probable HTH-type transcriptional regulator LrhA
+1_2365	Glutamate-pyruvate aminotransferase AlaA
+1_2366	5'-deoxynucleotidase YfbR {ECO:0000255|HAMAP-Rule:MF_01100}
+1_2367	Citrate transporter
+1_2368	Hexitol phosphatase A {ECO:0000303|PubMed:27941785}
+1_2369	YfbU domain
+1_2370	Protein of unknown function, DUF412
+1_2371	acetate kinase
+1_2372	phosphate acetyltransferase
+1_2373	C4-dicarboxylate anaerobic carrier
+1_2374	Uncharacterized Nudix hydrolase YfcD
+1_2375	phosphodiesterase, MJ0936 family
+1_2376	Glutathione S-transferase, C-terminal domain
+1_2377	Disulfide-bond oxidoreductase YfcG
+1_2378	Dihydroneopterin triphosphate 2'-epimerase
+1_2379	TIGR01777 family protein
+1_2380	Putative transposase, YhgA-like
+1_2381	Histidine transport ATP-binding protein HisP
+1_2382	Histidine transport system permease protein HisM
+1_2383	Histidine transport system permease protein HisQ
+1_2384	lysine-arginine-ornithine-binding periplasmic protein
+1_2385	lysine-arginine-ornithine-binding periplasmic protein
+1_2386	polyprenyl P-hydroxybenzoate and phenylacrylic acid decarboxylases
+1_2387	amidophosphoribosyltransferase
+1_2388	Colicin V production protein
+1_2389	Cell division protein DedD {ECO:0000255|HAMAP-Rule:MF_02022, ECO:0000305}
+1_2390	bifunctional protein FolC
+1_2391	acetyl-CoA carboxylase, carboxyl transferase, beta subunit
+1_2392	Protein DedA
+1_2393	tRNA pseudouridine(38-40) synthase
+1_2394	USG-1 protein
+1_2395	Erythronate-4-phosphate dehydrogenase {ECO:0000255|HAMAP-Rule:MF_01825}
+1_2396	Flagellar regulator flk
+1_2397	Uncharacterized MFS-type transporter YfcJ {ECO:0000255|HAMAP-Rule:MF_02091, ECO:0000305}
+1_2398	3-oxoacyl-[acyl-carrier-protein] synthase 1 {ECO:0000305}
+1_2399	tRNA U-34 5-methylaminomethyl-2-thiouridine biosynthesis protein MnmC, C-terminal domain
+1_2400	Hypothetical Protein
+1_2401	Protein of unknown function, DUF462
+1_2402	Probable membrane transporter protein YfcA
+1_2403	Penicillin-insensitive murein endopeptidase
+1_2404	Chorismate synthase
+1_2405	protein-(glutamine-N5) methyltransferase, ribosomal protein L3-specific
+1_2406	UPF0115 protein YfcN {ECO:0000255|HAMAP-Rule:MF_01042}
+1_2407	Protein of unknown function (DUF2544)
+1_2408	Uncharacterized fimbrial-like protein YfcP
+1_2409	Uncharacterized fimbrial-like protein YfcQ
+1_2410	Uncharacterized fimbrial-like protein YfcR
+1_2411	Probable fimbrial chaperone YfcS
+1_2412	Putative outer membrane usher protein YfcU
+1_2413	Outer membrane usher protein
+1_2414	Uncharacterized fimbrial-like protein YfcV
+1_2415	phosphohistidine phosphatase SixA
+1_2416	fatty oxidation complex, alpha subunit FadJ
+1_2417	acetyl-CoA C-acyltransferase FadI
+1_2418	UPF0381 protein YfcZ
+1_2419	Outer membrane protein transport protein (OMPP1/FadL/TodX)
+1_2420	Uncharacterized protein YfdF
+1_2421	VacJ like lipoprotein
+1_2422	Formate/nitrite transporter
+1_2423	Prophage integrase IntS {ECO:0000305}
+1_2424	Prophage bactoprenol glucosyl transferase homolog {ECO:0000305}
+1_2425	Uncharacterized protein YfdI
+1_2426	Putative protein TfaS {ECO:0000305}
+1_2427	Uncharacterized protein YfdK
+1_2428	Putative uncharacterized protein YfdL
+1_2429	Putative methyltransferase YfdM
+1_2430	Uncharacterized protein YfdN
+1_2431	Uncharacterized protein YfdO
+1_2432	Uncharacterized protein YfdP
+1_2433	Uncharacterized conserved protein (DUF2303)
+1_2434	Uncharacterized protein YfdR
+1_2435	Uncharacterized protein YfdS
+1_2436	Uncharacterized protein YfdT
+1_2437	Hypothetical Protein
+1_2438	D-serine deaminase transcriptional activator
+1_2439	H+ symporter (GntP) family
+1_2440	D-serine ammonia-lyase
+1_2441	H+ antiporter-2 (14 Spanner) (DHA2) family
+1_2442	efflux pump membrane protein
+1_2443	DNA-binding transcriptional activator EvgA {ECO:0000305}
+1_2444	Sensor protein EvgS
+1_2445	CoA-transferase family III
+1_2446	Membrane transport protein
+1_2447	oxalyl-CoA decarboxylase
+1_2448	formyl-CoA transferase
+1_2449	YfdX protein
+1_2450	Uncharacterized lipoprotein YpdI
+1_2451	Putative transmembrane protein
+1_2452	lipid A biosynthesis lauroyl (or palmitoleoyl) acyltransferase
+1_2453	Aminotransferase class I and II
+1_2454	Sensor histidine kinase YpdA {ECO:0000250|UniProtKB:P0AA93}
+1_2455	Transcriptional regulatory protein YpdB {ECO:0000305}
+1_2456	Uncharacterized HTH-type transcriptional regulator YpdC
+1_2457	phosphoenolpyruvate-protein phosphotransferase
+1_2458	M42 glutamyl aminopeptidase
+1_2459	Metallopeptidase family M24
+1_2460	Fructose-like permease IIC component 1
+1_2461	PTS system fructose-like EIIB component 1 {ECO:0000250|UniProtKB:P20966}
+1_2462	glucokinase
+1_2463	Putative ion-transport protein YfeO {ECO:0000255|HAMAP-Rule:MF_01115}
+1_2464	Uncharacterized protein YpeC
+1_2465	Natural resistance-associated macrophage protein
+1_2466	nucleoside transporter, NupC family
+1_2467	Putative transposase InsL for insertion sequence element IS186B
+1_2468	Hypothetical Protein
+1_2469	MASE1
+1_2470	Uncharacterized protein YfeC
+1_2471	Putative transcription regulator (DUF1323)
+1_2472	glutamate--tRNA ligase
+1_2473	HTH-type transcriptional regulator XapR
+1_2474	nucleoside transporter
+1_2475	xanthosine phosphorylase
+1_2476	Nucleoside-specific channel-forming protein, Tsx
+1_2477	Uncharacterized HTH-type transcriptional regulator YfeR
+1_2478	SBF-like CPA transporter family (DUF4137)
+1_2479	Hypothetical Protein
+1_2480	DNA ligase, NAD-dependent
+1_2481	cell division protein ZipA
+1_2482	Etoposide-induced protein 2.4 (EI24)
+1_2483	cysteine synthase A
+1_2484	Hypothetical Protein
+1_2485	phosphoenolpyruvate-protein phosphotransferase
+1_2486	phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1
+1_2487	pyridoxal kinase
+1_2488	Uncharacterized protein YfeK
+1_2489	Uncharacterized protein YfeS
+1_2490	cysteine synthase B
+1_2491	sulfate ABC transporter, ATP-binding protein
+1_2492	sulfate ABC transporter, permease protein
+1_2493	sulfate ABC transporter, permease protein
+1_2494	sulfate ABC transporter, sulfate-binding protein
+1_2495	Oxidoreductase UcpA
+1_2496	HTH-type transcriptional regulator MurR {ECO:0000255|HAMAP-Rule:MF_02108}
+1_2497	N-acetylmuramic acid 6-phosphate etherase
+1_2498	N-acetylmuramic acid permease IIC component {ECO:0000303|PubMed:15060041}
+1_2499	Beta-lactamase
+1_2500	Dyp-type peroxidase family
+1_2501	Protein of unknown function (DUF1131)
+1_2502	Inner membrane protein YfeZ
+1_2503	Acetyltransferase YpeA
+1_2504	N-acetylmuramoyl-L-alanine amidase
+1_2505	Coproporphyrinogen III oxidase
+1_2506	HTH-type DNA-binding transcriptional activator EutR {ECO:0000305}
+1_2507	Bacterial microcompartment shell protein EutK
+1_2508	microcompartment protein EutL
+1_2509	Ethanolamine ammonia-lyase light chain (EutC)
+1_2510	Ethanolamine ammonia lyase large subunit (EutB)
+1_2511	Prophage integrase IntZ {ECO:0000305}
+1_2512	Uncharacterized protein YffL
+1_2513	Hypothetical Protein
+1_2514	Uncharacterized protein YffN
+1_2515	Uncharacterized protein YffO
+1_2516	Uncharacterized protein YffP
+1_2517	Uncharacterized protein YffQ
+1_2518	Uncharacterized protein YffR
+1_2519	Uncharacterized protein YffS
+1_2520	Ethanolamine utilisation protein EutA
+1_2521	Ethanolamine utilisation protein, EutH
+1_2522	Iron-containing alcohol dehydrogenase
+1_2523	ethanolamine utilization protein EutJ family protein
+1_2524	Acetaldehyde dehydrogenase (acetylating) EutE {ECO:0000250|UniProtKB:P41793}
+1_2525	Bacterial microcompartment vertex protein EutN {ECO:0000305}
+1_2526	Bacterial microcompartment shell protein EutM
+1_2527	Phosphate acetyl/butaryl transferase
+1_2528	EutT adenosyltransferase {ECO:0000250|UniProtKB:Q9ZFV4}
+1_2529	Ethanolamine utilisation protein EutQ
+1_2530	ethanolamine utilization protein, EutP
+1_2531	Bacterial microcompartment shell protein EutS
+1_2532	Phosphate acetyl/butaryl transferase
+1_2533	transaldolase
+1_2534	transketolase
+1_2535	Protein of unknown function (DUF1176)
+1_2536	nudix-type nucleoside diphosphatase, YffH/AdpP family
+1_2537	glutamate synthase, small subunit
+1_2538	Nitrate/nitrite sensor protein NarQ
+1_2539	RND transporter, hydrophobe/amphiphile efflux-1 (HAE1) family
+1_2540	Protein YffB
+1_2541	succinyl-diaminopimelate desuccinylase
+1_2542	Putative transmembrane protein
+1_2543	Phospholipase/Carboxylesterase
+1_2544	GNAT acetyltransferase 2
+1_2545	Putative neutral zinc metallopeptidase
+1_2546	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+1_2547	Hypothetical Protein
+1_2548	NlpB/DapX lipoprotein
+1_2549	4-hydroxy-tetrahydrodipicolinate synthase
+1_2550	Glycine cleavage system transcriptional repressor
+1_2551	Putative peroxiredoxin bcp
+1_2552	Hydrogenase-4 component A
+1_2553	Hydrogenase-4 component B
+1_2554	Hydrogenase-4 component C
+1_2555	Hydrogenase-4 component D
+1_2556	Hydrogenase-4 component E
+1_2557	NADH-Ubiquinone/plastoquinone (complex I), various chains
+1_2558	Hydrogenase-4 component G
+1_2559	Hydrogenase-4 component H
+1_2560	Hydrogenase-4 component I
+1_2561	Formate hydrogenlyase maturation protein HycH
+1_2562	Sigma-54 interaction domain
+1_2563	formate/nitrite transporter
+1_2564	Domain of unknown function DUF20
+1_2565	Beta-barrel assembly-enhancing protease {ECO:0000255|HAMAP-Rule:MF_00997}
+1_2566	Uncharacterized protein YfgD
+1_2567	DnaA regulatory inactivator Hda
+1_2568	uracil-xanthine permease
+1_2569	uracil phosphoribosyltransferase
+1_2570	phosphoribosylformylglycinamidine cyclo-ligase
+1_2571	phosphoribosylglycinamide formyltransferase
+1_2572	polyphosphate kinase 1
+1_2573	Ppx/GppA phosphatase family
+1_2574	MASE1
+1_2575	Hypothetical Protein
+1_2576	Putative transmembrane protein
+1_2577	Uncharacterized lipoprotein YfgH
+1_2578	Uncharacterized protein YfgI
+1_2579	GMP synthase (glutamine-hydrolyzing), C-terminal domain
+1_2580	inosine-5'-monophosphate dehydrogenase
+1_2581	exodeoxyribonuclease VII, large subunit
+1_2582	Hypothetical Protein
+1_2583	ribosome-associated GTPase EngA
+1_2584	outer membrane assembly lipoprotein YfgL
+1_2585	Ancillary SecYEG translocon subunit {ECO:0000305}
+1_2586	histidine--tRNA ligase
+1_2587	GcpE protein
+1_2588	Cytoskeleton protein RodZ {ECO:0000255|HAMAP-Rule:MF_02017}
+1_2589	23S rRNA (adenine(2503)-C(2))-methyltransferase
+1_2590	Nucleoside diphosphate kinase
+1_2591	penicillin-binding protein 1C
+1_2592	Alpha-2-macroglobulin {ECO:0000303|PubMed:15186489, ECO:0000303|PubMed:18697741}
+1_2593	3-mercaptopyruvate sulfurtransferase
+1_2594	Protein SseB
+1_2595	Cytosol aminopeptidase family, catalytic domain
+1_2596	Hypothetical Protein
+1_2597	ferredoxin, 2Fe-2S type, ISC system
+1_2598	Fe-S protein assembly chaperone HscA
+1_2599	Fe-S protein assembly co-chaperone HscB
+1_2600	iron-sulfur cluster assembly protein IscA
+1_2601	FeS cluster assembly scaffold IscU
+1_2602	cysteine desulfurase IscS
+1_2603	iron-sulfur cluster assembly transcription factor IscR
+1_2604	RNA methyltransferase, TrmH family, group 1
+1_2605	Inositol monophosphatase family
+1_2606	Uncharacterized protein YfhR
+1_2607	Stationary phase-inducible protein CsiE
+1_2608	MFS transporter, phenyl propionate permease (PPP) family
+1_2609	Hca operon transcriptional activator HcaR
+1_2610	3-phenylpropionate/cinnamic acid dioxygenase subunit alpha
+1_2611	3-phenylpropionate/cinnamic acid dioxygenase subunit beta {ECO:0000255|HAMAP-Rule:MF_01649}
+1_2612	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit {ECO:0000255|HAMAP-Rule:MF_01650}
+1_2613	3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase {ECO:0000255|HAMAP-Rule:MF_01647}
+1_2614	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin--NAD(+) reductase component {ECO:0000255|HAMAP-Rule:MF_01651}
+1_2615	Inner membrane protein YphA
+1_2616	Uncharacterized protein YphB
+1_2617	Uncharacterized zinc-type alcohol dehydrogenase-like protein YphC
+1_2618	Probable ABC transporter permease protein YphD
+1_2619	ABC transporter
+1_2620	ABC transporter periplasmic-binding protein YphF
+1_2621	Uncharacterized protein YphG
+1_2622	Uncharacterized protein YphH
+1_2623	Serine hydroxymethyltransferase
+1_2624	Flavohemoprotein
+1_2625	Nitrogen regulatory protein P-II 1
+1_2626	Sigma-54 interaction domain
+1_2627	YfhG lipoprotein
+1_2628	Sensor histidine kinase GlrK
+1_2629	phosphoribosylformylglycinamidine synthase
+1_2630	Membrane-bound lytic murein transglycosylase F {ECO:0000255|HAMAP-Rule:MF_02016}
+1_2631	tRNA-specific adenosine deaminase {ECO:0000255|HAMAP-Rule:MF_00972}
+1_2632	HAD hydrolase, family IF
+1_2633	Uncharacterized HTH-type transcriptional regulator YfhH
+1_2634	Ferredoxin YfhL {ECO:0000305}
+1_2635	holo-[acyl-carrier-protein] synthase
+1_2636	pyridoxine 5'-phosphate synthase
+1_2637	DNA repair protein RecO
+1_2638	GTP-binding protein Era
+1_2639	ribonuclease III
+1_2640	Signal peptidase I
+1_2641	elongation factor 4
+1_2642	Protein RseC {ECO:0000305}
+1_2643	MucB/RseB family
+1_2644	Anti-sigma-E factor RseA
+1_2645	RNA polymerase sigma factor RpoE
+1_2646	L-aspartate oxidase
+1_2647	tRNA1(Val) (adenine(37)-N6)-methyltransferase {ECO:0000255|HAMAP-Rule:MF_01872}
+1_2648	ATP-dependent RNA helicase SrmB {ECO:0000255|HAMAP-Rule:MF_00967}
+1_2649	Uncharacterized HTH-type transcriptional regulator YfiE
+1_2650	Cysteine/O-acetylserine efflux protein
+1_2651	autonomous glycyl radical cofactor GrcA
+1_2652	uracil-DNA glycosylase
+1_2653	Uncharacterized tRNA/rRNA methyltransferase YfiF
+1_2654	Thioredoxin 2
+1_2655	DTW domain
+1_2656	ATP-grasp domain
+1_2657	CDP-diacylglycerol--serine O-phosphatidyltransferase
+1_2658	Uncharacterized protein YfiM
+1_2659	H+ symporter (MHS) family protein
+1_2660	Hypothetical Protein
+1_2661	Hypothetical Protein
+1_2662	ATP-dependent chaperone protein ClpB
+1_2663	YfiH family protein
+1_2664	pseudouridine synthase, RluA family
+1_2665	outer membrane assembly lipoprotein YfiO
+1_2666	Ribosome-associated factor Y {ECO:0000305}
+1_2667	Prephenate dehydratase
+1_2668	Prephenate dehydrogenase
+1_2669	3-deoxy-7-phosphoheptulonate synthase
+1_2670	Uncharacterized protein YfiL
+1_2671	Protein YfiR {ECO:0000305}
+1_2672	Diguanylate cyclase DgcN {ECO:0000305}
+1_2673	Putative lipoprotein YfiB
+1_2674	ribosomal protein L19
+1_2675	tRNA (guanine(37)-N(1))-methyltransferase
+1_2676	16S rRNA processing protein RimM
+1_2677	Hypothetical Protein
+1_2678	signal recognition particle protein
+1_2679	Inner membrane protein YpjD
+1_2680	Domain of unknown function DUF21
+1_2681	Protein GrpE {ECO:0000255|HAMAP-Rule:MF_01151}
+1_2682	ATP-NAD kinase
+1_2683	DNA repair protein RecN
+1_2684	Outer membrane protein assembly factor BamE {ECO:0000255|HAMAP-Rule:MF_00925}
+1_2685	Protein RnfH {ECO:0000255|HAMAP-Rule:MF_00460}
+1_2686	Ribosome association toxin RatA
+1_2687	SsrA-binding protein
+1_2688	Hypothetical Protein
+1_2689	Prophage integrase IntA {ECO:0000305}
+1_2690	Uncharacterized protein YfjH
+1_2691	Hypothetical Protein
+1_2692	Protein of unknown function (DUF3987)
+1_2693	Uncharacterized protein YfjJ
+1_2694	Uncharacterized protein YfjK
+1_2695	Uncharacterized protein YfjL
+1_2696	mRNA endoribonuclease toxin LS
+1_2697	Antitoxin RnlB
+1_2698	Uncharacterized protein YfjP
+1_2699	Domain of unknown function (DUF932)
+1_2700	Uncharacterized HTH-type transcriptional regulator YfjR
+1_2701	Putative transmembrane protein
+1_2702	Lipoprotein YfjS
+1_2703	Uncharacterized protein YfjT
+1_2704	Putative arsenate reductase
+1_2705	Arsenical pump membrane protein
+1_2706	Putative transmembrane protein
+1_2707	Uncharacterized protein YfjW
+1_2708	Uncharacterized protein YfjX
+1_2709	UPF0758 protein YfjY
+1_2710	Hypothetical Protein
+1_2711	YagB/YeeU/YfjZ family
+1_2712	Protein of unknown function (DUF1219)
+1_2713	outer membrane autotransporter barrel domain
+1_2714	Protein YpjB
+1_2715	Protein YpjC
+1_2716	Putative uncharacterized protein YgaQ
+1_2717	Putative uncharacterized protein YgaQ
+1_2718	Putative uncharacterized protein YgaQ
+1_2719	CsiD
+1_2720	FAD dependent oxidoreductase
+1_2721	succinate-semialdehyde dehydrogenase
+1_2722	4-aminobutyrate transaminase
+1_2723	GABA permease
+1_2724	HTH-type transcriptional repressor GlaR
+1_2725	Potassium binding protein Kbp {ECO:0000303|PubMed:27112601}
+1_2726	Putative transmembrane protein
+1_2727	Probable HTH-type transcriptional regulator YgaV
+1_2728	Inner membrane protein YgaP
+1_2729	DNA-binding protein StpA
+1_2730	Protein of unknown function (DUF1144)
+1_2731	Protein of unknown function (DUF2002)
+1_2732	Uncharacterized protein YgaM
+1_2733	Hypothetical Protein
+1_2734	nrdI protein
+1_2735	ribonucleoside-diphosphate reductase, class 1b, alpha subunit
+1_2736	ribonucleoside-diphosphate reductase, class 1b, beta subunit
+1_2737	glycine betaine/L-proline transport ATP binding subunit
+1_2738	Insertion element IS1 5 protein InsA
+1_2739	IS1 transposase
+1_2740	Glycine betaine/proline betaine transport system permease protein ProW {ECO:0000305}
+1_2741	Substrate binding domain of ABC-type glycine betaine transport system
+1_2742	Putative transmembrane protein
+1_2743	Putative uncharacterized transporter YgaY
+1_2744	Inner membrane protein YgaZ
+1_2745	Uncharacterized protein YgaH
+1_2746	Transcriptional repressor MprA
+1_2747	efflux pump membrane protein
+1_2748	H+ antiporter-2 (14 Spanner) (DHA2) family
+1_2749	S-Ribosylhomocysteinase (LuxS)
+1_2750	glutamate--cysteine ligase
+1_2751	Inner membrane protein YqaA
+1_2752	beta-phosphoglucomutase family hydrolase
+1_2753	Hypothetical Protein
+1_2754	Hypothetical Protein
+1_2755	alanine--tRNA ligase
+1_2756	Regulatory protein RecX {ECO:0000255|HAMAP-Rule:MF_01114}
+1_2757	recA bacterial DNA recombination protein
+1_2758	amidohydrolase, PncC family
+1_2759	lytic murein transglycosylase B
+1_2760	PTS system, glucitol/sorbitol-specific, IIC component
+1_2761	PTS system, glucitol/sorbitol-specific, IIBC component
+1_2762	PTS system, glucitol/sorbitol-specific IIA component
+1_2763	Sorbitol-6-phosphate 2-dehydrogenase
+1_2764	Glucitol operon activator protein
+1_2765	DeoR C terminal sensor domain
+1_2766	sugar isomerase, KpsF/GutQ family
+1_2767	Sigma-54 interaction domain
+1_2768	Anaerobic nitric oxide reductase flavorubredoxin
+1_2769	Nitric oxide reductase FlRd-NAD(+) reductase {ECO:0000255|HAMAP-Rule:MF_01313}
+1_2770	carbamoyltransferase HypF
+1_2771	Electron transport protein HydN
+1_2772	HTH-type transcriptional regulator AscG
+1_2773	PTS system, maltose and glucose-specific subfamily, IIC component
+1_2774	Glycosyl hydrolase family 1
+1_2775	hydrogenase maturation peptidase HycI
+1_2776	Formate hydrogenlyase maturation protein HycH
+1_2777	Formate hydrogenlyase subunit 7
+1_2778	Formate hydrogenlyase subunit 6
+1_2779	Formate hydrogenlyase subunit 5
+1_2780	Formate hydrogenlyase subunit 4
+1_2781	Formate hydrogenlyase subunit 3
+1_2782	Formate hydrogenlyase subunit 2
+1_2783	Transcriptional repressor of hyc and hyp operons
+1_2784	Hydrogenase maturation factor HypA {ECO:0000305}
+1_2785	hydrogenase accessory protein HypB
+1_2786	Hydrogenase maturation factor HypC {ECO:0000250|UniProtKB:P0AAM3}
+1_2787	hydrogenase expression/formation protein HypD
+1_2788	hydrogenase expression/formation protein HypE
+1_2789	Sigma-54 interaction domain
+1_2790	Uncharacterized protein YgbA
+1_2791	Hypothetical Protein
+1_2792	DNA mismatch repair protein MutS
+1_2793	Serine/threonine-protein phosphatase 2
+1_2794	DeoR C terminal sensor domain
+1_2795	L-threonate dehydrogenase {ECO:0000250|UniProtKB:A0A0H2VA68}
+1_2796	Protein of unknown function, DUF1537
+1_2797	3-oxo-tetronate 4-phosphate decarboxylase {ECO:0000250|UniProtKB:A0A0H2VA12}
+1_2798	2-oxo-tetronate isomerase {ECO:0000250|UniProtKB:Q57151}
+1_2799	GntP family permease
+1_2800	RNA polymerase sigma factor RpoS
+1_2801	Murein hydrolase activator NlpD
+1_2802	protein-L-isoaspartate O-methyltransferase
+1_2803	5'/3'-nucleotidase SurE
+1_2804	tRNA pseudouridine synthase, TruD family
+1_2805	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+1_2806	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+1_2807	Cell division protein FtsB {ECO:0000255|HAMAP-Rule:MF_00599}
+1_2808	Protein of unknown function (DUF3561)
+1_2809	adenylyl-sulfate kinase
+1_2810	sulfate adenylyltransferase, large subunit
+1_2811	sulfate adenylyltransferase, small subunit
+1_2812	Alkaline phosphatase isozyme conversion protein
+1_2813	CRISPR-associated endoribonuclease Cas2
+1_2814	CRISPR-associated endonuclease Cas1, subtype I-E/ECOLI
+1_2815	CRISPR-associated protein Cas6/Cse3/CasE, subtype I-E/ECOLI
+1_2816	CRISPR-associated protein Cas5/CasD, subtype I-E/ECOLI
+1_2817	CRISPR-associated protein Cas7/Cse4/CasC, subtype I-E/ECOLI
+1_2818	CRISPR system Cascade subunit CasB
+1_2819	CRISPR type I-E/ECOLI-associated protein CasA/Cse1
+1_2820	CRISPR-associated helicase Cas3
+1_2821	phosphoadenosine phosphosulfate reductase
+1_2822	sulfite reductase (NADPH) hemoprotein, beta-component
+1_2823	sulfite reductase [NADPH] flavoprotein, alpha-component
+1_2824	6-carboxy-5,6,7,8-tetrahydropterin synthase
+1_2825	Probable electron transfer flavoprotein-quinone oxidoreductase YgcN
+1_2826	Ferredoxin-like protein YgcO
+1_2827	Glycerol-3-phosphate responsive antiterminator
+1_2828	Putative electron transfer flavoprotein subunit YgcQ
+1_2829	Putative electron transfer flavoprotein subunit YgcR
+1_2830	Inner membrane metabolite transport protein YgcS
+1_2831	Uncharacterized FAD-linked oxidoreductase YgcU
+1_2832	Uncharacterized oxidoreductase YgcW
+1_2833	Inner membrane protein YqcE
+1_2834	Uncharacterized sugar kinase YgcE
+1_2835	putative 7-cyano-7-deazaguanosine (preQ0) biosynthesis protein QueE
+1_2836	Hypothetical Protein
+1_2837	phosphopyruvate hydratase
+1_2838	CTP synthase
+1_2839	MazG family protein
+1_2840	Endoribonuclease MazF
+1_2841	Hypothetical Protein
+1_2842	RelA/SpoT family protein
+1_2843	Transposase InsD for insertion element IS2-12
+1_2844	Transposase InsC for insertion element IS2F
+1_2845	Hypothetical Protein
+1_2846	23S rRNA (uracil-5-)-methyltransferase RumA
+1_2847	Uncharacterized signal transduction histidine kinase domain (DUF2222)
+1_2848	glucarate dehydratase
+1_2849	Glucarate dehydratase-related protein
+1_2850	D-galactonate transporter
+1_2851	Uncharacterized protein YqcA
+1_2852	tRNA pseudouridine synthase C
+1_2853	Uncharacterized protein YqcC
+1_2854	Syd protein (SUKH-2)
+1_2855	queuine synthase
+1_2856	Domain of unknown function (DUF3412)
+1_2857	serine transporter
+1_2858	L-serine ammonia-lyase
+1_2859	Flap endonuclease Xni
+1_2860	lactaldehyde reductase
+1_2861	L-fuculose phosphate aldolase
+1_2862	H+ symporter permease
+1_2863	L-fucose isomerase
+1_2864	L-fuculokinase
+1_2865	L-fucose mutarotase {ECO:0000255|HAMAP-Rule:MF_01662}
+1_2866	L-fucose operon activator
+1_2867	Ribosomal RNA large subunit methyltransferase M {ECO:0000255|HAMAP-Rule:MF_01551}
+1_2868	UPF0382 inner membrane protein YgdD
+1_2869	Glycine cleavage system transcriptional activator
+1_2870	Putative transmembrane protein
+1_2871	cysteine desulfurase, catalytic subunit CsdA
+1_2872	cysteine desulfurase, sulfur acceptor subunit CsdE
+1_2873	tRNA threonylcarbamoyladenosine dehydratase
+1_2874	Membrane-bound lytic murein transglycosylase A
+1_2875	N-acetylmuramoyl-L-alanine amidase
+1_2876	amino-acid N-acetyltransferase
+1_2877	exodeoxyribonuclease V, alpha subunit
+1_2878	exodeoxyribonuclease V, beta subunit
+1_2879	Protease 3
+1_2880	exodeoxyribonuclease V, gamma subunit
+1_2881	Prepilin peptidase-dependent protein C
+1_2882	Uncharacterized protein YgdB
+1_2883	Prepilin peptidase-dependent protein B
+1_2884	Prepilin peptidase-dependent protein A
+1_2885	thymidylate synthase
+1_2886	prolipoprotein diacylglyceryl transferase
+1_2887	phosphoenolpyruvate-protein phosphotransferase
+1_2888	RNA pyrophosphohydrolase {ECO:0000255|HAMAP-Rule:MF_00298}
+1_2889	Hypothetical Protein
+1_2890	DNA mismatch repair endonuclease MutH
+1_2891	Integral membrane protein TerC family
+1_2892	Putative transmembrane protein
+1_2893	Aldo/keto reductase family
+1_2894	Lysophospholipid transporter LplT {ECO:0000255|HAMAP-Rule:MF_01585}
+1_2895	AMP-binding enzyme
+1_2896	HTH-type transcriptional regulator GalR
+1_2897	diaminopimelate decarboxylase
+1_2898	Transcriptional activator protein LysR
+1_2899	aspartate racemase
+1_2900	MFS transporter, sugar porter (SP) family
+1_2901	2-deoxy-D-gluconate 3-dehydrogenase
+1_2902	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase {ECO:0000255|HAMAP-Rule:MF_00687}
+1_2903	acetyl-CoA C-acyltransferase
+1_2904	Inner membrane transport protein YqeG
+1_2905	Uncharacterized protein YqeH
+1_2906	Putative transmembrane protein
+1_2907	Uncharacterized protein YqeI
+1_2908	Uncharacterized protein YqeJ
+1_2909	Hypothetical Protein
+1_2910	Uncharacterized protein YqeK
+1_2911	Putative uncharacterized protein YgeF
+1_2912	Uncharacterized protein YgeG
+1_2913	Uncharacterized protein YgeH
+1_2914	Hypothetical Protein
+1_2915	Putative peptidoglycan-binding-like protein
+1_2916	Uncharacterized response regulatory protein YgeK
+1_2917	Hypothetical Protein
+1_2918	Putative uncharacterized protein YgeN
+1_2919	Hypothetical Protein
+1_2920	Transposase InsD for insertion element IS2-12
+1_2921	Transposase InsC for insertion element IS2F
+1_2922	Uncharacterized lipoprotein YgeQ
+1_2923	Uncharacterized lipoprotein YgeR
+1_2924	Molybdopterin-binding domain of aldehyde dehydrogenase
+1_2925	Putative xanthine dehydrogenase FAD-binding subunit XdhB
+1_2926	Putative xanthine dehydrogenase iron-sulfur-binding subunit XdhC
+1_2927	Sigma-54 interaction domain
+1_2928	knotted carbamoyltransferase YgeW
+1_2929	diaminopropionate ammonia-lyase family
+1_2930	putative selenium metabolism hydrolase
+1_2931	dihydropyrimidinase
+1_2932	carbamate kinase
+1_2933	selenium-dependent molybdenum hydroxylase system protein, YqeB family
+1_2934	putative selenium-dependent hydroxylase accessory protein YqeC
+1_2935	molybdenum cofactor cytidylyltransferase
+1_2936	putative selenate reductase, YgfK subunit
+1_2937	putative selenium metabolism protein SsnA
+1_2938	probable selenate reductase, FAD-binding subunit
+1_2939	probable selenate reductase, molybdenum-binding subunit
+1_2940	uracil-xanthine permease
+1_2941	guanine deaminase
+1_2942	Permease family
+1_2943	Putative electron transport protein YgfS
+1_2944	glutamate synthase, small subunit
+1_2945	xanthine permease
+1_2946	Putative transmembrane protein
+1_2947	Isopentenyl-diphosphate Delta-isomerase {ECO:0000255|HAMAP-Rule:MF_00202}
+1_2948	lysine--tRNA ligase
+1_2949	peptide chain release factor 2
+1_2950	single-stranded-DNA-specific exonuclease RecJ
+1_2951	Thiol:disulfide interchange protein DsbC
+1_2952	tyrosine recombinase XerD
+1_2953	flavodoxin
+1_2954	Protein of unknown function (DUF1434)
+1_2955	FAD assembly factor SdhE {ECO:0000303|PubMed:22474332}
+1_2956	tRNA-modifying protein YgfZ {ECO:0000255|HAMAP-Rule:MF_01175}
+1_2957	channel protein, hemolysin III family
+1_2958	N(4)-acetylcytidine amidohydrolase {ECO:0000255|HAMAP-Rule:MF_00684}
+1_2959	Glycosyl hydrolase family 1
+1_2960	Uncharacterized oxidoreductase YgfF
+1_2961	glycine dehydrogenase
+1_2962	glycine cleavage system H protein
+1_2963	glycine cleavage system T protein
+1_2964	ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6 family
+1_2965	2-polyprenyl-6-methoxyphenol 4-hydroxylase
+1_2966	Metallopeptidase family M24
+1_2967	UPF0149 protein YgfB {ECO:0000255|HAMAP-Rule:MF_00346}
+1_2968	Cell division protein ZapA {ECO:0000255|HAMAP-Rule:MF_02012}
+1_2969	5-formyltetrahydrofolate cyclo-ligase
+1_2970	D-3-phosphoglycerate dehydrogenase
+1_2971	ribose 5-phosphate isomerase A
+1_2972	Hypothetical Protein
+1_2973	transcriptional regulator, ArgP family
+1_2974	methylmalonyl-CoA mutase N-terminal domain
+1_2975	LAO/AO transport system ATPase
+1_2976	Methylmalonyl-CoA decarboxylase
+1_2977	succinate CoA transferase
+1_2978	Uncharacterized HTH-type transcriptional regulator YgfI
+1_2979	Uncharacterized protein YggE
+1_2980	L-lysine exporter
+1_2981	Mechanosensitive ion channel
+1_2982	fructose-bisphosphate aldolase, class II
+1_2983	Phosphoglycerate kinase
+1_2984	erythrose-4-phosphate dehydrogenase
+1_2985	Uncharacterized protein YggC
+1_2986	Mannitol repressor
+1_2987	fructose-1,6-bisphosphatase, class II
+1_2988	Uncharacterized protein YggP
+1_2989	Mannitol-specific phosphotransferase enzyme IIB component {ECO:0000250|UniProtKB:P28008}
+1_2990	Transposase InsH for insertion sequence element IS5K
+1_2991	Putative transmembrane protein
+1_2992	Mannitol-specific cryptic phosphotransferase enzyme IIA component {ECO:0000303|PubMed:8353127}
+1_2993	transketolase
+1_2994	Metalloprotease LoiP
+1_2995	agmatinase
+1_2996	arginine decarboxylase
+1_2997	Putative transmembrane protein
+1_2998	methionine adenosyltransferase
+1_2999	MFS transporter, sugar porter (SP) family
+1_3000	Protein SprT {ECO:0000255|HAMAP-Rule:MF_00746}
+1_3001	Endonuclease I
+1_3002	RNA methyltransferase, RsmE family
+1_3003	glutathione synthase
+1_3004	Uncharacterized ACR, COG1678
+1_3005	RNAse H domain protein, YqgF family
+1_3006	twitching motility protein
+1_3007	pyridoxal phosphate enzyme, YggS family
+1_3008	Uncharacterized protein YggT
+1_3009	UPF0235 protein YggU {ECO:0000255|HAMAP-Rule:MF_00634}
+1_3010	non-canonical purine NTP pyrophosphatase, RdgB/HAM1 family
+1_3011	putative oxygen-independent coproporphyrinogen III oxidase
+1_3012	Protein of unknown function (DUF1202)
+1_3013	L-asparaginase, type II
+1_3014	Protein of unknown function (DUF2884)
+1_3015	Uncharacterized protein YggL
+1_3016	tRNA (guanine-N(7)-)-methyltransferase
+1_3017	A/G-specific adenine glycosylase
+1_3018	Probable Fe(2+)-trafficking protein {ECO:0000255|HAMAP-Rule:MF_00686}
+1_3019	Domain of unknown function (DUF3393)
+1_3020	Nucleoside H+ symporter
+1_3021	Hypothetical Protein
+1_3022	Peptidase M60-like family
+1_3023	Prepilin peptidase PppA
+1_3024	Lipoprotein YghG
+1_3025	Putative type II secretion system C-type protein YghF
+1_3026	type II secretion system protein L
+1_3027	Putative type II secretion system M-type protein YghD
+1_3028	Protein of unknown function (DUF554)
+1_3029	Orn/Lys/Arg decarboxylase, major domain
+1_3030	Nucleoside H+ symporter
+1_3031	Hypothetical Protein
+1_3032	Putative lipoprotein AcfD homolog
+1_3033	transporter, lactate permease (LctP) family
+1_3034	malate synthase G
+1_3035	Protein GlcG
+1_3036	Glycolate oxidase iron-sulfur subunit {ECO:0000305|PubMed:8606183}
+1_3037	Glycolate oxidase subunit GlcE {ECO:0000305|PubMed:8606183}
+1_3038	glycolate oxidase, subunit GlcD
+1_3039	Glc operon transcriptional activator {ECO:0000250|UniProtKB:P0ACL5}
+1_3040	Protein YghO
+1_3041	Transposase InsH for insertion sequence element IS5K
+1_3042	Inner membrane protein YghQ
+1_3043	Uncharacterized ATP-binding protein YghR
+1_3044	Uncharacterized ATP-binding protein YghS
+1_3045	Uncharacterized ATP-binding protein YghT
+1_3046	Phosphate transporter family
+1_3047	Glutathionylspermidine synthetase
+1_3048	Disulfide-bond oxidoreductase YghU
+1_3049	Hypothetical Protein
+1_3050	Hydrogenase maturation factor HybF {ECO:0000255|HAMAP-Rule:MF_02099}
+1_3051	Hydrogenase-2 operon protein HybE
+1_3052	hydrogenase expression/formation protein
+1_3053	Nickel-dependent hydrogenase
+1_3054	Probable Ni/Fe-hydrogenase 2 b-type cytochrome subunit
+1_3055	Hydrogenase-2 operon protein HybA
+1_3056	hydrogenase (NiFe) small subunit (hydA)
+1_3057	Protein of unknown function (DUF2623)
+1_3058	Hypothetical Protein
+1_3059	Putative hydrolase fragment YghX
+1_3060	Hypothetical Protein
+1_3061	Aldo/keto reductase family
+1_3062	TIGR00645 family protein
+1_3063	Uncharacterized oxidoreductase YghA
+1_3064	TonB system transport protein ExbD
+1_3065	tonB-system energizer ExbB
+1_3066	cystathionine beta-lyase
+1_3067	Inner membrane protein YghB
+1_3068	Uncharacterized HTH-type transcriptional regulator YqhC
+1_3069	Iron-containing alcohol dehydrogenase
+1_3070	Aldo/keto reductase family
+1_3071	Uncharacterized protein YqhG
+1_3072	Putative transmembrane protein
+1_3073	uncharacterized radical SAM protein YgiQ
+1_3074	Cell division protein FtsP {ECO:0000255|HAMAP-Rule:MF_00915}
+1_3075	1-acylglycerol-3-phosphate O-acyltransferases
+1_3076	DNA topoisomerase IV, A subunit
+1_3077	Bacterial extracellular solute-binding proteins, family 5 Middle
+1_3078	Antitoxin MqsA {ECO:0000303|PubMed:20041169}
+1_3079	mRNA interferase toxin MqsR {ECO:0000303|PubMed:19690171}
+1_3080	Probable transcriptional regulator YgiV
+1_3081	TIGR00156 family protein
+1_3082	Transcriptional regulatory protein QseB
+1_3083	Sensor protein QseC
+1_3084	NADPH:quinone oxidoreductase MdaB {ECO:0000305}
+1_3085	Probable quinol monooxygenase YgiN
+1_3086	DNA topoisomerase IV, B subunit
+1_3087	Uncharacterised protein family (UPF0227)
+1_3088	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA {ECO:0000255|HAMAP-Rule:MF_00905}
+1_3089	Uncharacterized protein YqiB
+1_3090	nudix-type nucleoside diphosphatase, YffH/AdpP family
+1_3091	type I secretion outer membrane protein, TolC family
+1_3092	Protein of unknown function (DUF1190)
+1_3093	Putative acid--amine ligase YgiC
+1_3094	Catalytic LigB subunit of aromatic ring-opening dioxygenase
+1_3095	Zinc transporter ZupT
+1_3096	Putative transmembrane protein
+1_3097	3,4-dihydroxy-2-butanone-4-phosphate synthase
+1_3098	Ubiquinone biosynthesis accessory factor UbiK {ECO:0000255|HAMAP-Rule:MF_02216, ECO:0000305}
+1_3099	Uncharacterized fimbrial-like protein YgiL
+1_3100	Transposase InsC for insertion element IS2F
+1_3101	Transposase InsD for insertion element IS2-12
+1_3102	Outer membrane usher protein
+1_3103	Uncharacterized fimbrial chaperone YqiH
+1_3104	Uncharacterized protein YqiI
+1_3105	Hypothetical Protein
+1_3106	Protein of unknown function (DUF1449)
+1_3107	Flotillin family inner membrane protein YqiK
+1_3108	bifunctional protein RfaE, domain I
+1_3109	Glutamate-ammonia ligase adenylyltransferase
+1_3110	Inorganic triphosphatase
+1_3111	SH3 domain protein
+1_3112	Phosphatase {ECO:0000255|HAMAP-Rule:MF_01261}
+1_3113	undecaprenyl-diphosphatase UppP
+1_3114	Dihydroneopterin aldolase
+1_3115	acyl-phosphate glycerol 3-phosphate acyltransferase
+1_3116	HTH-type transcriptional activator TtdR
+1_3117	hydrolyase, tartrate alpha subunit/fumarate domain protein, Fe-S type
+1_3118	hydrolyase, tartrate beta subunit/fumarate domain protein, Fe-S type
+1_3119	Sodium:sulfate symporter transmembrane region
+1_3120	tRNA threonylcarbamoyl adenosine modification protein TsaD
+1_3121	Hypothetical Protein
+1_3122	DNA primase
+1_3123	RNA polymerase sigma factor RpoD
+1_3124	G/U mismatch-specific DNA glycosylase {ECO:0000255|HAMAP-Rule:MF_01956}
+1_3125	NADPH-dependent ferric-chelate reductase
+1_3126	Transcriptional regulator YqjI
+1_3127	Methyl-accepting chemotaxis protein (MCP) signalling domain
+1_3128	putrescine aminotransferase
+1_3129	tRNA-binding protein YgjH
+1_3130	HTH-type transcriptional regulator EbgR
+1_3131	Glycosyl hydrolases family 2, TIM barrel domain
+1_3132	Evolved beta-galactosidase subunit beta
+1_3133	Inner membrane transporter YgjI
+1_3134	Uncharacterized protein YgjJ
+1_3135	Glucosidase YgjK
+1_3136	NADH:flavin oxidoreductase / NADH oxidase family
+1_3137	Antitoxin HigA
+1_3138	mRNA interferase HigB
+1_3139	Methyltransferase small domain
+1_3140	UTP pyrophosphatase {ECO:0000303|PubMed:27941785}
+1_3141	Uncharacterized protein YgjQ
+1_3142	Uncharacterized oxidoreductase YgjR
+1_3143	integral membrane protein, TerC family
+1_3144	Sodium:dicarboxylate symporter family
+1_3145	Bacterial inner membrane protein
+1_3146	D-galactarate dehydratase / Altronate hydrolase, C terminus
+1_3147	Glucuronate isomerase
+1_3148	D-galactonate transporter
+1_3149	Exu regulon transcriptional regulator
+1_3150	Inner membrane protein YqjA
+1_3151	Modulator protein MzrA {ECO:0000255|HAMAP-Rule:MF_00904}
+1_3152	Protein YqjC
+1_3153	Uncharacterized protein YqjD
+1_3154	Inner membrane protein YqjE
+1_3155	Uncharacterized protein YqjK
+1_3156	Inner membrane protein YqjF
+1_3157	Glutathionyl-hydroquinone reductase YqjG
+1_3158	Inner membrane protein YhaH
+1_3159	Inner membrane protein YhaI
+1_3160	HTH-type transcriptional regulator YhaJ
+1_3161	Pirin-like protein YhaK
+1_3162	Hypothetical Protein
+1_3163	Serine dehydratase alpha chain
+1_3164	Probable serine transporter
+1_3165	L-serine ammonia-lyase
+1_3166	reactive intermediate/imine deaminase
+1_3167	formate acetyltransferase
+1_3168	acetate kinase
+1_3169	serine transporter
+1_3170	threonine ammonia-lyase
+1_3171	HTH-type transcriptional regulator TdcA
+1_3172	Uncharacterized protein YhaB
+1_3173	Uncharacterized protein YhaC
+1_3174	Glycerate kinase family
+1_3175	2-hydroxy-3-oxopropionate reductase
+1_3176	2-dehydro-3-deoxyglucarate aldolase
+1_3177	D-galactonate transporter
+1_3178	galactarate dehydratase
+1_3179	Antitoxin PrlF
+1_3180	Toxin with endonuclease activity YhaV
+1_3181	DeoR C terminal sensor domain
+1_3182	D-tagatose-bisphosphate aldolase, class II, non-catalytic subunit
+1_3183	PTS system, mannose/fructose/sorbose family, IIB component
+1_3184	Putative N-acetylgalactosamine permease IIC component 2
+1_3185	N-acetylgalactosamine-6-phosphate deacetylase {ECO:0000305}
+1_3186	putative sugar isomerase, AgaS family
+1_3187	class II aldolase, tagatose bisphosphate family
+1_3188	PTS system, mannose/fructose/sorbose family, IIB component
+1_3189	PTS system, mannose/fructose/sorbose family, IIC component
+1_3190	PTS system, mannose/fructose/sorbose family, IID component
+1_3191	Putative deaminase AgaI {ECO:0000305}
+1_3192	Uncharacterized fimbrial-like protein YraH
+1_3193	Probable fimbrial chaperone YraI
+1_3194	Outer membrane usher protein
+1_3195	Uncharacterized fimbrial-like protein YraK
+1_3196	16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+1_3197	LppC putative lipoprotein
+1_3198	TIGR00252 family protein
+1_3199	DnaA initiator-associating protein DiaA {ECO:0000255|HAMAP-Rule:MF_01157}
+1_3200	Uncharacterized protein YraP
+1_3201	Predicted permease
+1_3202	Putative NAD(P)-binding protein YraR
+1_3203	intracellular protease, PfpI family
+1_3204	UPF0306 protein YhbP {ECO:0000255|HAMAP-Rule:MF_00764}
+1_3205	UPF0213 protein YhbQ {ECO:0000255|HAMAP-Rule:MF_01029}
+1_3206	Uncharacterized N-acetyltransferase YhbS
+1_3207	Ubiquinone biosynthesis accessory factor UbiT {ECO:0000255|HAMAP-Rule:MF_02231}
+1_3208	Peptidase family U32
+1_3209	Ubiquinone biosynthesis protein UbiV {ECO:0000255|HAMAP-Rule:MF_02233, ECO:0000305}
+1_3210	luciferase family oxidoreductase, group 1
+1_3211	aromatic amino acid transport protein
+1_3212	ATP-dependent RNA helicase DeaD {ECO:0000255|HAMAP-Rule:MF_00964}
+1_3213	Lipoprotein NlpI
+1_3214	polyribonucleotide nucleotidyltransferase
+1_3215	Hypothetical Protein
+1_3216	tRNA pseudouridine(55) synthase
+1_3217	Ribosome-binding factor A {ECO:0000255|HAMAP-Rule:MF_00003}
+1_3218	translation initiation factor IF-2
+1_3219	transcription termination factor NusA
+1_3220	Ribosome maturation factor RimP {ECO:0000255|HAMAP-Rule:MF_01077}
+1_3221	argininosuccinate synthase
+1_3222	Putative transferase YhbX
+1_3223	Protein-export membrane protein SecG
+1_3224	phosphoglucosamine mutase
+1_3225	dihydropteroate synthase
+1_3226	ATP-dependent metallopeptidase HflB
+1_3227	ribosomal RNA large subunit methyltransferase J
+1_3228	RNA-binding protein YhbY
+1_3229	transcription elongation factor GreA
+1_3230	D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase
+1_3231	Obg family GTPase CgtA
+1_3232	Uncharacterized inner membrane transporter YhbE
+1_3233	Hypothetical Protein
+1_3234	50S ribosomal protein L21 {ECO:0000255|HAMAP-Rule:MF_01363}
+1_3235	Polyprenyl synthetase
+1_3236	Sugar fermentation stimulation protein B
+1_3237	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1_3238	Hypothetical Protein
+1_3239	Intermembrane phospholipid transport system binding protein MlaB {ECO:0000250|UniProtKB:P64602}
+1_3240	Intermembrane phospholipid transport system binding protein MlaC {ECO:0000250|UniProtKB:P0ADV7}
+1_3241	outer membrane lipid asymmetry maintenance protein MlaD
+1_3242	ABC transport permease subunit
+1_3243	Intermembrane phospholipid transport system ATP-binding protein MlaF {ECO:0000250|UniProtKB:P63386}
+1_3244	K+-dependent Na+/Ca+ exchanger homolog
+1_3245	sugar isomerase, KpsF/GutQ family
+1_3246	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase, YrbI family
+1_3247	Lipopolysaccharide-assembly, LptC-related
+1_3248	lipopolysaccharide transport periplasmic protein LptA
+1_3249	LPS export ABC transporter ATP-binding protein
+1_3250	RNA polymerase sigma-54 factor
+1_3251	Ribosome hibernation promoting factor
+1_3252	PTS IIA-like nitrogen-regulatory protein PtsN
+1_3253	P-loop ATPase protein family
+1_3254	Hypothetical Protein
+1_3255	PhoP regulatory network protein YrbL
+1_3256	monofunctional biosynthetic peptidoglycan transglycosylase
+1_3257	Glyoxalase ElbB {ECO:0000303|PubMed:26678554}
+1_3258	Aerobic respiration control sensor protein ArcB
+1_3259	radical SAM protein, TIGR01212 family
+1_3260	Conserved region in glutamate synthase
+1_3261	glutamate synthase, small subunit
+1_3262	Protein GltF
+1_3263	Uncharacterized fimbrial chaperone YhcA
+1_3264	Outer membrane usher protein
+1_3265	Putative uncharacterized protein YhcE
+1_3266	Transposase InsH for insertion sequence element IS5K
+1_3267	Hypothetical Protein
+1_3268	Uncharacterized protein YhcF
+1_3269	Protein of unknown function (DUF1016)
+1_3270	YhcH/YjgK/YiaL family protein
+1_3271	ROK family
+1_3272	Putative N-acetylmannosamine-6-phosphate epimerase
+1_3273	H+ symporter (SHS) family
+1_3274	N-acetylneuraminate lyase
+1_3275	HTH-type transcriptional repressor NanR {ECO:0000255|HAMAP-Rule:MF_01236}
+1_3276	transporter, anaerobic C4-dicarboxylate uptake C (DcuC) family
+1_3277	Stringent starvation protein B
+1_3278	Stringent starvation protein A
+1_3279	30S ribosomal protein S9
+1_3280	ribosomal protein L13
+1_3281	AFG1-like ATPase
+1_3282	Protein of unknown function (DUF1043)
+1_3283	peptidase Do
+1_3284	periplasmic serine peptidase DegS
+1_3285	malate dehydrogenase, NAD-dependent
+1_3286	Arginine repressor {ECO:0000255|HAMAP-Rule:MF_00173}
+1_3287	Hypothetical Protein
+1_3288	Uncharacterized protein YhcO
+1_3289	Fusaric acid resistance protein family
+1_3290	p-hydroxybenzoic acid efflux pump subunit AaeA {ECO:0000255|HAMAP-Rule:MF_01544}
+1_3291	Putative transmembrane protein
+1_3292	HTH-type transcriptional activator AaeR
+1_3293	Putative modulator of DNA gyrase
+1_3294	TIGR02099 family protein
+1_3295	ribonuclease, Rne/Rng family
+1_3296	septum formation protein Maf
+1_3297	Rod shape-determining protein MreD
+1_3298	rod shape-determining protein MreC
+1_3299	cell shape determining protein, MreB/Mrl family
+1_3300	RNase E specificity factor CsrD
+1_3301	putative quinone oxidoreductase, YhdH/YhfP family
+1_3302	acetyl-CoA carboxylase, biotin carboxyl carrier protein
+1_3303	acetyl-CoA carboxylase, biotin carboxylase subunit
+1_3304	Putative transmembrane protein
+1_3305	sodium/pantothenate symporter
+1_3306	ribosomal protein L11 methyltransferase
+1_3307	putative TIM-barrel protein, nifR3 family
+1_3308	DNA-binding protein Fis {ECO:0000255|HAMAP-Rule:MF_00166}
+1_3309	DNA methylase
+1_3310	Putative transmembrane protein
+1_3311	Probable acrEF/envCD operon repressor
+1_3312	efflux transporter, RND family, MFP subunit
+1_3313	RND transporter, hydrophobe/amphiphile efflux-1 (HAE1) family
+1_3314	Hypothetical Protein
+1_3315	Putative transmembrane protein
+1_3316	Putative transmembrane protein
+1_3317	Putative amino-acid ABC transporter-binding protein YhdW
+1_3318	Putative amino-acid ABC transporter permease protein YhdX
+1_3319	Inner membrane amino-acid ABC transporter permease protein YhdY
+1_3320	Uncharacterized amino-acid ABC transporter ATP-binding protein YhdZ
+1_3321	Hypothetical Protein
+1_3322	Hypothetical Protein
+1_3323	Protein YrdA
+1_3324	Uncharacterized protein YrdB
+1_3325	shikimate dehydrogenase
+1_3326	Threonylcarbamoyl-AMP synthase {ECO:0000255|HAMAP-Rule:MF_01852}
+1_3327	Topoisomerase DNA binding C4 zinc finger
+1_3328	Protein of unknown function (DUF494)
+1_3329	DNA protecting protein DprA
+1_3330	peptide deformylase
+1_3331	methionyl-tRNA formyltransferase
+1_3332	16S rRNA (cytosine(967)-C(5))-methyltransferase
+1_3333	TrkA-N domain
+1_3334	large conductance mechanosensitive channel protein
+1_3335	Hypothetical Protein
+1_3336	Zn(II)-responsive transcriptional regulator
+1_3337	Uncharacterized protein YhdN
+1_3338	50S ribosomal protein L17 {ECO:0000255|HAMAP-Rule:MF_01368}
+1_3339	DNA-directed RNA polymerase, alpha subunit
+1_3340	ribosomal protein S4
+1_3341	30S ribosomal protein S11
+1_3342	30S ribosomal protein S13
+1_3343	Hypothetical Protein
+1_3344	preprotein translocase, SecY subunit
+1_3345	ribosomal protein L15
+1_3346	Hypothetical Protein
+1_3347	ribosomal protein S5
+1_3348	50S ribosomal protein L18 {ECO:0000255|HAMAP-Rule:MF_01337}
+1_3349	ribosomal protein L6
+1_3350	30S ribosomal protein S8 {ECO:0000255|HAMAP-Rule:MF_01302}
+1_3351	30S ribosomal protein S14 {ECO:0000255|HAMAP-Rule:MF_00537}
+1_3352	50S ribosomal protein L5 {ECO:0000255|HAMAP-Rule:MF_01333}
+1_3353	50S ribosomal protein L24 {ECO:0000255|HAMAP-Rule:MF_01326}
+1_3354	ribosomal protein L14
+1_3355	Hypothetical Protein
+1_3356	Hypothetical Protein
+1_3357	ribosomal protein L16
+1_3358	ribosomal protein S3
+1_3359	50S ribosomal protein L22 {ECO:0000255|HAMAP-Rule:MF_01331}
+1_3360	30S ribosomal protein S19 {ECO:0000255|HAMAP-Rule:MF_00531}
+1_3361	ribosomal protein L2
+1_3362	50S ribosomal protein L23 {ECO:0000255|HAMAP-Rule:MF_01369}
+1_3363	50S ribosomal protein L4
+1_3364	50S ribosomal protein L3
+1_3365	30S ribosomal protein S10 {ECO:0000255|HAMAP-Rule:MF_00508}
+1_3366	Putative general secretion pathway protein B {ECO:0000305}
+1_3367	Putative general secretion pathway protein A
+1_3368	type II secretion system protein C
+1_3369	type II secretion system protein D
+1_3370	type II secretion system protein E
+1_3371	type II secretion system protein F
+1_3372	type II secretion system protein G
+1_3373	Type II secretion system protein H
+1_3374	Putative type II secretion system protein I
+1_3375	Type II secretion system protein J
+1_3376	Type II secretion system (T2SS), protein K
+1_3377	type II secretion system protein L
+1_3378	Putative type II secretion system protein M
+1_3379	N-methyltransferase
+1_3380	bacterioferritin
+1_3381	Hypothetical Protein
+1_3382	Lysozyme
+1_3383	Lysozyme
+1_3384	translation elongation factor Tu
+1_3385	translation elongation factor G
+1_3386	ribosomal protein S7
+1_3387	ribosomal protein S12
+1_3388	Protein TusB {ECO:0000255|HAMAP-Rule:MF_01564}
+1_3389	Protein TusC {ECO:0000255|HAMAP-Rule:MF_00389}
+1_3390	sulfur relay protein TusD/DsrE
+1_3391	Uncharacterized protein YheO
+1_3392	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA
+1_3393	Hypothetical Protein
+1_3394	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+1_3395	Hypothetical Protein
+1_3396	proton antiporter-2 (CPA2) family
+1_3397	Glutathione-regulated potassium-efflux system ancillary protein KefG {ECO:0000255|HAMAP-Rule:MF_01415}
+1_3398	Probable ATP-binding protein YheS
+1_3399	Putative esterase YheT
+1_3400	Hypothetical Protein
+1_3401	Phosphoribulokinase / Uridine kinase family
+1_3402	Protein YhfA
+1_3403	cAMP-activated global transcriptional regulator CRP
+1_3404	integral membrane protein, YccS/YhfK family
+1_3405	succinylornithine transaminase family
+1_3406	glutamine amidotransferase of anthranilate synthase or aminodeoxychorismate synthase
+1_3407	Probable protein adenylyltransferase Fic
+1_3408	Hypothetical Protein
+1_3409	Peptidyl-prolyl cis-trans isomerase A
+1_3410	Protein TsgA {ECO:0000255|HAMAP-Rule:MF_01044}
+1_3411	nitrite reductase [NAD(P)H], large subunit
+1_3412	Nitrite reductase (NADH) small subunit
+1_3413	formate/nitrite transporter
+1_3414	uroporphyrinogen-III C-methyltransferase
+1_3415	Hypothetical Protein
+1_3416	Amino acid permease
+1_3417	Fructoselysine 6-phosphate deglycase {ECO:0000303|PubMed:12147680}
+1_3418	Fructoselysine 3-epimerase {ECO:0000303|PubMed:14641112}
+1_3419	Fructoselysine 6-kinase {ECO:0000303|PubMed:12147680}
+1_3420	Probable fructoselysine utilization operon transcriptional repressor {ECO:0000303|PubMed:12147680}
+1_3421	Uncharacterized protein YhfS
+1_3422	Protein of unknown function
+1_3423	Protein of unknown function DUF2620
+1_3424	Phosphotriesterase family
+1_3425	Metalloenzyme superfamily
+1_3426	Uncharacterized protein YhfX
+1_3427	Uncharacterized protein YhfY
+1_3428	YhfZ C-terminal domain
+1_3429	tryptophan--tRNA ligase
+1_3430	phosphoglycolate phosphatase, bacterial
+1_3431	ribulose-phosphate 3-epimerase
+1_3432	DNA adenine methylase
+1_3433	Cell division protein DamX {ECO:0000255|HAMAP-Rule:MF_02021, ECO:0000305}
+1_3434	3-dehydroquinate synthase
+1_3435	Shikimate kinase
+1_3436	type IV pilus secretin PilQ
+1_3437	Protein of unknown function (DUF2531)
+1_3438	DNA utilization protein HofO
+1_3439	Putative DNA utilization protein HofN
+1_3440	DNA utilization protein HofM
+1_3441	penicillin-binding protein, 1A family
+1_3442	ADP compounds hydrolase NudE
+1_3443	Intracellular growth attenuator protein IgaA
+1_3444	GMP/IMP nucleotidase YrfG
+1_3445	Heat shock protein 15
+1_3446	Hsp33 protein
+1_3447	Uncharacterized protein YhgE
+1_3448	phosphoenolpyruvate carboxykinase (ATP)
+1_3449	Sensor histidine kinase EnvZ {ECO:0000305}
+1_3450	DNA-binding dual transcriptional regulator OmpR {ECO:0000305}
+1_3451	transcription elongation factor GreB
+1_3452	Tex-like protein N-terminal domain
+1_3453	Hypothetical Protein
+1_3454	ferrous iron transport protein B
+1_3455	Hypothetical Protein
+1_3456	Putative transposase, YhgA-like
+1_3457	pimelyl-[acyl-carrier protein] methyl ester esterase
+1_3458	comF family protein
+1_3459	IscR-regulated protein YhgI
+1_3460	H+ symporter (GntP) family
+1_3461	4-alpha-glucanotransferase
+1_3462	Carbohydrate phosphorylase
+1_3463	HTH-type transcriptional regulator MalT {ECO:0000255|HAMAP-Rule:MF_01247}
+1_3464	RNA 3'-phosphate cyclase
+1_3465	tRNA-splicing ligase RtcB
+1_3466	Regulator of RNA terminal phosphate cyclase
+1_3467	DeoR C terminal sensor domain
+1_3468	rhomboid family protease GlpG
+1_3469	Thiosulfate sulfurtransferase GlpE {ECO:0000255|HAMAP-Rule:MF_01009}
+1_3470	Aerobic glycerol-3-phosphate dehydrogenase
+1_3471	Protein YzgL
+1_3472	glycogen/starch/alpha-glucan phosphorylases
+1_3473	glycogen/starch synthase, ADP-glucose type
+1_3474	glucose-1-phosphate adenylyltransferase
+1_3475	glycogen debranching enzyme GlgX
+1_3476	1,4-alpha-glucan branching enzyme
+1_3477	aspartate-semialdehyde dehydrogenase
+1_3478	MarC family integral membrane protein
+1_3479	H+ symporter (GntP) family
+1_3480	carbohydrate kinase, thermoresistant glucokinase family
+1_3481	HTH-type transcriptional regulator GntR
+1_3482	Quercetin 2,3-dioxygenase
+1_3483	Uncharacterized oxidoreductase YhhX
+1_3484	L-amino acid N-acetyltransferase AaaT {ECO:0000303|PubMed:27941785}
+1_3485	Uncharacterized protein YhhZ
+1_3486	Putative uncharacterized protein YrhA
+1_3487	Insertion element IS1 5 protein InsA
+1_3488	IS1 transposase
+1_3489	Hypothetical Protein
+1_3490	Uncharacterized protein YrhB
+1_3491	gamma-glutamyltransferase
+1_3492	Protein of unknown function (DUF2756)
+1_3493	Glycerophosphodiester phosphodiesterase, cytoplasmic
+1_3494	sn-glycerol-3-phosphate import ATP-binding protein UgpC {ECO:0000255|HAMAP-Rule:MF_01727}
+1_3495	sn-glycerol-3-phosphate transport system permease protein UgpE
+1_3496	sn-glycerol-3-phosphate transport system permease protein UgpA
+1_3497	sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+1_3498	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+1_3499	High-affinity branched-chain amino acid transport ATP-binding protein LivG
+1_3500	Branched-chain amino acid transport system / permease component
+1_3501	Branched-chain amino acid transport system / permease component
+1_3502	Periplasmic binding protein
+1_3503	PanD regulatory factor {ECO:0000255|HAMAP-Rule:MF_02018, ECO:0000305}
+1_3504	Periplasmic binding protein
+1_3505	alternative sigma factor RpoH
+1_3506	putative protein insertion permease FtsX
+1_3507	cell division ATP-binding protein FtsE
+1_3508	signal recognition particle-docking protein FtsY
+1_3509	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD
+1_3510	Putative transmembrane protein
+1_3511	Uncharacterized protein YhhM
+1_3512	Uncharacterized membrane protein YhhN
+1_3513	heavy metal translocating P-type ATPase
+1_3514	Hypothetical Protein
+1_3515	conserved hypothetical integral membrane protein
+1_3516	Inner membrane lipoprotein DcrB {ECO:0000255|HAMAP-Rule:MF_02248, ECO:0000303|PubMed:33431434}
+1_3517	Uncharacterized MFS-type transporter YhhS {ECO:0000255|HAMAP-Rule:MF_01118, ECO:0000305}
+1_3518	Domain of unknown function DUF20
+1_3519	4'-phosphopantetheinyl transferase AcpT
+1_3520	nickel ABC transporter, nickel/metallophore periplasmic binding protein
+1_3521	nickel ABC transporter, permease subunit NikB
+1_3522	nickel ABC transporter, permease subunit NikC
+1_3523	nickel import ATP-binding protein NikD
+1_3524	nickel import ATP-binding protein NikE
+1_3525	nickel-responsive transcriptional regulator NikR
+1_3526	RHS Repeat
+1_3527	Uncharacterized protein YhhH
+1_3528	Hypothetical Protein
+1_3529	H repeat-associated putative transposase YhhI
+1_3530	Inner membrane transport permease YhhJ
+1_3531	ABC transporter
+1_3532	Uncharacterized protein YhiI
+1_3533	Domain of unknown function (DUF4049)
+1_3534	Domain of unknown function (DUF4049)
+1_3535	Domain of unknown function (DUF4049)
+1_3536	Protein of unknown function (DUF2776)
+1_3537	HI0933-like protein
+1_3538	Phosphate transporter family
+1_3539	Universal stress protein B (UspB)
+1_3540	Universal stress protein A
+1_3541	H+ symporter)
+1_3542	Putative SAM-dependent methyltransferase
+1_3543	Peptidase family M3
+1_3544	Ribosomal RNA small subunit methyltransferase D, RsmJ
+1_3545	glutathione-disulfide reductase
+1_3546	Hypothetical Protein
+1_3547	Arsenical resistance operon repressor
+1_3548	Arsenical pump membrane protein
+1_3549	Arsenate reductase
+1_3550	Putative uncharacterized protein YhiS
+1_3551	Transposase InsH for insertion sequence element IS5K
+1_3552	outer membrane lipoprotein, Slp family
+1_3553	HTH-type transcriptional regulator DctR
+1_3554	Putative magnesium transporter YhiD
+1_3555	Acid stress chaperone HdeB {ECO:0000255|HAMAP-Rule:MF_00947}
+1_3556	Acid stress chaperone HdeA {ECO:0000255|HAMAP-Rule:MF_00946}
+1_3557	Protein HdeD
+1_3558	Transcriptional regulator GadE
+1_3559	Hypothetical Protein
+1_3560	efflux transporter, RND family, MFP subunit
+1_3561	RND transporter, hydrophobe/amphiphile efflux-1 (HAE1) family
+1_3562	HTH-type transcriptional regulator GadW
+1_3563	HTH-type transcriptional regulator GadX
+1_3564	glutamate decarboxylase
+1_3565	Di-haem cytochrome c peroxidase
+1_3566	Trehalase
+1_3567	Putative HTH-type transcriptional regulator YhjB
+1_3568	Uncharacterized HTH-type transcriptional regulator YhjC
+1_3569	inner membrane protein YhjD
+1_3570	H+ symporter (MHS) family protein
+1_3571	AsmA family
+1_3572	Cyclic di-GMP phosphodiesterase PdeH {ECO:0000305}
+1_3573	pfkB family carbohydrate kinase
+1_3574	Protein YhjJ
+1_3575	Sodium:dicarboxylate symporter family
+1_3576	EAL domain
+1_3577	Cellulose synthase operon protein C C-terminus (BCSC_C)
+1_3578	Glycosyl hydrolases family 8
+1_3579	Bacterial cellulose synthase subunit
+1_3580	cellulose synthase catalytic subunit (UDP-forming)
+1_3581	YhjQ protein
+1_3582	Hypothetical Protein
+1_3583	Protein of unknown function (DUF2819)
+1_3584	Putative transmembrane protein
+1_3585	cellulose synthase operon protein YhjU
+1_3586	Putative transmembrane protein
+1_3587	Inner membrane transport protein YhjV
+1_3588	Dipeptide transport ATP-binding protein DppF {ECO:0000305}
+1_3589	Dipeptide transport ATP-binding protein DppD {ECO:0000250|UniProtKB:P0AAG0}
+1_3590	Dipeptide transport system permease protein DppC {ECO:0000250|UniProtKB:P0AEG1}
+1_3591	Dipeptide transport system permease protein DppB {ECO:0000305}
+1_3592	Bacterial extracellular solute-binding proteins, family 5 Middle
+1_3593	Kdo(2)-lipid A phosphoethanolamine 7''-transferase
+1_3594	oxalate/formate antiporter family transporter
+1_3595	Uncharacterized protein YhjY
+1_3596	DNA-3-methyladenine glycosylase I
+1_3597	Peptidyl-lysine N-acetyltransferase YiaC {ECO:0000305}
+1_3598	molybdopterin guanine dinucleotide-containing S/N-oxide reductases
+1_3599	Probable lipoprotein YiaD
+1_3600	D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+1_3601	Protein of unknown function (DUF3053)
+1_3602	Uncharacterized HTH-type transcriptional regulator YiaG
+1_3603	Hypothetical Protein
+1_3604	Putative transmembrane protein
+1_3605	Insertion element IS150 protein InsJ
+1_3606	Putative transposase InsK for insertion sequence element IS150
+1_3607	glycine--tRNA ligase, beta subunit
+1_3608	glycine--tRNA ligase, alpha subunit
+1_3609	Uncharacterized lipoprotein YsaB
+1_3610	O-acetyltransferase WecH {ECO:0000255|HAMAP-Rule:MF_01949, ECO:0000303|PubMed:16936038}
+1_3611	Inner membrane protein YiaA
+1_3612	Inner membrane protein YiaB
+1_3613	xylulokinase
+1_3614	xylose isomerase
+1_3615	D-xylose ABC transporter, D-xylose-binding protein
+1_3616	D-xylose ABC transporter, ATP-binding protein
+1_3617	Xylose transport system permease protein XylH
+1_3618	Xylose operon regulatory protein
+1_3619	Protein bax
+1_3620	Periplasmic alpha-amylase
+1_3621	Valine--pyruvate aminotransferase
+1_3622	Putative electron transport protein YsaA
+1_3623	DNA-binding transcriptional repressor YiaJ
+1_3624	Malate/L-lactate dehydrogenase
+1_3625	YhcH/YjgK/YiaL family protein
+1_3626	2,3-diketo-L-gulonate TRAP transporter small permease protein YiaM
+1_3627	TRAP transporter, DctM subunit
+1_3628	TRAP transporter solute receptor, DctP family
+1_3629	FGGY family of carbohydrate kinases, N-terminal domain
+1_3630	3-keto-L-gulonate-6-phosphate decarboxylase SgbH
+1_3631	putative hexulose-6-phosphate isomerase
+1_3632	L-ribulose-5-phosphate 4-epimerase
+1_3633	MltA-interacting protein MipA
+1_3634	Uncharacterized HTH-type transcriptional regulator YiaU
+1_3635	HlyD family secretion protein
+1_3636	Inner membrane protein YiaW
+1_3637	Putative transmembrane protein
+1_3638	Aldehyde dehydrogenase family
+1_3639	Iron-containing alcohol dehydrogenase
+1_3640	selenocysteine-specific translation elongation factor
+1_3641	L-seryl-tRNA(Sec) selenium transferase
+1_3642	Uncharacterized GST-like protein YibF
+1_3643	RHS Repeat
+1_3644	Protein YibA
+1_3645	Putative uncharacterized protein YibJ
+1_3646	Uncharacterized protein YibG
+1_3647	HlyD family secretion protein
+1_3648	Uncharacterized protein YibI
+1_3649	PTS system, mannitol-specific IIC component
+1_3650	Mannitol dehydrogenase C-terminal domain
+1_3651	Mannitol repressor
+1_3652	Hypothetical Protein
+1_3653	Uncharacterized protein YibL
+1_3654	transporter, lactate permease (LctP) family
+1_3655	Putative L-lactate dehydrogenase operon regulatory protein
+1_3656	FMN-dependent dehydrogenase
+1_3657	tRNA (cytidine(34)-2'-O)-methyltransferase
+1_3658	serine O-acetyltransferase
+1_3659	NAD-dependent glycerol-3-phosphate dehydrogenase C-terminus
+1_3660	protein-export chaperone SecB
+1_3661	Hypothetical Protein
+1_3662	Uncharacterized protein YibN
+1_3663	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+1_3664	Murein hydrolase activator EnvC
+1_3665	Divergent polysaccharide deacetylase
+1_3666	Uncharacterized glycosyltransferase YibD
+1_3667	L-threonine 3-dehydrogenase
+1_3668	glycine C-acetyltransferase
+1_3669	protein YibB
+1_3670	ADP-glyceromanno-heptose 6-epimerase
+1_3671	lipopolysaccharide heptosyltransferase II
+1_3672	lipopolysaccharide heptosyltransferase I
+1_3673	O-antigen ligase
+1_3674	Lipopolysaccharide 1,2-N-acetylglucosaminetransferase
+1_3675	3-deoxy-D-manno-oct-2-ulosonate III transferase WaaZ
+1_3676	Lipopolysaccharide core biosynthesis protein (WaaY)
+1_3677	Glycosyl transferase family 8
+1_3678	Glycosyl transferase family 8
+1_3679	Lipopolysaccharide 1,6-galactosyltransferase
+1_3680	Lipopolysaccharide core biosynthesis protein RfaS
+1_3681	Lipopolysaccharide kinase (Kdo/WaaP) family
+1_3682	Lipopolysaccharide core biosynthesis protein RfaG
+1_3683	putative lipopolysaccharide heptosyltransferase III
+1_3684	3-Deoxy-D-manno-octulosonic-acid transferase (kdotransferase)
+1_3685	pantetheine-phosphate adenylyltransferase
+1_3686	DNA-formamidopyrimidine glycosylase
+1_3687	Hypothetical Protein
+1_3688	Hypothetical Protein
+1_3689	DNA repair protein RadC
+1_3690	phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase
+1_3691	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+1_3692	Nucleoid occlusion factor SlmA {ECO:0000255|HAMAP-Rule:MF_01839}
+1_3693	orotate phosphoribosyltransferase
+1_3694	ribonuclease PH
+1_3695	TIGR00255 family protein
+1_3696	DNA damage-inducible protein D
+1_3697	UPF0126 inner membrane protein YicG
+1_3698	NAD-dependent DNA ligase adenylation domain
+1_3699	guanylate kinase
+1_3700	Hypothetical Protein
+1_3701	RelA/SpoT family protein
+1_3702	tRNA (guanosine(18)-2'-O)-methyltransferase {ECO:0000255|HAMAP-Rule:MF_02060}
+1_3703	ATP-dependent DNA helicase RecG
+1_3704	sodium/glutamate symporter
+1_3705	uracil-xanthine permease
+1_3706	AsmA family
+1_3707	Glycosyl hydrolases family 31
+1_3708	sugar (Glycoside-Pentoside-Hexuronide) transporter
+1_3709	sugar efflux transporter
+1_3710	carboxylate/amino acid/amine transporter
+1_3711	lipoprotein, YaeC family
+1_3712	Uncharacterized protein YicS
+1_3713	Purine ribonucleoside efflux pump NepI
+1_3714	Protein of unknown function (DUF1198)
+1_3715	Adenine permease AdeQ
+1_3716	adenine deaminase
+1_3717	phosphoglycerate transporter family protein
+1_3718	phosphoglycerate transporter family protein
+1_3719	MASE1
+1_3720	Transcriptional regulatory protein UhpA {ECO:0000250|UniProtKB:P0AGA6}
+1_3721	Acetolactate synthase isozyme 1 small subunit
+1_3722	acetolactate synthase, large subunit, biosynthetic type
+1_3723	Putative transmembrane protein
+1_3724	Multidrug resistance protein D
+1_3725	Uncharacterized protein YidF
+1_3726	Inner membrane protein YidG
+1_3727	Inner membrane protein YidH
+1_3728	Inner membrane protein YidI
+1_3729	Sulfatase
+1_3730	sodium symporter (SSS) family
+1_3731	Uncharacterized HTH-type transcriptional regulator YidL
+1_3732	Hypothetical Protein
+1_3733	Family 4 glycosyl hydrolase
+1_3734	Phosphotransferase enzyme IIB component GlvB
+1_3735	PTS system, alpha-glucoside-specific IIBC component
+1_3736	Uncharacterized HTH-type transcriptional regulator YidP
+1_3737	Predicted Permease Membrane Region
+1_3738	Small heat shock protein IbpB {ECO:0000255|HAMAP-Rule:MF_02001}
+1_3739	Small heat shock protein IbpA {ECO:0000255|HAMAP-Rule:MF_02000}
+1_3740	Hypothetical Protein
+1_3741	Protein of unknown function (DUF3748)
+1_3742	Protein CbrA
+1_3743	D-galactonate transporter
+1_3744	D-galactonate dehydratase {ECO:0000255|HAMAP-Rule:MF_01289}
+1_3745	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+1_3746	2-keto-3-deoxy-galactonokinase
+1_3747	Galactonate operon transcriptional repressor
+1_3748	Uncharacterized protein YidX
+1_3749	Cof-like hydrolase
+1_3750	Uncharacterized protein YidB
+1_3751	DNA gyrase, B subunit
+1_3752	DNA replication and repair protein RecF
+1_3753	DNA polymerase III, beta subunit
+1_3754	chromosomal replication initiator protein DnaA
+1_3755	Hypothetical Protein
+1_3756	Ribonuclease P protein component {ECO:0000255|HAMAP-Rule:MF_00227}
+1_3757	membrane protein insertase, YidC/Oxa1 family, N-terminal domain
+1_3758	tRNA modification GTPase TrmE
+1_3759	tryptophanase
+1_3760	aromatic amino acid transport protein
+1_3761	Multidrug resistance protein MdtL {ECO:0000255|HAMAP-Rule:MF_01530}
+1_3762	HTH-type transcriptional regulator YidZ {ECO:0000255|HAMAP-Rule:MF_01607}
+1_3763	Uncharacterized protein YieE
+1_3764	Quinone reductase {ECO:0000250|UniProtKB:P0AGE6}
+1_3765	Adenine permease AdeP
+1_3766	6-phosphogluconate phosphatase
+1_3767	Inner membrane protein CbrB
+1_3768	Uncharacterised protein family (UPF0167)
+1_3769	Uncharacterized protein YieK
+1_3770	Uncharacterized protein YieL
+1_3771	LamB porin
+1_3772	Glycosyl hydrolase family 1
+1_3773	PTS system, beta-glucoside-specific IIABC component
+1_3774	Cryptic beta-glucoside bgl operon antiterminator
+1_3775	phosphate transport system regulatory protein PhoU
+1_3776	phosphate ABC transporter, ATP-binding protein
+1_3777	phosphate ABC transporter, permease protein PstA
+1_3778	phosphate ABC transporter, permease protein PstC
+1_3779	phosphate ABC transporter, phosphate-binding protein PstS
+1_3780	glutamine-fructose-6-phosphate transaminase (isomerizing)
+1_3781	UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase
+1_3782	ATP synthase epsilon chain
+1_3783	ATP synthase F1, beta subunit
+1_3784	ATP synthase F1, gamma subunit
+1_3785	ATP synthase F1, alpha subunit
+1_3786	ATP synthase F1, delta subunit
+1_3787	ATP synthase F0, B subunit
+1_3788	Putative transmembrane protein
+1_3789	ATP synthase A chain
+1_3790	ATP synthase protein I
+1_3791	rRNA small subunit methyltransferase G
+1_3792	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+1_3793	Protein MioC
+1_3794	Regulatory protein AsnC
+1_3795	aspartate--ammonia ligase
+1_3796	Protein ViaA
+1_3797	ATPase RavA {ECO:0000255|HAMAP-Rule:MF_01625}
+1_3798	potassium uptake protein
+1_3799	D-ribose pyranase
+1_3800	ABC transporter
+1_3801	Branched-chain amino acid transport system / permease component
+1_3802	Periplasmic binding protein domain
+1_3803	ribokinase
+1_3804	Ribose operon repressor
+1_3805	Transposase InsD for insertion element IS2-12
+1_3806	Transposase InsC for insertion element IS2F
+1_3807	Hypothetical Protein
+1_3808	H+ antiporter-2 (14 Spanner) (DHA2) family
+1_3809	Uncharacterized HTH-type transcriptional regulator YieP
+1_3810	Hypothetical Protein
+1_3811	HTH-type transcriptional regulator HdfR {ECO:0000255|HAMAP-Rule:MF_01233}
+1_3812	UPF0438 protein YifE
+1_3813	Mg chelatase-like protein
+1_3814	Hypothetical Protein
+1_3815	Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+1_3816	Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+1_3817	Hypothetical Protein
+1_3818	branched-chain amino acid aminotransferase
+1_3819	dihydroxy-acid dehydratase
+1_3820	threonine ammonia-lyase, biosynthetic
+1_3821	HTH-type transcriptional regulator IlvY
+1_3822	ketol-acid reductoisomerase
+1_3823	Peptidyl-prolyl cis-trans isomerase C
+1_3824	Hypothetical Protein
+1_3825	ATP-dependent DNA helicase Rep
+1_3826	Ppx/GppA phosphatase family
+1_3827	ATP-dependent RNA helicase RhlB {ECO:0000255|HAMAP-Rule:MF_00661}
+1_3828	Thioredoxin 1
+1_3829	transcription termination factor Rho
+1_3830	Putative transmembrane protein
+1_3831	undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphatetransferase
+1_3832	ECA polysaccharide chain length modulation protein {ECO:0000255|HAMAP-Rule:MF_02025}
+1_3833	UDP-N-acetylglucosamine 2-epimerase
+1_3834	nucleotide sugar dehydrogenase
+1_3835	dTDP-glucose 4,6-dehydratase
+1_3836	glucose-1-phosphate thymidylyltransferase
+1_3837	TDP-D-fucosamine acetyltransferase
+1_3838	TDP-4-keto-6-deoxy-D-glucose transaminase
+1_3839	Lipid III flippase {ECO:0000255|HAMAP-Rule:MF_02024, ECO:0000305}
+1_3840	4-alpha-L-fucosyltransferase glycosyl transferase group 56
+1_3841	WzyE protein
+1_3842	glycosyltransferase, WecB/TagA/CpsF family
+1_3843	Amino acid permease
+1_3844	anaerobic sulfatase maturase
+1_3845	Sulfatase
+1_3846	heme biosynthesis-associated TPR protein
+1_3847	HemX
+1_3848	Uroporphyrinogen-III synthase
+1_3849	hydroxymethylbilane synthase
+1_3850	Adenylate cyclase, class-I
+1_3851	Iron-sulfur cluster assembly protein CyaY {ECO:0000255|HAMAP-Rule:MF_00142}
+1_3852	Putative transmembrane protein
+1_3853	diaminopimelate epimerase
+1_3854	Protein of unknown function, DUF484
+1_3855	Hypothetical Protein
+1_3856	tyrosine recombinase XerC
+1_3857	Flavin mononucleotide phosphatase YigB
+1_3858	DNA helicase II
+1_3859	Uncharacterized protein YigE
+1_3860	magnesium and cobalt transport protein CorA
+1_3861	Uncharacterized protein YigF
+1_3862	Inner membrane protein YigG
+1_3863	protein RarD
+1_3864	Uncharacterized protein YigI
+1_3865	Phospholipase A1
+1_3866	ATP-dependent DNA helicase RecQ
+1_3867	homoserine/Threonine efflux protein
+1_3868	homoserine/Threonine efflux protein
+1_3869	Lysophospholipase L2
+1_3870	Cof-like hydrolase
+1_3871	carboxylate/amino acid/amine transporter
+1_3872	HTH-type transcriptional regulator MetR
+1_3873	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+1_3874	Dienelactone hydrolase family
+1_3875	uridine phosphorylase
+1_3876	RmuC family
+1_3877	ubiE/COQ5 methyltransferase family
+1_3878	Ubiquinone biosynthesis accessory factor UbiJ {ECO:0000255|HAMAP-Rule:MF_02215, ECO:0000305}
+1_3879	2-polyprenylphenol 6-hydroxylase
+1_3880	Putative transmembrane protein
+1_3881	Sec-independent protein translocase protein TatB {ECO:0000255|HAMAP-Rule:MF_00237}
+1_3882	twin arginine-targeting protein translocase TatC
+1_3883	TatD related DNase
+1_3884	transcription elongation factor/antiterminator RfaH
+1_3885	decarboxylase, UbiD family
+1_3886	NAD(P)H-flavin reductase
+1_3887	acetyl-CoA C-acyltransferase FadA
+1_3888	fatty oxidation complex, alpha subunit FadB
+1_3889	Xaa-Pro dipeptidase {ECO:0000255|HAMAP-Rule:MF_01279}
+1_3890	uncharacterized protein, YigZ family
+1_3891	potassium uptake protein, TrkH family
+1_3892	Flavodoxin domain
+1_3893	Hypothetical Protein
+1_3894	Molybdopterin-guanine dinucleotide biosynthesis adapter protein
+1_3895	molybdenum cofactor guanylyltransferase
+1_3896	Hypothetical Protein
+1_3897	Stress response kinase A {ECO:0000255|HAMAP-Rule:MF_01497}
+1_3898	Thiol:disulfide interchange protein DsbA
+1_3899	Bacterial protein of unknown function (DUF945)
+1_3900	Probable acyltransferase YihG
+1_3901	Putative transmembrane protein
+1_3902	DNA polymerase I
+1_3903	ribosome biogenesis GTP-binding protein YsxC
+1_3904	Der GTPase activator (YihI)
+1_3905	oxygen-independent coproporphyrinogen III oxidase
+1_3906	Hypothetical Protein
+1_3907	nitrogen regulation protein NR(I)
+1_3908	Sensory histidine kinase/phosphatase NtrB {ECO:0000250|UniProtKB:P0AFB5}
+1_3909	glutamine synthetase, type I
+1_3910	GTP-binding protein TypA/BipA
+1_3911	Uncharacterized HTH-type transcriptional regulator YihL
+1_3912	Uncharacterized protein YihM
+1_3913	Inner membrane protein YihN {ECO:0000305}
+1_3914	Oligogalacturonate-specific porin protein (KdgM)
+1_3915	sugar (Glycoside-Pentoside-Hexuronide) transporter
+1_3916	sugar (Glycoside-Pentoside-Hexuronide) transporter
+1_3917	Glycosyl hydrolases family 31
+1_3918	Insertion element IS1 5 protein InsA
+1_3919	IS1 transposase
+1_3920	Aldose 1-epimerase
+1_3921	N-acylglucosamine 2-epimerase (GlcNAc 2-epimerase)
+1_3922	Sulfofructosephosphate aldolase {ECO:0000255|HAMAP-Rule:MF_01912}
+1_3923	3-sulfolactaldehyde reductase {ECO:0000255|HAMAP-Rule:MF_01913}
+1_3924	pfkB family carbohydrate kinase
+1_3925	HTH-type transcriptional repressor CsqR {ECO:0000305}
+1_3926	Alpha-D-glucose 1-phosphate phosphatase YihX
+1_3927	YihY family inner membrane protein
+1_3928	D-tyrosyl-tRNA(Tyr) deacylase
+1_3929	Probable acyltransferase FabY {ECO:0000250|UniProtKB:P0ADQ2}
+1_3930	Hypothetical Protein
+1_3931	Hypothetical Protein
+1_3932	Hypothetical Protein
+1_3933	Hypothetical Protein
+1_3934	formate dehydrogenase accessory protein FdhE
+1_3935	formate dehydrogenase, gamma subunit
+1_3936	formate dehydrogenase, beta subunit
+1_3937	formate dehydrogenase-N alpha subunit
+1_3938	Formate dehydrogenase-O major subunit
+1_3939	formate dehydrogenase family accessory protein FdhD
+1_3940	Protein of unknown function (DUF3829)
+1_3941	Putative phosphotransferase EIIA component
+1_3942	M42 glutamyl aminopeptidase
+1_3943	PTS system, Fru family, IIC component
+1_3944	PTS system fructose-like EIIA component {ECO:0000305|PubMed:8019415}
+1_3945	L-rhamnose mutarotase
+1_3946	rhamnulose-1-phosphate aldolase
+1_3947	L-rhamnose isomerase
+1_3948	rhamnulokinase
+1_3949	HTH-type transcriptional activator RhaS {ECO:0000255|HAMAP-Rule:MF_01534}
+1_3950	HTH-type transcriptional activator RhaR {ECO:0000255|HAMAP-Rule:MF_01533}
+1_3951	L-rhamnose-proton symport protein (RhaT)
+1_3952	Superoxide dismutase [Mn]
+1_3953	2-keto-3-deoxygluconate transporter
+1_3954	Protein YiiM
+1_3955	Sensor histidine kinase CpxA
+1_3956	Transcriptional regulatory protein CpxR
+1_3957	Periplasmic protein CpxP
+1_3958	cation diffusion facilitator family transporter
+1_3959	Hypothetical Protein
+1_3960	Phosphofructokinase
+1_3961	sulfate ABC transporter, sulfate-binding protein
+1_3962	CDP-diacylglycerol diphosphatase
+1_3963	triose-phosphate isomerase
+1_3964	Protein of unknown function (DUF1454)
+1_3965	Uncharacterized protein YiiR
+1_3966	UPF0381 protein YiiS
+1_3967	Universal stress protein D
+1_3968	Flavodoxin/ferredoxin--NADP reductase {ECO:0000305}
+1_3969	fructose-1,6-bisphosphatase, class II
+1_3970	glycerol kinase
+1_3971	Major intrinsic protein
+1_3972	Hypothetical Protein
+1_3973	regulator of ribonuclease activity A
+1_3974	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+1_3975	ATP-dependent protease HslVU, ATPase subunit
+1_3976	ATP-dependent protease HslVU, peptidase subunit
+1_3977	cell division protein FtsN
+1_3978	HTH-type transcriptional repressor CytR
+1_3979	primosomal protein N'
+1_3980	Hypothetical Protein
+1_3981	Uncharacterized protein YiiX
+1_3982	Met Apo-repressor, MetJ
+1_3983	O-succinylhomoserine (thiol)-lyase
+1_3984	aspartate kinase
+1_3985	Methylenetetrahydrofolate reductase
+1_3986	catalase/peroxidase HPI
+1_3987	Probable cystine transporter YijE {ECO:0000305}
+1_3988	Domain of unknown function (DUF1287)
+1_3989	Iron-containing alcohol dehydrogenase
+1_3990	fructose-6-phosphate aldolase
+1_3991	phosphoenolpyruvate-protein phosphotransferase
+1_3992	PTS system, Fru family, IIC component
+1_3993	PTS system fructose-like EIIB component 2 {ECO:0000250|UniProtKB:P20966}
+1_3994	glycyl radical enzyme, PFL2/glycerol dehydratase family
+1_3995	Pyruvate formate-lyase 2-activating enzyme
+1_3996	PTS system fructose-like EIIB component 3 {ECO:0000250|UniProtKB:P20966}
+1_3997	Uncharacterized HTH-type transcriptional regulator YijO
+1_3998	Phosphoethanolamine transferase EptC
+1_3999	Phosphoenolpyruvate carboxylase
+1_4000	acetylornithine deacetylase (ArgE)
+1_4001	N-acetyl-gamma-glutamyl-phosphate reductase
+1_4002	acetylglutamate kinase
+1_4003	argininosuccinate lyase
+1_4004	LysR substrate binding domain
+1_4005	Soluble pyridine nucleotide transhydrogenase {ECO:0000255|HAMAP-Rule:MF_00247}
+1_4006	HTH-type transcriptional repressor FabR {ECO:0000303|PubMed:11160901}
+1_4007	Protein of unknown function (DUF1422)
+1_4008	tRNA (uracil(54)-C(5))-methyltransferase
+1_4009	TonB-dependent vitamin B12 receptor
+1_4010	glutamate racemase
+1_4011	Hypothetical Protein
+1_4012	Hypothetical Protein
+1_4013	UDP-N-acetylenolpyruvoylglucosamine reductase
+1_4014	biotin--[acetyl-CoA-carboxylase] ligase
+1_4015	pantothenate kinase
+1_4016	Hypothetical Protein
+1_4017	translation elongation factor Tu
+1_4018	Protein translocase subunit SecE {ECO:0000255|HAMAP-Rule:MF_00422}
+1_4019	transcription termination/antitermination factor NusG
+1_4020	ribosomal protein L11
+1_4021	ribosomal protein L1
+1_4022	50S ribosomal protein L10 {ECO:0000255|HAMAP-Rule:MF_00362}
+1_4023	50S ribosomal protein L7/L12 {ECO:0000255|HAMAP-Rule:MF_00368}
+1_4024	DNA-directed RNA polymerase, beta subunit
+1_4025	DNA-directed RNA polymerase, beta' subunit
+1_4026	Protein YjaZ {ECO:0000303|PubMed:16980444}
+1_4027	thiazole biosynthesis protein ThiH
+1_4028	Thiazole biosynthesis protein ThiG
+1_4029	Hypothetical Protein
+1_4030	thiazole biosynthesis adenylyltransferase ThiF
+1_4031	thiamine-phosphate diphosphorylase
+1_4032	phosphomethylpyrimidine synthase
+1_4033	Regulator of sigma D {ECO:0000255|HAMAP-Rule:MF_01181}
+1_4034	NAD-capped RNA hydrolase NudC {ECO:0000255|HAMAP-Rule:MF_00297}
+1_4035	Uroporphyrinogen decarboxylase (URO-D)
+1_4036	Endonuclease V
+1_4037	Protein of unknown function (DUF416)
+1_4038	Hypothetical Protein
+1_4039	Protein of unknown function (DUF1481)
+1_4040	Zinc resistance-associated protein
+1_4041	Hypothetical Protein
+1_4042	Sensor protein ZraS
+1_4043	Sigma-54 interaction domain
+1_4044	phosphoribosylamine--glycine ligase
+1_4045	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+1_4046	Hypothetical Protein
+1_4047	Uncharacterized protein YjaA
+1_4048	Peptidyl-lysine N-acetyltransferase YjaB {ECO:0000305}
+1_4049	homoserine O-succinyltransferase
+1_4050	malate synthase A
+1_4051	isocitrate lyase
+1_4052	Isocitrate dehydrogenase kinase/phosphatase (AceK)
+1_4053	ShET2 enterotoxin, N-terminal region
+1_4054	Transcriptional repressor IclR {ECO:0000305}
+1_4055	methionine synthase
+1_4056	sodium-dependent inorganic phosphate (Pi) transporter
+1_4057	Peptidase E {ECO:0000255|HAMAP-Rule:MF_00510}
+1_4058	pseudouridine synthase
+1_4059	Hypothetical Protein
+1_4060	aspartate kinase, monofunctional class
+1_4061	Phosphoglucose isomerase
+1_4062	Hypothetical Protein
+1_4063	Group 4 capsule polysaccharide formation lipoprotein gfcB
+1_4064	Capsule biosynthesis GfcC
+1_4065	Bacterial putative lipoprotein (DUF940)
+1_4066	Protein PsiE {ECO:0000255|HAMAP-Rule:MF_01048}
+1_4067	MFS transporter, sugar porter (SP) family
+1_4068	Maltose/maltodextrin transport system permease protein MalG {ECO:0000305}
+1_4069	Maltose transport system permease protein MalF P2 domain
+1_4070	Maltose/maltodextrin-binding periplasmic protein {ECO:0000305}
+1_4071	Hypothetical Protein
+1_4072	Maltose/maltodextrin import ATP-binding protein MalK {ECO:0000255|HAMAP-Rule:MF_01709}
+1_4073	LamB porin
+1_4074	Maltose operon periplasmic protein
+1_4075	Hypothetical Protein
+1_4076	Hypothetical Protein
+1_4077	Putative protein YjbI
+1_4078	Chorismate pyruvate-lyase
+1_4079	4-hydroxybenzoate polyprenyl transferase
+1_4080	glycerol-3-phosphate O-acyltransferase
+1_4081	Diacylglycerol kinase {ECO:0000250|UniProtKB:P0ABN1}
+1_4082	repressor LexA
+1_4083	MATE efflux family protein
+1_4084	Hypothetical Protein
+1_4085	Zinc uptake regulation protein
+1_4086	Hypothetical Protein
+1_4087	Protein of unknown function (DUF2713)
+1_4088	tRNA dihydrouridine synthase A
+1_4089	Putative transmembrane protein
+1_4090	Quinone oxidoreductase 1
+1_4091	replicative DNA helicase
+1_4092	alanine racemase
+1_4093	Aminotransferase class I and II
+1_4094	Hypothetical Protein
+1_4095	HAD phosphatase, family IIIB
+1_4096	secondary thiamine-phosphate synthase enzyme
+1_4097	Uncharacterized protein YjbR
+1_4098	excinuclease ABC subunit A
+1_4099	single-stranded DNA-binding protein
+1_4100	Uncharacterized protein YjcB
+1_4101	EAL domain
+1_4102	Regulatory protein SoxS
+1_4103	redox-sensitive transcriptional activator SoxR
+1_4104	Permease family
+1_4105	Na+/H+ antiporter
+1_4106	Uncharacterized protein YjcF
+1_4107	cation/acetate symporter ActP
+1_4108	Inner membrane protein YjcH
+1_4109	acetate--CoA ligase
+1_4110	formate-dependent cytochrome c nitrite reductase, c552 subunit
+1_4111	Hypothetical Protein
+1_4112	Insertion element IS1 5 protein InsA
+1_4113	IS1 transposase
+1_4114	Cytochrome c-type protein NrfB
+1_4115	cytochrome c nitrite reductase, Fe-S protein
+1_4116	cytochrome c nitrite reductase, NrfD subunit
+1_4117	cytochrome c-type biogenesis protein CcmF
+1_4118	cytochrome c nitrite reductase, accessory protein NrfF
+1_4119	Formate-dependent nitrite reductase complex subunit NrfG
+1_4120	Sodium:dicarboxylate symporter family
+1_4121	Uncharacterized protein YjcO
+1_4122	formate dehydrogenase, alpha subunit
+1_4123	Formate dehydrogenase H
+1_4124	efflux transporter, outer membrane factor (OMF) lipoprotein, NodT family
+1_4125	Fusaric acid resistance protein family
+1_4126	efflux pump membrane protein
+1_4127	Uncharacterized protein YtcA
+1_4128	Alkyl sulfatase dimerisation
+1_4129	ROK family
+1_4130	Ribulose-phosphate 3 epimerase family
+1_4131	D-allose transport system permease protein AlsC
+1_4132	ABC transporter
+1_4133	Periplasmic binding protein domain
+1_4134	HTH-type transcriptional regulator RpiR
+1_4135	ribose 5-phosphate isomerase B
+1_4136	Uncharacterized protein YjdP
+1_4137	phosphonate metabolism protein PhnP
+1_4138	Aminoalkylphosphonate N-acetyltransferase {ECO:0000303|PubMed:23056305}
+1_4139	phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+1_4140	phosphonate metabolism protein PhnM
+1_4141	phosphonate C-P lyase system protein PhnL
+1_4142	phosphonate C-P lyase system protein PhnK
+1_4143	Phosphonate metabolism protein PhnJ
+1_4144	Bacterial phosphonate metabolism protein (PhnI)
+1_4145	Bacterial phosphonate metabolism protein (PhnH)
+1_4146	Phosphonate metabolism protein PhnG
+1_4147	phosphonate metabolism transcriptional regulator PhnF
+1_4148	Phosphonate transport system permease protein PhnE
+1_4149	phosphonate ABC transporter, periplasmic phosphonate binding protein
+1_4150	phosphonate ABC transporter, ATP-binding protein
+1_4151	Protein YjdN
+1_4152	putative alkylphosphonate utilization operon protein PhnA
+1_4153	Clamp-binding protein CrfC
+1_4154	YjcZ-like protein
+1_4155	H+ symporter (MHS) family protein
+1_4156	Putative transmembrane protein
+1_4157	Sensor protein BasS
+1_4158	Transcriptional regulatory protein BasR
+1_4159	Sulfatase
+1_4160	Amino acid permease
+1_4161	HTH-type transcriptional regulator AdiY
+1_4162	Orn/Lys/Arg decarboxylase, major domain
+1_4163	Melibiose operon regulatory protein
+1_4164	Family 4 glycosyl hydrolase C-terminal domain
+1_4165	sugar (Glycoside-Pentoside-Hexuronide) transporter
+1_4166	Predicted membrane protein (DUF2238)
+1_4167	Fumarate hydratase (Fumerase)
+1_4168	transporter, anaerobic C4-dicarboxylate uptake (Dcu) family
+1_4169	Transcriptional regulatory protein DcuR
+1_4170	Sensor histidine kinase DcuS
+1_4171	Hypothetical Protein
+1_4172	Uncharacterized protein YjdJ
+1_4173	Endoribonuclease antitoxin GhoS {ECO:0000305}
+1_4174	Putative transmembrane protein
+1_4175	lysine--tRNA ligase
+1_4176	H+ symporter)
+1_4177	Orn/Lys/Arg decarboxylase, major domain
+1_4178	transporter, basic amino acid/polyamine antiporter (APA) family
+1_4179	Transcriptional activator CadC
+1_4180	HTH-type transcriptional regulator YjdC
+1_4181	Thiol:disulfide interchange protein DsbD {ECO:0000255|HAMAP-Rule:MF_00399}
+1_4182	Divalent-cation tolerance protein CutA {ECO:0000255|HAMAP-Rule:MF_01160}
+1_4183	transporter, anaerobic C4-dicarboxylate uptake (Dcu) family
+1_4184	aspartate ammonia-lyase
+1_4185	UPF0716 protein FxsA
+1_4186	L-methionine/branched-chain amino acid exporter YjeH {ECO:0000305}
+1_4187	Co-chaperonin GroES {ECO:0000255|HAMAP-Rule:MF_00580}
+1_4188	chaperonin GroL
+1_4189	Uncharacterized protein YjeI
+1_4190	Uncharacterized protein YjeJ
+1_4191	EF-P beta-lysylation protein EpmB
+1_4192	translation elongation factor P
+1_4193	Hypothetical Protein
+1_4194	Putative transmembrane protein
+1_4195	Guanidinium exporter {ECO:0000303|PubMed:29507227}
+1_4196	Lipocalin-like domain
+1_4197	Beta-lactamase
+1_4198	Fumarate reductase subunit D
+1_4199	Fumarate reductase subunit C
+1_4200	succinate dehydrogenase and fumarate reductase iron-sulfur protein
+1_4201	fumarate reductase, flavoprotein subunit
+1_4202	EF-P lysine aminoacylase GenX
+1_4203	Inner membrane transporter YjeM
+1_4204	Uncharacterized protein YjeN
+1_4205	Inner membrane protein YjeO
+1_4206	Mechanosensitive ion channel inner membrane domain 1
+1_4207	phosphatidylserine decarboxylase
+1_4208	ribosome small subunit-dependent GTPase A
+1_4209	Oligoribonuclease {ECO:0000255|HAMAP-Rule:MF_00045}
+1_4210	epoxyqueuosine reductase
+1_4211	YjeF family C-terminal domain
+1_4212	tRNA threonylcarbamoyl adenosine modification protein YjeE
+1_4213	N-acetylmuramoyl-L-alanine amidase AmiB
+1_4214	DNA mismatch repair protein MutL
+1_4215	tRNA dimethylallyltransferase
+1_4216	RNA-binding protein Hfq {ECO:0000255|HAMAP-Rule:MF_00436}
+1_4217	GTP-binding protein HflX
+1_4218	HflK protein
+1_4219	HflC protein
+1_4220	Putative transmembrane protein
+1_4221	adenylosuccinate synthase
+1_4222	HTH-type transcriptional repressor NsrR {ECO:0000255|HAMAP-Rule:MF_01177}
+1_4223	VacB and RNase II family 3'-5' exoribonucleases
+1_4224	RNA methyltransferase, TrmH family, group 3
+1_4225	Uncharacterized protein YjfI
+1_4226	PspA/IM30 family
+1_4227	Protein of unknown function (DUF2491)
+1_4228	UPF0719 inner membrane protein YjfL
+1_4229	Uncharacterized protein YjfM
+1_4230	Putative acid--amine ligase YjfC
+1_4231	Putative acyl-CoA dehydrogenase AidB
+1_4232	Hypothetical Protein
+1_4233	Lipoprotein BsmA
+1_4234	Esterase YjfP
+1_4235	HTH-type transcriptional regulator UlaR {ECO:0000255|HAMAP-Rule:MF_01563}
+1_4236	Probable L-ascorbate-6-phosphate lactonase UlaG {ECO:0000255|HAMAP-Rule:MF_01266}
+1_4237	PTS system sugar-specific permease component
+1_4238	Ascorbate-specific PTS system EIIB component {ECO:0000250|UniProtKB:P69822}
+1_4239	Ascorbate-specific PTS system EIIA component {ECO:0000250|UniProtKB:P69820}
+1_4240	3-keto-L-gulonate-6-phosphate decarboxylase UlaD {ECO:0000255|HAMAP-Rule:MF_01267}
+1_4241	putative hexulose-6-phosphate isomerase
+1_4242	L-ribulose-5-phosphate 4-epimerase UlaF {ECO:0000255|HAMAP-Rule:MF_01952, ECO:0000303|PubMed:11741871}
+1_4243	Uncharacterized protein YjfY
+1_4244	30S ribosomal protein S6 {ECO:0000255|HAMAP-Rule:MF_00360}
+1_4245	Primosomal replication protein N {ECO:0000255|HAMAP-Rule:MF_00720}
+1_4246	Hypothetical Protein
+1_4247	ribosomal protein L9
+1_4248	Protein of unknown function (DUF2686)
+1_4249	Putative uncharacterized protein YtfA
+1_4250	Cell division protein YtfB {ECO:0000305}
+1_4251	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+1_4252	Amino acid permease
+1_4253	iron-sulfur cluster repair di-iron protein
+1_4254	Inner membrane protein YtfF
+1_4255	Quinone oxidoreductase 2
+1_4256	Uncharacterized HTH-type transcriptional regulator YtfH
+1_4257	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+1_4258	3'(2'),5'-bisphosphate nucleotidase
+1_4259	Uncharacterized protein YtfI
+1_4260	conserved hypothetical protein YtfJ-family, TIGR01626
+1_4261	Hypothetical Protein
+1_4262	Polyamine export protein {ECO:0000250|UniProtKB:A0A0F6BAS6}
+1_4263	peptide-methionine (S)-S-oxide reductase
+1_4264	Surface antigen
+1_4265	Family of unknown function (DUF490)
+1_4266	Gamma-glutamylcyclotransferase family protein YtfP
+1_4267	Hypothetical Protein
+1_4268	Endoribonuclease toxin ChpB
+1_4269	Inorganic pyrophosphatase
+1_4270	Galactofuranose-binding protein YtfQ {ECO:0000305}
+1_4271	ABC transporter
+1_4272	Putative transmembrane protein
+1_4273	Insertion element IS150 protein InsJ
+1_4274	Putative transposase InsK for insertion sequence element IS150
+1_4275	Galactofuranose transporter permease protein YtfT {ECO:0000305}
+1_4276	Inner membrane ABC transporter permease protein YjfF
+1_4277	Fructose-1-6-bisphosphatase
+1_4278	L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+1_4279	Protein of unknown function (DUF615)
+1_4280	Putative modulator of DNA gyrase
+1_4281	Soluble cytochrome b562
+1_4282	anaerobic ribonucleoside-triphosphate reductase activating protein
+1_4283	anaerobic ribonucleoside-triphosphate reductase
+1_4284	alpha,alpha-phosphotrehalase
+1_4285	PTS system, trehalose-specific IIBC component
+1_4286	trehalose operon repressor
+1_4287	magnesium-translocating P-type ATPase
+1_4288	reactive intermediate/imine deaminase
+1_4289	aspartate carbamoyltransferase, regulatory subunit
+1_4290	aspartate carbamoyltransferase
+1_4291	RutC family protein YjgH
+1_4292	Cyclic-di-GMP-binding biofilm dispersal mediator protein
+1_4293	HTH-type transcriptional repressor BdcR
+1_4294	YhcH/YjgK/YiaL family protein
+1_4295	Uncharacterized protein YjgL
+1_4296	ornithine carbamoyltransferase
+1_4297	Regulator of ribonuclease activity B {ECO:0000255|HAMAP-Rule:MF_01888}
+1_4298	Uncharacterized N-acetyltransferase YjgM
+1_4299	Bacterial protein of unknown function (DUF898)
+1_4300	valine--tRNA ligase
+1_4301	DNA polymerase III subunit chi
+1_4302	Cytosol aminopeptidase family, catalytic domain
+1_4303	LPS export ABC transporter permease LptF
+1_4304	LPS export ABC transporter permease LptG
+1_4305	Bacterial protein of unknown function (DUF853)
+1_4306	HTH-type transcriptional regulator IdnR
+1_4307	H+ symporter (GntP) family
+1_4308	5-keto-D-gluconate 5-reductase {ECO:0000303|PubMed:9658018}
+1_4309	L-idonate 5-dehydrogenase (NAD(P)(+))
+1_4310	carbohydrate kinase, thermoresistant glucokinase family
+1_4311	Aldehyde reductase Ahr
+1_4312	Hypothetical Protein
+1_4313	Putative protein IntB {ECO:0000305}
+1_4314	Transposase InsC for insertion element IS2F
+1_4315	Transposase InsD for insertion element IS2-12
+1_4316	Hypothetical Protein
+1_4317	Hypothetical Protein
+1_4318	Putative phosphoethanolamine transferase YjgX
+1_4319	Transposase InsG for insertion sequence element IS4
+1_4320	Sugar (and other) transporter
+1_4321	Uncharacterized oxidoreductase YjhC
+1_4322	Putative transmembrane protein
+1_4323	Hypothetical Protein
+1_4324	Hypothetical Protein
+1_4325	Transposase InsI for insertion sequence element IS30C
+1_4326	Hypothetical Protein
+1_4327	Putative transposase InsO for insertion sequence element IS911B
+1_4328	Hypothetical Protein
+1_4329	Putative protein YjhV
+1_4330	Fe(3+) dicitrate transport ATP-binding protein FecE
+1_4331	FecCD transport family
+1_4332	FecCD transport family
+1_4333	Fe(3+) dicitrate-binding periplasmic protein
+1_4334	TonB-dependent siderophore receptor
+1_4335	Protein FecR
+1_4336	Probable RNA polymerase sigma factor FecI
+1_4337	Hypothetical Protein
+1_4338	Putative sugar-binding domain
+1_4339	H+ symporter (GntP) family
+1_4340	putative dehydratase, YjhG/YagF family
+1_4341	Dihydrodipicolinate synthetase family
+1_4342	Uncharacterized HTH-type transcriptional regulator YjhI
+1_4343	Putative sgc region transcriptional regulator
+1_4344	Ribulose-phosphate 3 epimerase family
+1_4345	Putative phosphotransferase IIA component SgcA
+1_4346	membrane complex biogenesis protein, BtpA family
+1_4347	PTS system, galactitol-specific IIC component
+1_4348	Putative phosphotransferase enzyme IIB component SgcB
+1_4349	M42 glutamyl aminopeptidase
+1_4350	Uncharacterized protein YjhP
+1_4351	Uncharacterized N-acetyltransferase YjhQ
+1_4352	Hypothetical Protein
+1_4353	Putative uncharacterized protein YjhR
+1_4354	Probable 9-O-acetyl-N-acetylneuraminic acid deacetylase
+1_4355	mutatrotase, YjhT family
+1_4356	Oligogalacturonate-specific porin protein (KdgM)
+1_4357	Hypothetical Protein
+1_4358	Phosphoglycerol transferase I {ECO:0000255|HAMAP-Rule:MF_01070}
+1_4359	Uncharacterized protein YjjA
+1_4360	DNA replication protein DnaC
+1_4361	Primosomal protein 1 {ECO:0000255|HAMAP-Rule:MF_01061}
+1_4362	UPF0442 protein YjjB {ECO:0000255|HAMAP-Rule:MF_01191}
+1_4363	Protein of unknown function (DUF1212)
+1_4364	Putative transcription factor YjjQ
+1_4365	Transcriptional activator protein BglJ
+1_4366	siderophore-iron reductase FhuF
+1_4367	Putative transmembrane protein
+1_4368	Methyltransferase small domain N-terminal
+1_4369	DNA polymerase III, psi subunit
+1_4370	[Ribosomal protein S18]-alanine N-acetyltransferase {ECO:0000255|HAMAP-Rule:MF_02210}
+1_4371	noncanonical pyrimidine nucleotidase, YjjG family
+1_4372	peptide chain release factor 3
+1_4373	Osmotically-inducible protein Y
+1_4374	Putative transmembrane protein
+1_4375	Uncharacterized protein YjjU
+1_4376	TatD related DNase
+1_4377	glycine radical enzyme activase, YjjW family
+1_4378	glycine radical enzyme, YjjI family
+1_4379	deoxyribose-phosphate aldolase
+1_4380	thymidine phosphorylase
+1_4381	phosphopentomutase
+1_4382	purine nucleoside phosphorylase
+1_4383	Toxin YjjJ
+1_4384	lipoyltransferase and lipoate-protein ligase
+1_4385	Bacterial virulence factor haemolysin
+1_4386	phosphoserine phosphatase SerB
+1_4387	DNA repair protein RadA
+1_4388	nicotinamide-nucleotide adenylyltransferase
+1_4389	Hypothetical Protein
+1_4390	ATP-binding cassette protein, ChvD family
+1_4391	Soluble lytic murein transglycosylase
+1_4392	Trp operon repressor {ECO:0000255|HAMAP-Rule:MF_00475}
+1_4393	inosine/xanthosine triphosphatase
+1_4394	Probable phosphoglycerate mutase GpmB {ECO:0000255|HAMAP-Rule:MF_01040}
+1_4395	Right origin-binding protein
+1_4396	CreA protein
+1_4397	Transcriptional regulatory protein CreB
+1_4398	Sensor protein CreC
+1_4399	Inner membrane protein CreD
+1_4400	Aerobic respiration control protein ArcA
+1_4401	RNA methyltransferase, TrmH family, group 1
